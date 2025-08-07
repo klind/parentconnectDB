@@ -1,0 +1,1305 @@
+{
+  "user001": {
+    "displayName": "John Romero",
+    "email": "john.romero88@gmail.com",
+    "photoURL": "",
+    "bio": "Hi, I'm a parent of 3 children in the Salt Lake City area. Looking to connect with other families!",
+    "location": {
+      "state": "UT",
+      "city": "West Haven",
+      "zipCode": "84201"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "hZ1EICF9eMvYxBD645yf": {
+          "name": "Lillian",
+          "age": 11,
+          "gender": "female",
+          "interests": [
+            "biology",
+            "swimming",
+            "photography",
+            "robotics_advanced"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "HOddzbqdpt6ORJdnfuou": {
+          "name": "Jack",
+          "age": 3,
+          "gender": "female",
+          "interests": [
+            "chess",
+            "volunteering",
+            "3d_printing",
+            "investing",
+            "activism"
+          ],
+          "allergies": [],
+          "diagnoses": [
+            "developmental_delay"
+          ]
+        },
+        "MBfNGBqSXRisLfwXR2ny": {
+          "name": "Aiden",
+          "age": 12,
+          "gender": "male",
+          "interests": [
+            "trains",
+            "animals",
+            "activism",
+            "makeup"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-02T08:06:19.827Z",
+    "updatedAt": "2024-05-06T10:27:05.534Z"
+  },
+  "user002": {
+    "displayName": "Sarah Chen",
+    "email": "sarah.chen92@yahoo.com",
+    "photoURL": "",
+    "bio": "Mom of two amazing kids in Salt Lake City. Love hiking, cooking, and finding new family activities!",
+    "location": {
+      "state": "UT",
+      "city": "Salt Lake City",
+      "zipCode": "84102"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": false,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "4mnC7WbKxWuJAsk6EXSS": {
+          "name": "Emma",
+          "age": 8,
+          "gender": "female",
+          "interests": [
+            "art",
+            "dancing",
+            "reading",
+            "baking"
+          ],
+          "allergies": [
+            "peanuts"
+          ],
+          "diagnoses": []
+        },
+        "5UR3tMk8BDu7DsZ9muXz": {
+          "name": "Lucas",
+          "age": 5,
+          "gender": "male",
+          "interests": [
+            "building_blocks",
+            "cars",
+            "coloring",
+            "animals"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-01-15T14:22:33.456Z",
+    "updatedAt": "2024-05-08T09:15:22.789Z"
+  },
+  "user003": {
+    "displayName": "Michael Rodriguez",
+    "email": "mike.rodriguez@gmail.com",
+    "photoURL": "",
+    "bio": "Single dad raising my daughter in the Salt Lake Valley. Always looking for fun weekend activities!",
+    "location": {
+      "state": "UT",
+      "city": "West Valley City",
+      "zipCode": "84119"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": false,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": false,
+        "showChildren": true,
+        "showLocation": false
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "DgTlBpj2YVIaQDgE9Pzl": {
+          "name": "Sophia",
+          "age": 9,
+          "gender": "female",
+          "interests": [
+            "soccer",
+            "piano",
+            "science_experiments",
+            "yoga"
+          ],
+          "allergies": [
+            "dairy"
+          ],
+          "diagnoses": [
+            "asthma"
+          ]
+        }
+      }
+    },
+    "createdAt": "2024-03-10T11:45:12.123Z",
+    "updatedAt": "2024-05-07T16:30:45.678Z"
+  },
+  "user004": {
+    "displayName": "Jennifer Thompson",
+    "email": "jen.thompson@outlook.com",
+    "photoURL": "",
+    "bio": "Working mom of three in Sandy. Balancing career and family life while exploring Utah's beautiful outdoors!",
+    "location": {
+      "state": "UT",
+      "city": "Sandy",
+      "zipCode": "84070"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": true,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "lbIT44AYdWT4qLatzBWv": {
+          "name": "Noah",
+          "age": 14,
+          "gender": "male",
+          "interests": [
+            "basketball",
+            "coding",
+            "guitar",
+            "hiking"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "gwEclK1mA2L4eouZUvHW": {
+          "name": "Ava",
+          "age": 11,
+          "gender": "female",
+          "interests": [
+            "gymnastics",
+            "painting",
+            "swimming",
+            "reading"
+          ],
+          "allergies": [
+            "eggs"
+          ],
+          "diagnoses": []
+        },
+        "08sYVazEFh8r1ohRNfyw": {
+          "name": "Ethan",
+          "age": 6,
+          "gender": "male",
+          "interests": [
+            "baseball",
+            "legos",
+            "dinosaurs",
+            "drawing"
+          ],
+          "allergies": [],
+          "diagnoses": [
+            "adhd"
+          ]
+        }
+      }
+    },
+    "createdAt": "2024-01-28T09:12:45.234Z",
+    "updatedAt": "2024-05-09T13:45:12.345Z"
+  },
+  "user005": {
+    "displayName": "David Kim",
+    "email": "david.kim87@gmail.com",
+    "photoURL": "",
+    "bio": "Dad of twins in Murray. Love finding educational activities and connecting with other parents!",
+    "location": {
+      "state": "UT",
+      "city": "Murray",
+      "zipCode": "84107"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": false,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "SgDHlhre0uIRQYzVz5RT": {
+          "name": "Mia",
+          "age": 7,
+          "gender": "female",
+          "interests": [
+            "ballet",
+            "art",
+            "piano",
+            "reading"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "nPRGosKUrA6VG1dDOG5L": {
+          "name": "Zoe",
+          "age": 7,
+          "gender": "female",
+          "interests": [
+            "soccer",
+            "science_experiments",
+            "dancing",
+            "animals"
+          ],
+          "allergies": [
+            "tree_nuts"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-14T16:33:22.567Z",
+    "updatedAt": "2024-05-05T10:20:15.890Z"
+  },
+  "user006": {
+    "displayName": "Amanda Wilson",
+    "email": "amanda.wilson@yahoo.com",
+    "photoURL": "",
+    "bio": "Mom of four in South Jordan. Always on the lookout for family-friendly events and activities!",
+    "location": {
+      "state": "UT",
+      "city": "South Jordan",
+      "zipCode": "84095"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": true,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "NtHdrmWvG2bZMJZbI6lg": {
+          "name": "James",
+          "age": 16,
+          "gender": "male",
+          "interests": [
+            "football",
+            "weightlifting",
+            "gaming",
+            "music_production"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "8025DkmWePVM2YDF3fBm": {
+          "name": "Olivia",
+          "age": 13,
+          "gender": "female",
+          "interests": [
+            "volleyball",
+            "photography",
+            "baking",
+            "yoga"
+          ],
+          "allergies": [
+            "gluten"
+          ],
+          "diagnoses": []
+        },
+        "XVrnUOBy0luV1vxasIYz": {
+          "name": "William",
+          "age": 10,
+          "gender": "male",
+          "interests": [
+            "basketball",
+            "coding",
+            "chess",
+            "hiking"
+          ],
+          "allergies": [],
+          "diagnoses": [
+            "dyslexia"
+          ]
+        },
+        "Cm8h24KsdcVgXKrs3mmY": {
+          "name": "Charlotte",
+          "age": 4,
+          "gender": "female",
+          "interests": [
+            "dancing",
+            "coloring",
+            "building_blocks",
+            "animals"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-01-05T12:15:30.123Z",
+    "updatedAt": "2024-05-10T14:25:40.567Z"
+  },
+  "user007": {
+    "displayName": "Robert Johnson",
+    "email": "rob.johnson@gmail.com",
+    "photoURL": "",
+    "bio": "Dad of two in Draper. Love skiing, hiking, and finding new adventures with my kids!",
+    "location": {
+      "state": "UT",
+      "city": "Draper",
+      "zipCode": "84020"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "tnmjecReDcyUxsbMUD0n": {
+          "name": "Benjamin",
+          "age": 12,
+          "gender": "male",
+          "interests": [
+            "skiing",
+            "mountain_biking",
+            "rock_climbing",
+            "astronomy"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "V59t9bmKagwVoTScc21r": {
+          "name": "Isabella",
+          "age": 8,
+          "gender": "female",
+          "interests": [
+            "gymnastics",
+            "art",
+            "swimming",
+            "reading"
+          ],
+          "allergies": [
+            "bees"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-20T08:45:15.789Z",
+    "updatedAt": "2024-05-08T17:10:25.432Z"
+  },
+  "user008": {
+    "displayName": "Lisa Martinez",
+    "email": "lisa.martinez@outlook.com",
+    "photoURL": "",
+    "bio": "Single mom in Taylorsville. Looking for support and fun activities for my special needs child.",
+    "location": {
+      "state": "UT",
+      "city": "Taylorsville",
+      "zipCode": "84123"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": false,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": false,
+        "profileVisibility": "friends",
+        "shareActivityData": false,
+        "showChildren": true,
+        "showLocation": false
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "HrUi6b804b7R0yfe9uS8": {
+          "name": "Daniel",
+          "age": 6,
+          "gender": "male",
+          "interests": [
+            "trains",
+            "animals",
+            "music",
+            "swimming"
+          ],
+          "allergies": [
+            "dairy",
+            "eggs"
+          ],
+          "diagnoses": [
+            "autism_spectrum_disorder",
+            "sensory_processing_disorder"
+          ]
+        }
+      }
+    },
+    "createdAt": "2024-03-05T13:20:45.678Z",
+    "updatedAt": "2024-05-09T11:35:18.901Z"
+  },
+  "user009": {
+    "displayName": "Christopher Davis",
+    "email": "chris.davis@gmail.com",
+    "photoURL": "",
+    "bio": "Dad of three in Riverton. Love coaching youth sports and connecting with other sports families!",
+    "location": {
+      "state": "UT",
+      "city": "Riverton",
+      "zipCode": "84065"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": true,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "HccoFmjXPYg1U8x8xnKj": {
+          "name": "Alexander",
+          "age": 15,
+          "gender": "male",
+          "interests": [
+            "football",
+            "basketball",
+            "weightlifting",
+            "leadership"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "DUNJLwdTf8sjBNVB2GEd": {
+          "name": "Victoria",
+          "age": 12,
+          "gender": "female",
+          "interests": [
+            "soccer",
+            "volleyball",
+            "dancing",
+            "photography"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "DBVoRppcMxT3mO2EKzWz": {
+          "name": "Nathan",
+          "age": 9,
+          "gender": "male",
+          "interests": [
+            "baseball",
+            "swimming",
+            "chess",
+            "coding"
+          ],
+          "allergies": [
+            "peanuts"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-01-18T10:30:22.345Z",
+    "updatedAt": "2024-05-07T15:45:30.123Z"
+  },
+  "user010": {
+    "displayName": "Maria Garcia",
+    "email": "maria.garcia@yahoo.com",
+    "photoURL": "",
+    "bio": "Mom of two in Herriman. Passionate about cultural education and bilingual parenting!",
+    "location": {
+      "state": "UT",
+      "city": "Herriman",
+      "zipCode": "84096"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "Ptf2f63QP11bgCsbSTi4": {
+          "name": "Sofia",
+          "age": 10,
+          "gender": "female",
+          "interests": [
+            "dancing",
+            "piano",
+            "art",
+            "cooking"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "YyQAM9BYnJI1NxU9J630": {
+          "name": "Diego",
+          "age": 7,
+          "gender": "male",
+          "interests": [
+            "soccer",
+            "music",
+            "animals",
+            "building_blocks"
+          ],
+          "allergies": [
+            "tree_nuts"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-08T14:15:40.567Z",
+    "updatedAt": "2024-05-06T12:30:45.789Z"
+  },
+  "user011": {
+    "displayName": "Kevin Anderson",
+    "email": "kevin.anderson@gmail.com",
+    "photoURL": "",
+    "bio": "Dad in Midvale. Love finding educational resources and STEM activities for my kids!",
+    "location": {
+      "state": "UT",
+      "city": "Midvale",
+      "zipCode": "84047"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": false,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "UEJvvQB64B1rEwWfI82A": {
+          "name": "Madison",
+          "age": 13,
+          "gender": "female",
+          "interests": [
+            "robotics_advanced",
+            "coding",
+            "chemistry",
+            "astronomy"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "6aDMtVmW1FTKB0pjJd5E": {
+          "name": "Ryan",
+          "age": 11,
+          "gender": "male",
+          "interests": [
+            "3d_printing",
+            "engineering",
+            "chess",
+            "hiking"
+          ],
+          "allergies": [],
+          "diagnoses": [
+            "adhd"
+          ]
+        },
+        "IU3Q4g2zTHGaGhUGj2AH": {
+          "name": "Grace",
+          "age": 5,
+          "gender": "female",
+          "interests": [
+            "building_blocks",
+            "art",
+            "animals",
+            "dancing"
+          ],
+          "allergies": [
+            "eggs"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-01-25T09:45:12.890Z",
+    "updatedAt": "2024-05-10T16:20:35.234Z"
+  },
+  "user012": {
+    "displayName": "Jessica Taylor",
+    "email": "jessica.taylor@outlook.com",
+    "photoURL": "",
+    "bio": "Mom in Cottonwood Heights. Love outdoor activities and connecting with nature-loving families!",
+    "location": {
+      "state": "UT",
+      "city": "Cottonwood Heights",
+      "zipCode": "84121"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "rv5G8rklnHooVY11WtoA": {
+          "name": "Ethan",
+          "age": 14,
+          "gender": "male",
+          "interests": [
+            "mountain_biking",
+            "rock_climbing",
+            "skiing",
+            "photography"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "BrgAKihl60AmpLTIbW6I": {
+          "name": "Hannah",
+          "age": 11,
+          "gender": "female",
+          "interests": [
+            "hiking",
+            "art",
+            "swimming",
+            "animals"
+          ],
+          "allergies": [
+            "bees"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-12T11:20:33.456Z",
+    "updatedAt": "2024-05-08T13:55:22.678Z"
+  },
+  "user013": {
+    "displayName": "Thomas Brown",
+    "email": "thomas.brown@gmail.com",
+    "photoURL": "",
+    "bio": "Dad in Holladay. Passionate about music education and finding creative outlets for my kids!",
+    "location": {
+      "state": "UT",
+      "city": "Holladay",
+      "zipCode": "84117"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": false,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": false,
+        "profileVisibility": "friends",
+        "shareActivityData": false,
+        "showChildren": true,
+        "showLocation": false
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "M1cWPzPqf7QLrbfU1OK4": {
+          "name": "Lily",
+          "age": 12,
+          "gender": "female",
+          "interests": [
+            "piano",
+            "violin",
+            "singing",
+            "art"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "4zAzochzZd5DbytIwaP7": {
+          "name": "Owen",
+          "age": 9,
+          "gender": "male",
+          "interests": [
+            "guitar",
+            "drums",
+            "music_production",
+            "dancing"
+          ],
+          "allergies": [
+            "dairy"
+          ],
+          "diagnoses": []
+        },
+        "5wjqAFxZRKIZHlev3cYb": {
+          "name": "Chloe",
+          "age": 6,
+          "gender": "female",
+          "interests": [
+            "ukulele",
+            "singing",
+            "coloring",
+            "animals"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-03-01T15:10:45.123Z",
+    "updatedAt": "2024-05-09T10:25:40.567Z"
+  },
+  "user014": {
+    "displayName": "Rachel Green",
+    "email": "rachel.green@yahoo.com",
+    "photoURL": "",
+    "bio": "Mom in Kearns. Love finding affordable family activities and connecting with other budget-conscious parents!",
+    "location": {
+      "state": "UT",
+      "city": "Kearns",
+      "zipCode": "84118"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": true,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "mlHV3mFxO1lX4hxknIEv": {
+          "name": "Mason",
+          "age": 10,
+          "gender": "male",
+          "interests": [
+            "basketball",
+            "swimming",
+            "reading",
+            "chess"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "gjTvFvM6gaiG0RQLnJcp": {
+          "name": "Zoe",
+          "age": 7,
+          "gender": "female",
+          "interests": [
+            "dancing",
+            "art",
+            "animals",
+            "baking"
+          ],
+          "allergies": [
+            "peanuts"
+          ],
+          "diagnoses": []
+        },
+        "eZX8Ugh0dDOVoqFgRW2C": {
+          "name": "Caleb",
+          "age": 4,
+          "gender": "male",
+          "interests": [
+            "building_blocks",
+            "cars",
+            "coloring",
+            "animals"
+          ],
+          "allergies": [],
+          "diagnoses": [
+            "speech_delay"
+          ]
+        }
+      }
+    },
+    "createdAt": "2024-01-30T12:45:18.789Z",
+    "updatedAt": "2024-05-07T14:30:25.901Z"
+  },
+  "user015": {
+    "displayName": "Daniel White",
+    "email": "daniel.white@gmail.com",
+    "photoURL": "",
+    "bio": "Dad in Magna. Love sports and finding athletic opportunities for my kids!",
+    "location": {
+      "state": "UT",
+      "city": "Magna",
+      "zipCode": "84044"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "AzMfkfLZVhwzwORArX5s": {
+          "name": "Aiden",
+          "age": 13,
+          "gender": "male",
+          "interests": [
+            "football",
+            "basketball",
+            "baseball",
+            "weightlifting"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "bSb2xCTjY3KrC7rGD6Xx": {
+          "name": "Scarlett",
+          "age": 10,
+          "gender": "female",
+          "interests": [
+            "soccer",
+            "gymnastics",
+            "swimming",
+            "volleyball"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-05T16:30:45.234Z",
+    "updatedAt": "2024-05-08T11:15:35.678Z"
+  },
+  "user016": {
+    "displayName": "Nicole Adams",
+    "email": "nicole.adams@outlook.com",
+    "photoURL": "",
+    "bio": "Mom in West Jordan. Passionate about special needs advocacy and inclusive activities!",
+    "location": {
+      "state": "UT",
+      "city": "West Jordan",
+      "zipCode": "84081"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": false,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": false,
+        "profileVisibility": "friends",
+        "shareActivityData": false,
+        "showChildren": true,
+        "showLocation": false
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "OD3PNv39T6zbbLYtmLSf": {
+          "name": "Jackson",
+          "age": 8,
+          "gender": "male",
+          "interests": [
+            "swimming",
+            "music",
+            "animals",
+            "art"
+          ],
+          "allergies": [
+            "dairy",
+            "eggs"
+          ],
+          "diagnoses": [
+            "cerebral_palsy",
+            "developmental_delay"
+          ]
+        },
+        "pw9x2CPG9rGhJyrC18yy": {
+          "name": "Aria",
+          "age": 5,
+          "gender": "female",
+          "interests": [
+            "dancing",
+            "coloring",
+            "animals",
+            "music"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-01-12T10:20:15.567Z",
+    "updatedAt": "2024-05-10T15:40:30.123Z"
+  },
+  "user017": {
+    "displayName": "Andrew Clark",
+    "email": "andrew.clark@gmail.com",
+    "photoURL": "",
+    "bio": "Dad in Bountiful. Love hiking, camping, and outdoor adventures with my family!",
+    "location": {
+      "state": "UT",
+      "city": "Bountiful",
+      "zipCode": "84010"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": true,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "Ezqb9lhE9lvv9ZsiIoG9": {
+          "name": "Liam",
+          "age": 11,
+          "gender": "male",
+          "interests": [
+            "hiking",
+            "camping",
+            "fishing",
+            "rock_climbing"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "yLO2Xe3iucvLksKbyfV2": {
+          "name": "Nora",
+          "age": 8,
+          "gender": "female",
+          "interests": [
+            "hiking",
+            "animals",
+            "art",
+            "swimming"
+          ],
+          "allergies": [
+            "bees"
+          ],
+          "diagnoses": []
+        },
+        "a2T2z0O7Ucr9JitbDKm0": {
+          "name": "Finn",
+          "age": 5,
+          "gender": "male",
+          "interests": [
+            "animals",
+            "building_blocks",
+            "hiking",
+            "coloring"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-18T13:15:30.890Z",
+    "updatedAt": "2024-05-06T17:25:45.234Z"
+  },
+  "user018": {
+    "displayName": "Stephanie Lee",
+    "email": "stephanie.lee@yahoo.com",
+    "photoURL": "",
+    "bio": "Mom in Centerville. Love finding educational activities and STEM programs for my kids!",
+    "location": {
+      "state": "UT",
+      "city": "Centerville",
+      "zipCode": "84014"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "vFNMAF1ow6ZJotQbREyO": {
+          "name": "Eva",
+          "age": 12,
+          "gender": "female",
+          "interests": [
+            "robotics_advanced",
+            "coding",
+            "chemistry",
+            "astronomy"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "D90f0oL1ogcEbdw45LRa": {
+          "name": "Leo",
+          "age": 9,
+          "gender": "male",
+          "interests": [
+            "3d_printing",
+            "engineering",
+            "chess",
+            "science_experiments"
+          ],
+          "allergies": [
+            "tree_nuts"
+          ],
+          "diagnoses": [
+            "adhd"
+          ]
+        }
+      }
+    },
+    "createdAt": "2024-01-22T08:45:12.345Z",
+    "updatedAt": "2024-05-09T12:30:20.678Z"
+  },
+  "user019": {
+    "displayName": "Matthew Hall",
+    "email": "matthew.hall@gmail.com",
+    "photoURL": "",
+    "bio": "Dad in Farmington. Love skiing, mountain biking, and outdoor sports with my kids!",
+    "location": {
+      "state": "UT",
+      "city": "Farmington",
+      "zipCode": "84025"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": true,
+        "marketingEmails": true,
+        "profileVisibility": "public",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "JTL9ScVFyOKlcA8D5Lrk": {
+          "name": "Gabriel",
+          "age": 14,
+          "gender": "male",
+          "interests": [
+            "skiing",
+            "mountain_biking",
+            "rock_climbing",
+            "weightlifting"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "rdpiDqSTqS9rgTxMnsZG": {
+          "name": "Luna",
+          "age": 11,
+          "gender": "female",
+          "interests": [
+            "skiing",
+            "hiking",
+            "photography",
+            "art"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "4yKw2nSHCGAyHRFkB5xp": {
+          "name": "Kai",
+          "age": 7,
+          "gender": "male",
+          "interests": [
+            "skiing",
+            "biking",
+            "animals",
+            "building_blocks"
+          ],
+          "allergies": [
+            "peanuts"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-25T11:30:45.678Z",
+    "updatedAt": "2024-05-07T16:15:35.901Z"
+  },
+  "user020": {
+    "displayName": "Emily Turner",
+    "email": "emily.turner@outlook.com",
+    "photoURL": "",
+    "bio": "Mom in Kaysville. Love finding creative activities and arts programs for my children!",
+    "location": {
+      "state": "UT",
+      "city": "Kaysville",
+      "zipCode": "84037"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": false,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": false,
+        "profileVisibility": "friends",
+        "shareActivityData": false,
+        "showChildren": true,
+        "showLocation": false
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "3XISj6xvMafA7hx3I5xj": {
+          "name": "Ruby",
+          "age": 10,
+          "gender": "female",
+          "interests": [
+            "art",
+            "painting",
+            "dancing",
+            "piano"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "1H51IXWQ67YKLVs8h8rA": {
+          "name": "Theo",
+          "age": 7,
+          "gender": "male",
+          "interests": [
+            "art",
+            "music",
+            "animals",
+            "building_blocks"
+          ],
+          "allergies": [
+            "dairy"
+          ],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-03-08T14:20:30.123Z",
+    "updatedAt": "2024-05-08T10:45:15.567Z"
+  }
+}

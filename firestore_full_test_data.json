@@ -1,0 +1,3283 @@
+{
+  "users": {
+    "user001": {
+      "displayName": "Alice Johnson",
+      "email": "alice@example.com",
+      "photoURL": "",
+      "bio": "Mom of two, loves outdoor activities and STEM education.",
+      "location": {
+        "zipCode": "94102"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "parenting support",
+          "playdate coordination",
+          "educational resources",
+          "activity planning"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "BhxqeN9lRwXj4ljl2esH": {
+            "name": "Emma",
+            "age": 5,
+            "gender": "female",
+            "interests": [
+              "drawing",
+              "science",
+              "swimming"
+            ],
+            "allergies": [
+              "peanuts"
+            ],
+            "specialNeeds": []
+          },
+          "AMpPLKTs5HvsITcLXaqO": {
+            "name": "Lucas",
+            "age": 3,
+            "gender": "male",
+            "interests": [
+              "trains",
+              "building blocks",
+              "music"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.5,
+      "createdAt": "2025-07-18T21:24:05.465654",
+      "updatedAt": "2025-07-18T21:24:05.465654"
+    },
+    "user002": {
+      "displayName": "Maria Rodriguez",
+      "email": "maria@example.com",
+      "photoURL": "",
+      "bio": "Single mom of a 5-year-old, passionate about community building.",
+      "location": {
+        "zipCode": "94103"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "community events",
+          "meal planning",
+          "parenting support",
+          "childcare networking"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "YfAfO41HvwO7G7fH5LhW": {
+            "name": "Sofia",
+            "age": 5,
+            "gender": "female",
+            "interests": [
+              "dancing",
+              "cooking",
+              "reading"
+            ],
+            "allergies": [
+              "dairy"
+            ],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.8,
+      "createdAt": "2025-07-18T21:25:05.465654",
+      "updatedAt": "2025-07-18T21:25:05.465654"
+    },
+    "user003": {
+      "displayName": "David Chen",
+      "email": "david@example.com",
+      "photoURL": "",
+      "bio": "Dad of twins, tech enthusiast, loves board games.",
+      "location": {
+        "zipCode": "94104"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "activity planning",
+          "screen time management",
+          "educational resources",
+          "behavior guidance"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "0otUEBpRN7kNo2q5QTFm": {
+            "name": "Alex",
+            "age": 7,
+            "gender": "male",
+            "interests": [
+              "video games",
+              "soccer",
+              "puzzles"
+            ],
+            "allergies": [
+              "shellfish"
+            ],
+            "specialNeeds": []
+          },
+          "vdOJiMtk3RZKZzIqRD8L": {
+            "name": "Maya",
+            "age": 7,
+            "gender": "female",
+            "interests": [
+              "art",
+              "swimming",
+              "reading"
+            ],
+            "allergies": [
+              "shellfish"
+            ],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.2,
+      "createdAt": "2025-07-18T21:26:05.465654",
+      "updatedAt": "2025-07-18T21:26:05.465654"
+    },
+    "user004": {
+      "displayName": "Sarah Williams",
+      "email": "sarah@example.com",
+      "photoURL": "",
+      "bio": "Working mom, loves yoga and mindfulness with kids.",
+      "location": {
+        "zipCode": "94105"
+      },
+      "preferences": {
+        "contactPermissions": false,
+        "interests": [
+          "health advice",
+          "work life balance",
+          "outdoor family activities",
+          "developmental milestones"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "Lx2XxHUhpNwgOolfOlky": {
+            "name": "Zoe",
+            "age": 4,
+            "gender": "female",
+            "interests": [
+              "yoga",
+              "animals",
+              "coloring"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          },
+          "V34wimcxWzQtj7siaB4g": {
+            "name": "Noah",
+            "age": 2,
+            "gender": "male",
+            "interests": [
+              "cars",
+              "music",
+              "dancing"
+            ],
+            "allergies": [
+              "eggs"
+            ],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.6,
+      "createdAt": "2025-07-18T21:27:05.465654",
+      "updatedAt": "2025-07-18T21:27:05.465654"
+    },
+    "user005": {
+      "displayName": "James Thompson",
+      "email": "james@example.com",
+      "photoURL": "",
+      "bio": "Stay-at-home dad, former teacher, loves educational activities.",
+      "location": {
+        "zipCode": "94107"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "educational resources",
+          "school support",
+          "developmental milestones",
+          "creative family projects"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "FwxtiVZBHMJZaIa693qE": {
+            "name": "Ethan",
+            "age": 8,
+            "gender": "male",
+            "interests": [
+              "science",
+              "math",
+              "chess"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          },
+          "812xgfs3AkgvMfHaETwz": {
+            "name": "Ava",
+            "age": 6,
+            "gender": "female",
+            "interests": [
+              "reading",
+              "painting",
+              "nature"
+            ],
+            "allergies": [
+              "tree nuts"
+            ],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.9,
+      "createdAt": "2025-07-18T21:28:05.465654",
+      "updatedAt": "2025-07-18T21:28:05.465654"
+    },
+    "user006": {
+      "displayName": "Lisa Park",
+      "email": "lisa@example.com",
+      "photoURL": "",
+      "bio": "Mom of three, Korean-American, loves cultural activities.",
+      "location": {
+        "zipCode": "94108"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "cultural education",
+          "meal planning",
+          "community events",
+          "allergy management"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "wW57JMJuO4jD4rqlU5wZ": {
+            "name": "Jin",
+            "age": 10,
+            "gender": "male",
+            "interests": [
+              "soccer",
+              "Korean language",
+              "video games"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          },
+          "dA6vwCDvq8NaQkA8AaWN": {
+            "name": "Min",
+            "age": 7,
+            "gender": "female",
+            "interests": [
+              "dance",
+              "art",
+              "cooking"
+            ],
+            "allergies": [
+              "soy"
+            ],
+            "specialNeeds": []
+          },
+          "Ce74wd7aW37HVtvrI03l": {
+            "name": "Hana",
+            "age": 4,
+            "gender": "female",
+            "interests": [
+              "singing",
+              "dolls",
+              "coloring"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.4,
+      "createdAt": "2025-07-18T21:29:05.465654",
+      "updatedAt": "2025-07-18T21:29:05.465654"
+    },
+    "user007": {
+      "displayName": "Michael Brown",
+      "email": "michael@example.com",
+      "photoURL": "",
+      "bio": "Dad of one, fitness enthusiast, loves outdoor adventures.",
+      "location": {
+        "zipCode": "94109"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "outdoor family activities",
+          "health advice",
+          "activity planning",
+          "safety education"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "dhilX7yhdlvHPnx67yks": {
+            "name": "Jake",
+            "age": 6,
+            "gender": "male",
+            "interests": [
+              "soccer",
+              "biking",
+              "rock climbing"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.3,
+      "createdAt": "2025-07-18T21:30:05.465654",
+      "updatedAt": "2025-07-18T21:30:05.465654"
+    },
+    "user008": {
+      "displayName": "Emma Davis",
+      "email": "emma@example.com",
+      "photoURL": "",
+      "bio": "Single mom, artist, loves creative activities with daughter.",
+      "location": {
+        "zipCode": "94110"
+      },
+      "preferences": {
+        "contactPermissions": false,
+        "interests": [
+          "creative family projects",
+          "activity planning",
+          "developmental milestones",
+          "work life balance"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "vwPD8ilZ8QNXxiCS3hie": {
+            "name": "Lily",
+            "age": 5,
+            "gender": "female",
+            "interests": [
+              "painting",
+              "drama",
+              "music"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.7,
+      "createdAt": "2025-07-18T21:31:05.465654",
+      "updatedAt": "2025-07-18T21:31:05.465654"
+    },
+    "user009": {
+      "displayName": "Robert Wilson",
+      "email": "robert@example.com",
+      "photoURL": "",
+      "bio": "Dad of two, engineer, loves building and construction activities.",
+      "location": {
+        "zipCode": "94111"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "educational resources",
+          "activity planning",
+          "developmental milestones",
+          "creative family projects"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "fcQ7oJBm7ih2Jn7jjjxc": {
+            "name": "Sam",
+            "age": 9,
+            "gender": "male",
+            "interests": [
+              "LEGO",
+              "robotics",
+              "woodworking"
+            ],
+            "allergies": [],
+            "specialNeeds": []
+          },
+          "zpwGR3Fwzigyt2TKe7dR": {
+            "name": "Grace",
+            "age": 7,
+            "gender": "female",
+            "interests": [
+              "building",
+              "math",
+              "gardening"
+            ],
+            "allergies": [
+              "wheat"
+            ],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.1,
+      "createdAt": "2025-07-18T21:32:05.465654",
+      "updatedAt": "2025-07-18T21:32:05.465654"
+    },
+    "user010": {
+      "displayName": "Jennifer Lee",
+      "email": "jennifer@example.com",
+      "photoURL": "",
+      "bio": "Mom of twins, pediatrician, loves health and wellness activities.",
+      "location": {
+        "zipCode": "94112"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "health advice",
+          "allergy management",
+          "meal planning",
+          "developmental milestones"
+        ]
+      },
+      "_subcollections": {
+        "children": {
+          "SHifx7UU284gAwUWfmq6": {
+            "name": "Ben",
+            "age": 4,
+            "gender": "male",
+            "interests": [
+              "sports",
+              "healthy eating",
+              "swimming"
+            ],
+            "allergies": [
+              "nuts",
+              "dairy"
+            ],
+            "specialNeeds": []
+          },
+          "mPrcpvR0UU0miyl42taj": {
+            "name": "Chloe",
+            "age": 4,
+            "gender": "female",
+            "interests": [
+              "dancing",
+              "yoga",
+              "cooking"
+            ],
+            "allergies": [
+              "nuts",
+              "dairy"
+            ],
+            "specialNeeds": []
+          }
+        }
+      },
+      "trustScore": 4.8,
+      "createdAt": "2025-07-18T21:33:05.465654",
+      "updatedAt": "2025-07-18T21:33:05.465654"
+    }
+  },
+  "parent_interests": {
+    "parenting_support": {
+      "name": "parenting support",
+      "category": "support",
+      "description": "Parenting advice and support groups"
+    },
+    "playdate_coordination": {
+      "name": "playdate coordination",
+      "category": "social",
+      "description": "Organizing and coordinating playdates"
+    },
+    "educational_resources": {
+      "name": "educational resources",
+      "category": "resources",
+      "description": "Finding educational resources and programs"
+    },
+    "childcare_networking": {
+      "name": "childcare networking",
+      "category": "support",
+      "description": "Networking for childcare and babysitting"
+    },
+    "activity_planning": {
+      "name": "activity planning",
+      "category": "planning",
+      "description": "Planning family activities and outings"
+    },
+    "health_advice": {
+      "name": "health advice",
+      "category": "health",
+      "description": "Health and wellness advice for families"
+    },
+    "meal_planning": {
+      "name": "meal planning",
+      "category": "lifestyle",
+      "description": "Family meal planning and nutrition"
+    },
+    "community_events": {
+      "name": "community events",
+      "category": "social",
+      "description": "Community gatherings and family events"
+    },
+    "school_support": {
+      "name": "school support",
+      "category": "education",
+      "description": "School-related support and resources"
+    },
+    "special_needs_support": {
+      "name": "special needs support",
+      "category": "support",
+      "description": "Support for children with special needs"
+    },
+    "allergy_management": {
+      "name": "allergy management",
+      "category": "health",
+      "description": "Managing food allergies and sensitivities"
+    },
+    "behavior_guidance": {
+      "name": "behavior guidance",
+      "category": "parenting",
+      "description": "Behavior management and guidance strategies"
+    },
+    "developmental_milestones": {
+      "name": "developmental milestones",
+      "category": "development",
+      "description": "Tracking and supporting developmental milestones"
+    },
+    "screen_time_management": {
+      "name": "screen time management",
+      "category": "technology",
+      "description": "Managing screen time and digital activities"
+    },
+    "outdoor_family_activities": {
+      "name": "outdoor family activities",
+      "category": "physical",
+      "description": "Outdoor activities for the whole family"
+    },
+    "creative_family_projects": {
+      "name": "creative family projects",
+      "category": "creative",
+      "description": "Creative projects and activities for families"
+    },
+    "cultural_education": {
+      "name": "cultural education",
+      "category": "cultural",
+      "description": "Cultural education and traditions"
+    },
+    "financial_planning": {
+      "name": "financial planning",
+      "category": "planning",
+      "description": "Financial planning for families"
+    },
+    "work_life_balance": {
+      "name": "work life balance",
+      "category": "lifestyle",
+      "description": "Balancing work and family life"
+    },
+    "safety_education": {
+      "name": "safety education",
+      "category": "education",
+      "description": "Child safety and education"
+    }
+  },
+  "child_interests": {
+    "drawing": {
+      "name": "drawing",
+      "category": "creative",
+      "description": "Drawing and coloring activities",
+      "ageRange": "2-12"
+    },
+    "science": {
+      "name": "science",
+      "category": "educational",
+      "description": "Science and discovery activities",
+      "ageRange": "4-12"
+    },
+    "swimming": {
+      "name": "swimming",
+      "category": "physical",
+      "description": "Swimming and water activities",
+      "ageRange": "3-12"
+    },
+    "trains": {
+      "name": "trains",
+      "category": "entertainment",
+      "description": "Trains and transportation toys",
+      "ageRange": "2-8"
+    },
+    "building_blocks": {
+      "name": "building blocks",
+      "category": "educational",
+      "description": "Building blocks and construction toys",
+      "ageRange": "2-10"
+    },
+    "dancing": {
+      "name": "dancing",
+      "category": "creative",
+      "description": "Dancing and movement activities",
+      "ageRange": "2-12"
+    },
+    "cooking": {
+      "name": "cooking",
+      "category": "lifestyle",
+      "description": "Cooking and food preparation activities",
+      "ageRange": "4-12"
+    },
+    "reading": {
+      "name": "reading",
+      "category": "educational",
+      "description": "Reading and literacy activities",
+      "ageRange": "2-12"
+    },
+    "video_games": {
+      "name": "video games",
+      "category": "entertainment",
+      "description": "Video games and digital entertainment",
+      "ageRange": "5-12"
+    },
+    "soccer": {
+      "name": "soccer",
+      "category": "physical",
+      "description": "Soccer and ball sports",
+      "ageRange": "3-12"
+    },
+    "puzzles": {
+      "name": "puzzles",
+      "category": "educational",
+      "description": "Puzzles and problem-solving games",
+      "ageRange": "3-10"
+    },
+    "art": {
+      "name": "art",
+      "category": "creative",
+      "description": "Art and creative activities",
+      "ageRange": "2-12"
+    },
+    "yoga": {
+      "name": "yoga",
+      "category": "wellness",
+      "description": "Yoga and mindfulness for kids",
+      "ageRange": "3-10"
+    },
+    "animals": {
+      "name": "animals",
+      "category": "educational",
+      "description": "Animals and nature activities",
+      "ageRange": "2-12"
+    },
+    "coloring": {
+      "name": "coloring",
+      "category": "creative",
+      "description": "Coloring and art activities",
+      "ageRange": "2-8"
+    },
+    "cars": {
+      "name": "cars",
+      "category": "entertainment",
+      "description": "Cars and vehicle toys",
+      "ageRange": "2-8"
+    },
+    "music": {
+      "name": "music",
+      "category": "creative",
+      "description": "Music and musical activities",
+      "ageRange": "2-12"
+    },
+    "math": {
+      "name": "math",
+      "category": "educational",
+      "description": "Math and numbers activities",
+      "ageRange": "3-10"
+    },
+    "chess": {
+      "name": "chess",
+      "category": "educational",
+      "description": "Chess and strategy games",
+      "ageRange": "6-12"
+    },
+    "painting": {
+      "name": "painting",
+      "category": "creative",
+      "description": "Painting and art activities",
+      "ageRange": "3-12"
+    },
+    "nature": {
+      "name": "nature",
+      "category": "educational",
+      "description": "Nature and outdoor exploration",
+      "ageRange": "2-12"
+    },
+    "korean_language": {
+      "name": "Korean language",
+      "category": "educational",
+      "description": "Korean language learning",
+      "ageRange": "4-12"
+    },
+    "dolls": {
+      "name": "dolls",
+      "category": "entertainment",
+      "description": "Dolls and pretend play",
+      "ageRange": "2-8"
+    },
+    "singing": {
+      "name": "singing",
+      "category": "creative",
+      "description": "Singing and vocal activities",
+      "ageRange": "2-12"
+    },
+    "lego": {
+      "name": "LEGO",
+      "category": "educational",
+      "description": "LEGO building activities",
+      "ageRange": "4-12"
+    },
+    "robotics": {
+      "name": "robotics",
+      "category": "educational",
+      "description": "Robotics and technology activities",
+      "ageRange": "6-12"
+    },
+    "woodworking": {
+      "name": "woodworking",
+      "category": "educational",
+      "description": "Woodworking and building activities",
+      "ageRange": "8-12"
+    },
+    "gardening": {
+      "name": "gardening",
+      "category": "educational",
+      "description": "Gardening and plant activities",
+      "ageRange": "4-12"
+    },
+    "healthy_eating": {
+      "name": "healthy eating",
+      "category": "wellness",
+      "description": "Healthy eating and nutrition activities",
+      "ageRange": "3-12"
+    },
+    "biking": {
+      "name": "biking",
+      "category": "physical",
+      "description": "Biking and cycling activities",
+      "ageRange": "4-12"
+    },
+    "rock_climbing": {
+      "name": "rock climbing",
+      "category": "physical",
+      "description": "Rock climbing and adventure activities",
+      "ageRange": "6-12"
+    },
+    "drama": {
+      "name": "drama",
+      "category": "creative",
+      "description": "Drama and theater activities",
+      "ageRange": "4-12"
+    },
+    "photography": {
+      "name": "photography",
+      "category": "creative",
+      "description": "Photography and visual arts",
+      "ageRange": "8-18"
+    },
+    "coding": {
+      "name": "coding",
+      "category": "educational",
+      "description": "Computer programming and coding",
+      "ageRange": "8-18"
+    },
+    "gaming": {
+      "name": "gaming",
+      "category": "entertainment",
+      "description": "Video games and gaming",
+      "ageRange": "5-18"
+    },
+    "social_media": {
+      "name": "social media",
+      "category": "technology",
+      "description": "Social media and digital communication",
+      "ageRange": "13-18"
+    },
+    "fashion": {
+      "name": "fashion",
+      "category": "creative",
+      "description": "Fashion and style",
+      "ageRange": "10-18"
+    },
+    "makeup": {
+      "name": "makeup",
+      "category": "creative",
+      "description": "Makeup and beauty",
+      "ageRange": "12-18"
+    },
+    "skateboarding": {
+      "name": "skateboarding",
+      "category": "physical",
+      "description": "Skateboarding and extreme sports",
+      "ageRange": "8-18"
+    },
+    "basketball": {
+      "name": "basketball",
+      "category": "physical",
+      "description": "Basketball and team sports",
+      "ageRange": "6-18"
+    },
+    "baseball": {
+      "name": "baseball",
+      "category": "physical",
+      "description": "Baseball and team sports",
+      "ageRange": "5-18"
+    },
+    "tennis": {
+      "name": "tennis",
+      "category": "physical",
+      "description": "Tennis and racquet sports",
+      "ageRange": "6-18"
+    },
+    "swimming_competitive": {
+      "name": "competitive swimming",
+      "category": "physical",
+      "description": "Competitive swimming and water sports",
+      "ageRange": "6-18"
+    },
+    "martial_arts": {
+      "name": "martial arts",
+      "category": "physical",
+      "description": "Martial arts and self-defense",
+      "ageRange": "5-18"
+    },
+    "dance_ballet": {
+      "name": "ballet",
+      "category": "creative",
+      "description": "Ballet and classical dance",
+      "ageRange": "3-18"
+    },
+    "dance_hiphop": {
+      "name": "hip hop dance",
+      "category": "creative",
+      "description": "Hip hop and street dance",
+      "ageRange": "8-18"
+    },
+    "piano": {
+      "name": "piano",
+      "category": "creative",
+      "description": "Piano and keyboard instruments",
+      "ageRange": "5-18"
+    },
+    "guitar": {
+      "name": "guitar",
+      "category": "creative",
+      "description": "Guitar and string instruments",
+      "ageRange": "8-18"
+    },
+    "drums": {
+      "name": "drums",
+      "category": "creative",
+      "description": "Drums and percussion instruments",
+      "ageRange": "6-18"
+    },
+    "violin": {
+      "name": "violin",
+      "category": "creative",
+      "description": "Violin and classical instruments",
+      "ageRange": "4-18"
+    },
+    "writing": {
+      "name": "writing",
+      "category": "creative",
+      "description": "Creative writing and storytelling",
+      "ageRange": "8-18"
+    },
+    "poetry": {
+      "name": "poetry",
+      "category": "creative",
+      "description": "Poetry and creative expression",
+      "ageRange": "10-18"
+    },
+    "journaling": {
+      "name": "journaling",
+      "category": "creative",
+      "description": "Journaling and personal reflection",
+      "ageRange": "10-18"
+    },
+    "debate": {
+      "name": "debate",
+      "category": "educational",
+      "description": "Debate and public speaking",
+      "ageRange": "12-18"
+    },
+    "model_un": {
+      "name": "Model UN",
+      "category": "educational",
+      "description": "Model United Nations and diplomacy",
+      "ageRange": "14-18"
+    },
+    "robotics_advanced": {
+      "name": "advanced robotics",
+      "category": "educational",
+      "description": "Advanced robotics and engineering",
+      "ageRange": "12-18"
+    },
+    "3d_printing": {
+      "name": "3D printing",
+      "category": "educational",
+      "description": "3D printing and digital fabrication",
+      "ageRange": "10-18"
+    },
+    "astronomy": {
+      "name": "astronomy",
+      "category": "educational",
+      "description": "Astronomy and space science",
+      "ageRange": "8-18"
+    },
+    "chemistry": {
+      "name": "chemistry",
+      "category": "educational",
+      "description": "Chemistry and laboratory science",
+      "ageRange": "10-18"
+    },
+    "biology": {
+      "name": "biology",
+      "category": "educational",
+      "description": "Biology and life sciences",
+      "ageRange": "8-18"
+    },
+    "physics": {
+      "name": "physics",
+      "category": "educational",
+      "description": "Physics and physical sciences",
+      "ageRange": "12-18"
+    },
+    "foreign_languages": {
+      "name": "foreign languages",
+      "category": "educational",
+      "description": "Learning foreign languages",
+      "ageRange": "3-18"
+    },
+    "cooking_advanced": {
+      "name": "advanced cooking",
+      "category": "lifestyle",
+      "description": "Advanced cooking and culinary arts",
+      "ageRange": "10-18"
+    },
+    "baking": {
+      "name": "baking",
+      "category": "lifestyle",
+      "description": "Baking and pastry arts",
+      "ageRange": "6-18"
+    },
+    "yoga_teen": {
+      "name": "teen yoga",
+      "category": "wellness",
+      "description": "Yoga and mindfulness for teenagers",
+      "ageRange": "12-18"
+    },
+    "meditation": {
+      "name": "meditation",
+      "category": "wellness",
+      "description": "Meditation and mindfulness",
+      "ageRange": "8-18"
+    },
+    "volunteering": {
+      "name": "volunteering",
+      "category": "social",
+      "description": "Volunteering and community service",
+      "ageRange": "12-18"
+    },
+    "activism": {
+      "name": "activism",
+      "category": "social",
+      "description": "Social activism and advocacy",
+      "ageRange": "14-18"
+    },
+    "entrepreneurship": {
+      "name": "entrepreneurship",
+      "category": "business",
+      "description": "Entrepreneurship and business skills",
+      "ageRange": "12-18"
+    },
+    "investing": {
+      "name": "investing",
+      "category": "business",
+      "description": "Investing and financial literacy",
+      "ageRange": "14-18"
+    },
+    "driving": {
+      "name": "driving",
+      "category": "lifestyle",
+      "description": "Driving and automotive skills",
+      "ageRange": "16-18"
+    },
+    "travel": {
+      "name": "travel",
+      "category": "lifestyle",
+      "description": "Travel and cultural exploration",
+      "ageRange": "10-18"
+    }
+  },
+  "allergies": {
+    "peanuts": {
+      "name": "peanuts",
+      "category": "nuts",
+      "severity": "high",
+      "description": "Peanut allergy - common and potentially severe"
+    },
+    "tree_nuts": {
+      "name": "tree nuts",
+      "category": "nuts",
+      "severity": "high",
+      "description": "Tree nuts allergy (almonds, walnuts, cashews, etc.)"
+    },
+    "almonds": {
+      "name": "almonds",
+      "category": "nuts",
+      "severity": "high",
+      "description": "Almond allergy"
+    },
+    "walnuts": {
+      "name": "walnuts",
+      "category": "nuts",
+      "severity": "high",
+      "description": "Walnut allergy"
+    },
+    "cashews": {
+      "name": "cashews",
+      "category": "nuts",
+      "severity": "high",
+      "description": "Cashew allergy"
+    },
+    "pistachios": {
+      "name": "pistachios",
+      "category": "nuts",
+      "severity": "high",
+      "description": "Pistachio allergy"
+    },
+    "milk": {
+      "name": "milk",
+      "category": "dairy",
+      "severity": "moderate",
+      "description": "Milk allergy (different from lactose intolerance)"
+    },
+    "dairy": {
+      "name": "dairy",
+      "category": "dairy",
+      "severity": "moderate",
+      "description": "Dairy products allergy"
+    },
+    "cheese": {
+      "name": "cheese",
+      "category": "dairy",
+      "severity": "moderate",
+      "description": "Cheese allergy"
+    },
+    "yogurt": {
+      "name": "yogurt",
+      "category": "dairy",
+      "severity": "moderate",
+      "description": "Yogurt allergy"
+    },
+    "eggs": {
+      "name": "eggs",
+      "category": "protein",
+      "severity": "moderate",
+      "description": "Egg allergy"
+    },
+    "shellfish": {
+      "name": "shellfish",
+      "category": "seafood",
+      "severity": "high",
+      "description": "Shellfish allergy (shrimp, crab, lobster, etc.)"
+    },
+    "shrimp": {
+      "name": "shrimp",
+      "category": "seafood",
+      "severity": "high",
+      "description": "Shrimp allergy"
+    },
+    "crab": {
+      "name": "crab",
+      "category": "seafood",
+      "severity": "high",
+      "description": "Crab allergy"
+    },
+    "fish": {
+      "name": "fish",
+      "category": "seafood",
+      "severity": "moderate",
+      "description": "Fish allergy"
+    },
+    "soy": {
+      "name": "soy",
+      "category": "legumes",
+      "severity": "moderate",
+      "description": "Soy allergy"
+    },
+    "wheat": {
+      "name": "wheat",
+      "category": "grains",
+      "severity": "moderate",
+      "description": "Wheat allergy (different from celiac disease)"
+    },
+    "gluten": {
+      "name": "gluten",
+      "category": "grains",
+      "severity": "moderate",
+      "description": "Gluten allergy or sensitivity"
+    },
+    "corn": {
+      "name": "corn",
+      "category": "grains",
+      "severity": "moderate",
+      "description": "Corn allergy"
+    },
+    "strawberries": {
+      "name": "strawberries",
+      "category": "fruits",
+      "severity": "moderate",
+      "description": "Strawberry allergy"
+    },
+    "kiwi": {
+      "name": "kiwi",
+      "category": "fruits",
+      "severity": "moderate",
+      "description": "Kiwi allergy"
+    },
+    "bananas": {
+      "name": "bananas",
+      "category": "fruits",
+      "severity": "moderate",
+      "description": "Banana allergy"
+    },
+    "tomatoes": {
+      "name": "tomatoes",
+      "category": "vegetables",
+      "severity": "moderate",
+      "description": "Tomato allergy"
+    },
+    "celery": {
+      "name": "celery",
+      "category": "vegetables",
+      "severity": "moderate",
+      "description": "Celery allergy"
+    },
+    "sesame": {
+      "name": "sesame",
+      "category": "seeds",
+      "severity": "moderate",
+      "description": "Sesame allergy"
+    },
+    "sunflower_seeds": {
+      "name": "sunflower seeds",
+      "category": "seeds",
+      "severity": "moderate",
+      "description": "Sunflower seeds allergy"
+    },
+    "latex": {
+      "name": "latex",
+      "category": "environmental",
+      "severity": "moderate",
+      "description": "Latex allergy"
+    },
+    "bees": {
+      "name": "bees",
+      "category": "environmental",
+      "severity": "high",
+      "description": "Bee sting allergy"
+    },
+    "wasps": {
+      "name": "wasps",
+      "category": "environmental",
+      "severity": "high",
+      "description": "Wasp sting allergy"
+    },
+    "penicillin": {
+      "name": "penicillin",
+      "category": "medication",
+      "severity": "high",
+      "description": "Penicillin allergy"
+    },
+    "aspirin": {
+      "name": "aspirin",
+      "category": "medication",
+      "severity": "moderate",
+      "description": "Aspirin allergy"
+    },
+    "sulfa": {
+      "name": "sulfa",
+      "category": "medication",
+      "severity": "moderate",
+      "description": "Sulfa drug allergy"
+    },
+    "dust_mites": {
+      "name": "dust mites",
+      "category": "environmental",
+      "severity": "mild",
+      "description": "Dust mite allergy"
+    },
+    "pollen": {
+      "name": "pollen",
+      "category": "environmental",
+      "severity": "mild",
+      "description": "Pollen allergy"
+    },
+    "pet_dander": {
+      "name": "pet dander",
+      "category": "environmental",
+      "severity": "mild",
+      "description": "Pet dander allergy"
+    },
+    "mold": {
+      "name": "mold",
+      "category": "environmental",
+      "severity": "moderate",
+      "description": "Mold allergy"
+    }
+  },
+  "community_posts": {
+    "post001": {
+      "title": "Free kids books - moving soon",
+      "description": "Have a collection of children's books (ages 3-8) that we need to give away before moving. All in good condition, mostly picture books and early readers. Available for pickup this weekend.",
+      "type": "offer",
+      "status": "active",
+      "author": {
+        "id": "user001",
+        "displayName": "Alice Johnson"
+      },
+      "createdAt": "2024-12-15T14:30:22.123Z",
+      "updatedAt": "2024-12-15T14:30:22.123Z",
+      "tags": [
+        "books",
+        "free",
+        "moving"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": true,
+      "interactions": {
+        "likes": 3,
+        "comments": 2,
+        "likedBy": [
+          "user002",
+          "user003",
+          "user005"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 5,
+        "blockedUsers": []
+      }
+    },
+    "post002": {
+      "title": "Looking for weekend babysitter",
+      "description": "Need a reliable babysitter for our 5-year-old twins this Saturday evening (6-10 PM). We're in the Mission area. Experience with twins preferred. Will pay $20/hour.",
+      "type": "ask",
+      "status": "active",
+      "author": {
+        "id": "user003",
+        "displayName": "David Chen"
+      },
+      "createdAt": "2024-12-20T09:15:45.789Z",
+      "updatedAt": "2024-12-20T09:15:45.789Z",
+      "tags": [
+        "babysitting",
+        "weekend",
+        "twins"
+      ],
+      "isUrgent": true,
+      "nearbyOnly": true,
+      "interactions": {
+        "likes": 1,
+        "comments": 4,
+        "likedBy": [
+          "user001"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 8,
+        "blockedUsers": []
+      }
+    },
+    "post003": {
+      "title": "Community Park Cleanup Event",
+      "description": "Join us this Sunday for a family-friendly park cleanup! We'll meet at Dolores Park at 9 AM. Bring gloves and we'll provide bags. Great way to teach kids about community service. Coffee and snacks provided.",
+      "type": "announcement",
+      "status": "active",
+      "author": {
+        "id": "user002",
+        "displayName": "Maria Rodriguez"
+      },
+      "createdAt": "2024-12-25T16:45:33.456Z",
+      "updatedAt": "2024-12-25T16:45:33.456Z",
+      "tags": [
+        "community",
+        "event",
+        "cleanup",
+        "family"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": false,
+      "interactions": {
+        "likes": 8,
+        "comments": 6,
+        "likedBy": [
+          "user001",
+          "user003",
+          "user004",
+          "user005",
+          "user006",
+          "user007",
+          "user008",
+          "user009"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 15,
+        "blockedUsers": []
+      }
+    },
+    "post004": {
+      "title": "Best allergy-friendly restaurants?",
+      "description": "Looking for recommendations for restaurants that are good with food allergies. My 7-year-old has severe peanut and tree nut allergies. We're in the Castro area but willing to travel. Thanks!",
+      "type": "question",
+      "status": "active",
+      "author": {
+        "id": "user005",
+        "displayName": "James Thompson"
+      },
+      "createdAt": "2024-12-28T11:20:18.234Z",
+      "updatedAt": "2024-12-28T11:20:18.234Z",
+      "tags": [
+        "allergies",
+        "restaurants",
+        "recommendations"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": false,
+      "interactions": {
+        "likes": 2,
+        "comments": 7,
+        "likedBy": [
+          "user006",
+          "user008"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 20,
+        "blockedUsers": []
+      }
+    },
+    "post005": {
+      "title": "Yoga class for moms and kids",
+      "description": "Starting a new yoga class for moms and their kids (ages 3-8) at the local community center. Classes will be on Tuesday and Thursday mornings at 9 AM. $15 per class or $50 for the month. All levels welcome!",
+      "type": "offer",
+      "status": "active",
+      "author": {
+        "id": "user004",
+        "displayName": "Sarah Williams"
+      },
+      "createdAt": "2025-01-02T13:55:42.567Z",
+      "updatedAt": "2025-01-02T13:55:42.567Z",
+      "tags": [
+        "yoga",
+        "classes",
+        "moms",
+        "kids"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": true,
+      "interactions": {
+        "likes": 5,
+        "comments": 3,
+        "likedBy": [
+          "user001",
+          "user002",
+          "user003",
+          "user007",
+          "user009"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 10,
+        "blockedUsers": []
+      }
+    },
+    "post006": {
+      "title": "Help needed - sick child",
+      "description": "My daughter is sick and I need someone to pick up her prescription from the pharmacy. I'm stuck at home with her. Pharmacy is on Market St. Will pay for your time and gas.",
+      "type": "ask",
+      "status": "active",
+      "author": {
+        "id": "user006",
+        "displayName": "Lisa Park"
+      },
+      "createdAt": "2025-01-05T08:30:15.890Z",
+      "updatedAt": "2025-01-05T08:30:15.890Z",
+      "tags": [
+        "help",
+        "sick",
+        "pharmacy",
+        "urgent"
+      ],
+      "isUrgent": true,
+      "nearbyOnly": true,
+      "interactions": {
+        "likes": 0,
+        "comments": 5,
+        "likedBy": []
+      },
+      "visibility": {
+        "maxDistance": 5,
+        "blockedUsers": []
+      }
+    },
+    "post007": {
+      "title": "Summer Reading Program Registration",
+      "description": "Registration is now open for the summer reading program at the local library! Kids can earn prizes for reading. Program runs June-August. Sign up at the library or online. Free for all families.",
+      "type": "announcement",
+      "status": "active",
+      "author": {
+        "id": "user007",
+        "displayName": "Jennifer Davis"
+      },
+      "createdAt": "2025-01-08T19:12:28.345Z",
+      "updatedAt": "2025-01-08T19:12:28.345Z",
+      "tags": [
+        "reading",
+        "summer",
+        "library",
+        "free"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": false,
+      "interactions": {
+        "likes": 12,
+        "comments": 8,
+        "likedBy": [
+          "user001",
+          "user002",
+          "user003",
+          "user004",
+          "user005",
+          "user006",
+          "user008",
+          "user009",
+          "user010",
+          "user011",
+          "user012",
+          "user013"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 25,
+        "blockedUsers": []
+      }
+    },
+    "post008": {
+      "title": "How to handle screen time with teenagers?",
+      "description": "My 14-year-old son is spending way too much time on his phone and video games. What strategies have worked for other parents? Looking for advice on setting healthy boundaries without causing major conflicts.",
+      "type": "question",
+      "status": "active",
+      "author": {
+        "id": "user008",
+        "displayName": "Michael Brown"
+      },
+      "createdAt": "2025-01-12T10:45:52.678Z",
+      "updatedAt": "2025-01-12T10:45:52.678Z",
+      "tags": [
+        "screen time",
+        "teenagers",
+        "parenting",
+        "advice"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": false,
+      "interactions": {
+        "likes": 4,
+        "comments": 15,
+        "likedBy": [
+          "user009",
+          "user010",
+          "user011",
+          "user012"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 30,
+        "blockedUsers": []
+      }
+    },
+    "post009": {
+      "title": "Free piano lessons for kids",
+      "description": "I'm a music teacher offering free piano lessons to children ages 6-12 who can't afford lessons. I have 3 spots available starting next month. Lessons will be 30 minutes once a week. Must have access to a piano or keyboard.",
+      "type": "offer",
+      "status": "active",
+      "author": {
+        "id": "user009",
+        "displayName": "Emily Wilson"
+      },
+      "createdAt": "2025-01-15T15:20:37.901Z",
+      "updatedAt": "2025-01-15T15:20:37.901Z",
+      "tags": [
+        "piano",
+        "music",
+        "free",
+        "lessons"
+      ],
+      "isUrgent": false,
+      "nearbyOnly": true,
+      "interactions": {
+        "likes": 7,
+        "comments": 4,
+        "likedBy": [
+          "user001",
+          "user002",
+          "user004",
+          "user005",
+          "user007",
+          "user010",
+          "user011"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 12,
+        "blockedUsers": []
+      }
+    },
+    "post010": {
+      "title": "Lost child's backpack - reward offered",
+      "description": "My 8-year-old lost his blue Spider-Man backpack yesterday afternoon near Dolores Park. It has his homework, lunchbox, and favorite toy inside. Offering $50 reward for its return. Please contact me if found!",
+      "type": "ask",
+      "status": "active",
+      "author": {
+        "id": "user010",
+        "displayName": "Robert Garcia"
+      },
+      "createdAt": "2025-01-17T07:35:14.234Z",
+      "updatedAt": "2025-01-17T07:35:14.234Z",
+      "tags": [
+        "lost",
+        "backpack",
+        "reward",
+        "Dolores Park"
+      ],
+      "isUrgent": true,
+      "nearbyOnly": true,
+      "interactions": {
+        "likes": 2,
+        "comments": 3,
+        "likedBy": [
+          "user003",
+          "user006"
+        ]
+      },
+      "visibility": {
+        "maxDistance": 8,
+        "blockedUsers": []
+      }
+    }
+  },
+  "activities": {
+    "activity001": {
+      "title": "STEM Learning Workshop",
+      "description": "Hands-on science experiments for kids aged 5-8.",
+      "street": "123 Main Street",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "location": null,
+      "category": "workshop",
+      "eventDate": "2025-07-28T21:24:05.465654",
+      "createdBy": "user001",
+      "mediaURLs": [],
+      "tags": [
+        "STEM",
+        "fun",
+        "educational"
+      ],
+      "likes": 21,
+      "maxParticipants": 15,
+      "currentParticipants": 8,
+      "createdAt": "2025-07-18T21:24:05.465654",
+      "updatedAt": "2025-07-18T21:24:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user002",
+            "comment": "This sounds perfect for my daughter! What experiments will you be doing?",
+            "createdAt": "2025-07-18T22:00:05.465654"
+          },
+          "comment002": {
+            "userId": "user005",
+            "comment": "I can help bring some supplies if needed. My kids love science!",
+            "createdAt": "2025-07-18T22:15:05.465654"
+          },
+          "comment003": {
+            "userId": "user003",
+            "comment": "Will there be any messy experiments? My twins love getting hands-on!",
+            "createdAt": "2025-07-18T22:30:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user002",
+            "status": "going",
+            "timestamp": "2025-07-18T22:05:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user005",
+            "status": "going",
+            "timestamp": "2025-07-18T22:20:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user003",
+            "status": "interested",
+            "timestamp": "2025-07-18T22:35:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user004",
+            "status": "going",
+            "timestamp": "2025-07-18T23:00:05.465654"
+          },
+          "rsvp005": {
+            "userId": "user006",
+            "status": "interested",
+            "timestamp": "2025-07-18T23:15:05.465654"
+          }
+        }
+      }
+    },
+    "activity002": {
+      "title": "Community Potluck & Playdate",
+      "description": "Bring a dish and join us for a fun community gathering.",
+      "street": "456 South Temple",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "location": {
+        "lat": 40.7608,
+        "lng": -111.891
+      },
+      "category": "social",
+      "eventDate": "2025-07-25T18:00:05.465654",
+      "createdBy": "user002",
+      "mediaURLs": [],
+      "tags": [
+        "community",
+        "food",
+        "social"
+      ],
+      "likes": 15,
+      "maxParticipants": 25,
+      "currentParticipants": 12,
+      "createdAt": "2025-07-18T21:25:05.465654",
+      "updatedAt": "2025-07-18T21:25:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user001",
+            "comment": "I'll bring my famous chocolate chip cookies!",
+            "createdAt": "2025-07-18T22:10:05.465654"
+          },
+          "comment002": {
+            "userId": "user006",
+            "comment": "I'll bring some Korean dishes. Will there be allergy information posted?",
+            "createdAt": "2025-07-18T22:25:05.465654"
+          },
+          "comment003": {
+            "userId": "user010",
+            "comment": "I'll bring a nut-free, dairy-free dessert for allergy-friendly options.",
+            "createdAt": "2025-07-18T22:40:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T22:12:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user006",
+            "status": "going",
+            "timestamp": "2025-07-18T22:28:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user010",
+            "status": "going",
+            "timestamp": "2025-07-18T22:45:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user004",
+            "status": "interested",
+            "timestamp": "2025-07-18T23:10:05.465654"
+          },
+          "rsvp005": {
+            "userId": "user008",
+            "status": "going",
+            "timestamp": "2025-07-18T23:25:05.465654"
+          }
+        }
+      }
+    },
+    "activity003": {
+      "title": "Board Game Night for Families",
+      "description": "Family-friendly board games for all ages.",
+      "street": "789 East 400 South",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84111",
+      "location": null,
+      "category": "entertainment",
+      "eventDate": "2025-07-26T19:00:05.465654",
+      "createdBy": "user003",
+      "mediaURLs": [],
+      "tags": [
+        "games",
+        "family",
+        "fun"
+      ],
+      "likes": 18,
+      "maxParticipants": 20,
+      "currentParticipants": 10,
+      "createdAt": "2025-07-18T21:26:05.465654",
+      "updatedAt": "2025-07-18T21:26:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user001",
+            "comment": "I'll bring some kid-friendly games like Candy Land and Chutes & Ladders!",
+            "createdAt": "2025-07-18T22:20:05.465654"
+          },
+          "comment002": {
+            "userId": "user009",
+            "comment": "I can bring some strategy games for older kids too.",
+            "createdAt": "2025-07-18T22:35:05.465654"
+          },
+          "comment003": {
+            "userId": "user005",
+            "comment": "My kids love cooperative games. I'll bring a few!",
+            "createdAt": "2025-07-18T22:50:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T22:22:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user009",
+            "status": "going",
+            "timestamp": "2025-07-18T22:38:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user005",
+            "status": "going",
+            "timestamp": "2025-07-18T22:55:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user007",
+            "status": "interested",
+            "timestamp": "2025-07-18T23:20:05.465654"
+          }
+        }
+      }
+    },
+    "activity004": {
+      "title": "Family Yoga in the Park",
+      "description": "Gentle yoga session for parents and children.",
+      "street": "321 West 200 South",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "location": {
+        "lat": 40.7505,
+        "lng": -111.8834
+      },
+      "category": "wellness",
+      "eventDate": "2025-07-27T09:00:05.465654",
+      "createdBy": "user004",
+      "mediaURLs": [],
+      "tags": [
+        "yoga",
+        "wellness",
+        "outdoor"
+      ],
+      "likes": 12,
+      "maxParticipants": 12,
+      "currentParticipants": 6,
+      "createdAt": "2025-07-18T21:27:05.465654",
+      "updatedAt": "2025-07-18T21:27:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user010",
+            "comment": "Perfect! My twins love doing yoga with me.",
+            "createdAt": "2025-07-18T22:30:05.465654"
+          },
+          "comment002": {
+            "userId": "user001",
+            "comment": "Should we bring our own mats or will they be provided?",
+            "createdAt": "2025-07-18T22:45:05.465654"
+          },
+          "comment003": {
+            "userId": "user008",
+            "comment": "My daughter is excited to try yoga!",
+            "createdAt": "2025-07-18T23:00:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user010",
+            "status": "going",
+            "timestamp": "2025-07-18T22:32:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T22:48:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user008",
+            "status": "going",
+            "timestamp": "2025-07-18T23:02:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user002",
+            "status": "interested",
+            "timestamp": "2025-07-18T23:15:05.465654"
+          }
+        }
+      }
+    },
+    "activity005": {
+      "title": "Science Experiment Day",
+      "description": "Fun and safe science experiments for curious kids.",
+      "category": "educational",
+      "eventDate": "2025-07-29T14:00:05.465654",
+      "createdBy": "user005",
+      "mediaURLs": [],
+      "tags": [
+        "science",
+        "educational",
+        "hands-on"
+      ],
+      "likes": 25,
+      "maxParticipants": 18,
+      "currentParticipants": 15,
+      "createdAt": "2025-07-18T21:28:05.465654",
+      "updatedAt": "2025-07-18T21:28:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user001",
+            "comment": "My kids are so excited for this! What age range is this best for?",
+            "createdAt": "2025-07-18T22:40:05.465654"
+          },
+          "comment002": {
+            "userId": "user003",
+            "comment": "My twins love experiments! Will there be any that involve food?",
+            "createdAt": "2025-07-18T22:55:05.465654"
+          },
+          "comment003": {
+            "userId": "user009",
+            "comment": "I can help set up some engineering challenges too!",
+            "createdAt": "2025-07-18T23:10:05.465654"
+          },
+          "comment004": {
+            "userId": "user006",
+            "comment": "Will there be any experiments suitable for younger kids?",
+            "createdAt": "2025-07-18T23:25:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T22:42:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user003",
+            "status": "going",
+            "timestamp": "2025-07-18T22:58:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user009",
+            "status": "going",
+            "timestamp": "2025-07-18T23:12:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user006",
+            "status": "going",
+            "timestamp": "2025-07-18T23:28:05.465654"
+          },
+          "rsvp005": {
+            "userId": "user002",
+            "status": "going",
+            "timestamp": "2025-07-18T23:40:05.465654"
+          }
+        }
+      }
+    },
+    "activity006": {
+      "title": "Korean Culture Day",
+      "description": "Learn about Korean culture through food, music, and crafts.",
+      "category": "cultural",
+      "eventDate": "2025-07-30T15:00:05.465654",
+      "createdBy": "user006",
+      "mediaURLs": [],
+      "tags": [
+        "cultural",
+        "Korean",
+        "food"
+      ],
+      "likes": 20,
+      "maxParticipants": 30,
+      "currentParticipants": 18,
+      "createdAt": "2025-07-18T21:29:05.465654",
+      "updatedAt": "2025-07-18T21:29:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user001",
+            "comment": "This sounds amazing! My kids love trying new foods.",
+            "createdAt": "2025-07-18T22:50:05.465654"
+          },
+          "comment002": {
+            "userId": "user010",
+            "comment": "Will there be allergy information for the food?",
+            "createdAt": "2025-07-18T23:05:05.465654"
+          },
+          "comment003": {
+            "userId": "user008",
+            "comment": "I can help with some art activities if needed!",
+            "createdAt": "2025-07-18T23:20:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T22:52:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user010",
+            "status": "going",
+            "timestamp": "2025-07-18T23:08:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user008",
+            "status": "going",
+            "timestamp": "2025-07-18T23:22:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user002",
+            "status": "interested",
+            "timestamp": "2025-07-18T23:35:05.465654"
+          }
+        }
+      }
+    },
+    "activity007": {
+      "title": "Family Fitness Bootcamp",
+      "description": "High-energy workout for parents and kids.",
+      "category": "fitness",
+      "eventDate": "2025-07-31T08:00:05.465654",
+      "createdBy": "user007",
+      "mediaURLs": [],
+      "tags": [
+        "fitness",
+        "workout",
+        "family"
+      ],
+      "likes": 14,
+      "maxParticipants": 15,
+      "currentParticipants": 8,
+      "createdAt": "2025-07-18T21:30:05.465654",
+      "updatedAt": "2025-07-18T21:30:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user003",
+            "comment": "My twins need to burn off some energy! This is perfect.",
+            "createdAt": "2025-07-18T23:00:05.465654"
+          },
+          "comment002": {
+            "userId": "user010",
+            "comment": "Will this be suitable for 4-year-olds?",
+            "createdAt": "2025-07-18T23:15:05.465654"
+          },
+          "comment003": {
+            "userId": "user001",
+            "comment": "I'll bring some water bottles for everyone!",
+            "createdAt": "2025-07-18T23:30:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user003",
+            "status": "going",
+            "timestamp": "2025-07-18T23:02:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user010",
+            "status": "going",
+            "timestamp": "2025-07-18T23:18:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T23:32:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user005",
+            "status": "interested",
+            "timestamp": "2025-07-18T23:45:05.465654"
+          }
+        }
+      }
+    },
+    "activity008": {
+      "title": "Art & Craft Workshop",
+      "description": "Creative art projects for children of all ages.",
+      "category": "creative",
+      "eventDate": "2025-08-01T13:00:05.465654",
+      "createdBy": "user008",
+      "mediaURLs": [],
+      "tags": [
+        "art",
+        "crafts",
+        "creative"
+      ],
+      "likes": 22,
+      "maxParticipants": 16,
+      "currentParticipants": 12,
+      "createdAt": "2025-07-18T21:31:05.465654",
+      "updatedAt": "2025-07-18T21:31:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user001",
+            "comment": "My daughter Emma loves art! She'll be so excited.",
+            "createdAt": "2025-07-18T23:10:05.465654"
+          },
+          "comment002": {
+            "userId": "user006",
+            "comment": "Will there be any traditional Korean crafts?",
+            "createdAt": "2025-07-18T23:25:05.465654"
+          },
+          "comment003": {
+            "userId": "user005",
+            "comment": "My kids love getting messy with paint!",
+            "createdAt": "2025-07-18T23:40:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-18T23:12:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user006",
+            "status": "going",
+            "timestamp": "2025-07-18T23:28:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user005",
+            "status": "going",
+            "timestamp": "2025-07-18T23:42:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user002",
+            "status": "going",
+            "timestamp": "2025-07-18T23:55:05.465654"
+          }
+        }
+      }
+    },
+    "activity009": {
+      "title": "Building & Construction Day",
+      "description": "Learn basic building skills with safe tools and materials.",
+      "category": "educational",
+      "eventDate": "2025-08-02T10:00:05.465654",
+      "createdBy": "user009",
+      "mediaURLs": [],
+      "tags": [
+        "building",
+        "construction",
+        "hands-on"
+      ],
+      "likes": 16,
+      "maxParticipants": 12,
+      "currentParticipants": 9,
+      "createdAt": "2025-07-18T21:32:05.465654",
+      "updatedAt": "2025-07-18T21:32:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user003",
+            "comment": "My son Alex loves building! This is perfect for him.",
+            "createdAt": "2025-07-18T23:20:05.465654"
+          },
+          "comment002": {
+            "userId": "user005",
+            "comment": "Will there be different difficulty levels for different ages?",
+            "createdAt": "2025-07-18T23:35:05.465654"
+          },
+          "comment003": {
+            "userId": "user006",
+            "comment": "My son Jin is interested in engineering too!",
+            "createdAt": "2025-07-18T23:50:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user003",
+            "status": "going",
+            "timestamp": "2025-07-18T23:22:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user005",
+            "status": "going",
+            "timestamp": "2025-07-18T23:38:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user006",
+            "status": "going",
+            "timestamp": "2025-07-18T23:52:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user001",
+            "status": "interested",
+            "timestamp": "2025-07-19T00:05:05.465654"
+          }
+        }
+      }
+    },
+    "activity010": {
+      "title": "Healthy Cooking for Kids",
+      "description": "Learn to cook nutritious and delicious meals together.",
+      "category": "educational",
+      "eventDate": "2025-08-03T16:00:05.465654",
+      "createdBy": "user010",
+      "mediaURLs": [],
+      "tags": [
+        "cooking",
+        "nutrition",
+        "health"
+      ],
+      "likes": 19,
+      "maxParticipants": 14,
+      "currentParticipants": 11,
+      "createdAt": "2025-07-18T21:33:05.465654",
+      "updatedAt": "2025-07-18T21:33:05.465654",
+      "_subcollections": {
+        "comments": {
+          "comment001": {
+            "userId": "user002",
+            "comment": "My daughter Sofia loves helping in the kitchen!",
+            "createdAt": "2025-07-18T23:30:05.465654"
+          },
+          "comment002": {
+            "userId": "user006",
+            "comment": "Will there be allergy-friendly recipes?",
+            "createdAt": "2025-07-18T23:45:05.465654"
+          },
+          "comment003": {
+            "userId": "user004",
+            "comment": "This is perfect for teaching kids about healthy eating!",
+            "createdAt": "2025-07-19T00:00:05.465654"
+          },
+          "comment004": {
+            "userId": "user001",
+            "comment": "Will the recipes be kid-friendly and simple?",
+            "createdAt": "2025-07-19T00:15:05.465654"
+          }
+        },
+        "rsvps": {
+          "rsvp001": {
+            "userId": "user002",
+            "status": "going",
+            "timestamp": "2025-07-18T23:32:05.465654"
+          },
+          "rsvp002": {
+            "userId": "user006",
+            "status": "going",
+            "timestamp": "2025-07-18T23:48:05.465654"
+          },
+          "rsvp003": {
+            "userId": "user004",
+            "status": "going",
+            "timestamp": "2025-07-19T00:02:05.465654"
+          },
+          "rsvp004": {
+            "userId": "user001",
+            "status": "going",
+            "timestamp": "2025-07-19T00:18:05.465654"
+          },
+          "rsvp005": {
+            "userId": "user008",
+            "status": "interested",
+            "timestamp": "2025-07-19T00:30:05.465654"
+          }
+        }
+      }
+    }
+  },
+  "resources": [
+    {
+      "name": "Maple Grove Playground",
+      "description": "Shaded playground with toddler-safe equipment and picnic areas.",
+      "category": "playground",
+      "location": {
+        "lat": 37.775,
+        "lng": -122.4183
+      },
+      "submittedBy": "user001",
+      "approved": true,
+      "createdAt": "2025-07-18T21:24:05.465654",
+      "updatedAt": "2025-07-18T21:24:05.465654",
+      "averageRating": 4.2,
+      "totalRatings": 15,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Perfect playground for my 5-year-old! Lots of shade and clean equipment.",
+            "createdAt": "2025-07-18T22:00:05.465654"
+          },
+          "review002": {
+            "userId": "user004",
+            "rating": 4,
+            "comment": "Great for toddlers, but could use more equipment for older kids.",
+            "createdAt": "2025-07-18T22:15:05.465654"
+          },
+          "review003": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "Love the picnic areas! Perfect for family gatherings.",
+            "createdAt": "2025-07-18T22:30:05.465654"
+          },
+          "review004": {
+            "userId": "user008",
+            "rating": 4,
+            "comment": "Well-maintained and safe. My daughter loves the swings!",
+            "createdAt": "2025-07-18T22:45:05.465654"
+          },
+          "review005": {
+            "userId": "user010",
+            "rating": 3,
+            "comment": "Good playground but bathrooms could be cleaner.",
+            "createdAt": "2025-07-18T23:00:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Community Health Clinic",
+      "description": "Family-friendly clinic with pediatric services.",
+      "category": "clinic",
+      "location": {
+        "lat": 37.7755,
+        "lng": -122.4185
+      },
+      "submittedBy": "user010",
+      "approved": true,
+      "createdAt": "2025-07-18T21:25:05.465654",
+      "updatedAt": "2025-07-18T21:25:05.465654",
+      "averageRating": 4.5,
+      "totalRatings": 8,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "Excellent pediatric care! Dr. Smith is wonderful with kids.",
+            "createdAt": "2025-07-18T22:10:05.465654"
+          },
+          "review002": {
+            "userId": "user004",
+            "rating": 4,
+            "comment": "Great staff, but wait times can be long during flu season.",
+            "createdAt": "2025-07-18T22:25:05.465654"
+          },
+          "review003": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "Very clean and child-friendly waiting area.",
+            "createdAt": "2025-07-18T22:40:05.465654"
+          },
+          "review004": {
+            "userId": "user008",
+            "rating": 4,
+            "comment": "Good care but parking can be difficult.",
+            "createdAt": "2025-07-18T22:55:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Central Library Children's Section",
+      "description": "Extensive children's book collection with reading programs.",
+      "category": "library",
+      "location": {
+        "lat": 37.776,
+        "lng": -122.4175
+      },
+      "submittedBy": "user005",
+      "approved": true,
+      "createdAt": "2025-07-18T21:26:05.465654",
+      "updatedAt": "2025-07-18T21:26:05.465654",
+      "averageRating": 4.7,
+      "totalRatings": 22,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "Amazing selection of books! My kids love story time.",
+            "createdAt": "2025-07-18T22:20:05.465654"
+          },
+          "review002": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Great reading programs and helpful librarians.",
+            "createdAt": "2025-07-18T22:35:05.465654"
+          },
+          "review003": {
+            "userId": "user005",
+            "rating": 5,
+            "comment": "Perfect place for educational activities. Love the STEM section!",
+            "createdAt": "2025-07-18T22:50:05.465654"
+          },
+          "review004": {
+            "userId": "user006",
+            "rating": 4,
+            "comment": "Good collection but could use more diverse books.",
+            "createdAt": "2025-07-18T23:05:05.465654"
+          },
+          "review005": {
+            "userId": "user008",
+            "rating": 5,
+            "comment": "Wonderful children's area with comfy reading nooks!",
+            "createdAt": "2025-07-18T23:20:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Sunset Park Splash Pad",
+      "description": "Water play area perfect for hot summer days.",
+      "category": "playground",
+      "location": {
+        "lat": 37.774,
+        "lng": -122.4205
+      },
+      "submittedBy": "user007",
+      "approved": true,
+      "createdAt": "2025-07-18T21:27:05.465654",
+      "updatedAt": "2025-07-18T21:27:05.465654",
+      "averageRating": 4.3,
+      "totalRatings": 18,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "Kids love this place! Perfect for cooling off in summer.",
+            "createdAt": "2025-07-18T22:30:05.465654"
+          },
+          "review002": {
+            "userId": "user003",
+            "rating": 4,
+            "comment": "Great splash pad but could use more seating for parents.",
+            "createdAt": "2025-07-18T22:45:05.465654"
+          },
+          "review003": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "My kids have so much fun here! Very clean water.",
+            "createdAt": "2025-07-18T23:00:05.465654"
+          },
+          "review004": {
+            "userId": "user010",
+            "rating": 4,
+            "comment": "Good for younger kids but older ones might get bored.",
+            "createdAt": "2025-07-18T23:15:05.465654"
+          },
+          "review005": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Perfect spot for summer playdates!",
+            "createdAt": "2025-07-18T23:30:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Kids Art Studio",
+      "description": "Creative space for art classes and workshops.",
+      "category": "studio",
+      "location": {
+        "lat": 37.772,
+        "lng": -122.4225
+      },
+      "submittedBy": "user008",
+      "approved": true,
+      "createdAt": "2025-07-18T21:28:05.465654",
+      "updatedAt": "2025-07-18T21:28:05.465654",
+      "averageRating": 4.6,
+      "totalRatings": 12,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "Amazing art classes! My daughter Emma loves coming here.",
+            "createdAt": "2025-07-18T22:40:05.465654"
+          },
+          "review002": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "Great instructors and creative projects for all ages.",
+            "createdAt": "2025-07-18T22:55:05.465654"
+          },
+          "review003": {
+            "userId": "user008",
+            "rating": 5,
+            "comment": "Perfect space for creative expression!",
+            "createdAt": "2025-07-18T23:10:05.465654"
+          },
+          "review004": {
+            "userId": "user005",
+            "rating": 4,
+            "comment": "Good classes but could use more variety in projects.",
+            "createdAt": "2025-07-18T23:25:05.465654"
+          },
+          "review005": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "My daughter Sofia loves the painting classes!",
+            "createdAt": "2025-07-18T23:40:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Family Sports Center",
+      "description": "Indoor sports facility with family-friendly programs.",
+      "category": "sports",
+      "location": {
+        "lat": 37.778,
+        "lng": -122.4155
+      },
+      "submittedBy": "user003",
+      "approved": true,
+      "createdAt": "2025-07-18T21:29:05.465654",
+      "updatedAt": "2025-07-18T21:29:05.465654",
+      "averageRating": 4.4,
+      "totalRatings": 16,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user007",
+            "rating": 5,
+            "comment": "Perfect for my son Jake! Great soccer programs.",
+            "createdAt": "2025-07-18T22:50:05.465654"
+          },
+          "review002": {
+            "userId": "user003",
+            "rating": 4,
+            "comment": "Good facilities but classes can be expensive.",
+            "createdAt": "2025-07-18T23:05:05.465654"
+          },
+          "review003": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "My son Jin loves the basketball program!",
+            "createdAt": "2025-07-18T23:20:05.465654"
+          },
+          "review004": {
+            "userId": "user001",
+            "rating": 4,
+            "comment": "Great coaches and clean facilities.",
+            "createdAt": "2025-07-18T23:35:05.465654"
+          },
+          "review005": {
+            "userId": "user010",
+            "rating": 4,
+            "comment": "Good for active kids but could use more programs for younger ones.",
+            "createdAt": "2025-07-18T23:50:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Nature Discovery Center",
+      "description": "Interactive nature exhibits and outdoor learning programs.",
+      "category": "educational",
+      "location": {
+        "lat": 37.777,
+        "lng": -122.4165
+      },
+      "submittedBy": "user005",
+      "approved": true,
+      "createdAt": "2025-07-18T21:30:05.465654",
+      "updatedAt": "2025-07-18T21:30:05.465654",
+      "averageRating": 4.8,
+      "totalRatings": 14,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user005",
+            "rating": 5,
+            "comment": "Fantastic educational programs! My kids love the hands-on exhibits.",
+            "createdAt": "2025-07-18T23:00:05.465654"
+          },
+          "review002": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "Amazing place for learning about nature! Great for all ages.",
+            "createdAt": "2025-07-18T23:15:05.465654"
+          },
+          "review003": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "Perfect for family outings and educational fun.",
+            "createdAt": "2025-07-18T23:30:05.465654"
+          },
+          "review004": {
+            "userId": "user009",
+            "rating": 4,
+            "comment": "Great exhibits but could use more interactive elements.",
+            "createdAt": "2025-07-18T23:45:05.465654"
+          },
+          "review005": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Wonderful staff and engaging programs for kids!",
+            "createdAt": "2025-07-19T00:00:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Community Garden",
+      "description": "Family-friendly garden plots and educational programs.",
+      "category": "garden",
+      "location": {
+        "lat": 37.773,
+        "lng": -122.4215
+      },
+      "submittedBy": "user002",
+      "approved": true,
+      "createdAt": "2025-07-18T21:31:05.465654",
+      "updatedAt": "2025-07-18T21:31:05.465654",
+      "averageRating": 4.1,
+      "totalRatings": 9,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Love our community garden! Great for teaching kids about nature.",
+            "createdAt": "2025-07-18T23:10:05.465654"
+          },
+          "review002": {
+            "userId": "user009",
+            "rating": 4,
+            "comment": "My daughter Grace loves helping in the garden!",
+            "createdAt": "2025-07-18T23:25:05.465654"
+          },
+          "review003": {
+            "userId": "user010",
+            "rating": 4,
+            "comment": "Good educational programs but could use more kid-friendly tools.",
+            "createdAt": "2025-07-18T23:40:05.465654"
+          },
+          "review004": {
+            "userId": "user006",
+            "rating": 3,
+            "comment": "Nice concept but plots are hard to get.",
+            "createdAt": "2025-07-18T23:55:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Music School for Kids",
+      "description": "Music lessons and group classes for children.",
+      "category": "music",
+      "location": {
+        "lat": 37.771,
+        "lng": -122.4235
+      },
+      "submittedBy": "user001",
+      "approved": true,
+      "createdAt": "2025-07-18T21:32:05.465654",
+      "updatedAt": "2025-07-18T21:32:05.465654",
+      "averageRating": 4.5,
+      "totalRatings": 11,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "My kids love their music lessons here! Great teachers.",
+            "createdAt": "2025-07-18T23:20:05.465654"
+          },
+          "review002": {
+            "userId": "user006",
+            "rating": 5,
+            "comment": "My daughter Min loves the piano classes!",
+            "createdAt": "2025-07-18T23:35:05.465654"
+          },
+          "review003": {
+            "userId": "user008",
+            "rating": 4,
+            "comment": "Good music education but classes can be pricey.",
+            "createdAt": "2025-07-18T23:50:05.465654"
+          },
+          "review004": {
+            "userId": "user010",
+            "rating": 5,
+            "comment": "My twins love the group singing classes!",
+            "createdAt": "2025-07-19T00:05:05.465654"
+          },
+          "review005": {
+            "userId": "user004",
+            "rating": 4,
+            "comment": "Great instructors but limited instrument options.",
+            "createdAt": "2025-07-19T00:20:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Emergency Childcare Center",
+      "description": "24/7 emergency childcare for working parents.",
+      "category": "childcare",
+      "location": {
+        "lat": 37.7755,
+        "lng": -122.4188
+      },
+      "submittedBy": "user004",
+      "approved": true,
+      "createdAt": "2025-07-18T21:33:05.465654",
+      "updatedAt": "2025-07-18T21:33:05.465654",
+      "averageRating": 4.3,
+      "totalRatings": 7,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user004",
+            "rating": 5,
+            "comment": "Lifesaver for working parents! Staff is very caring.",
+            "createdAt": "2025-07-18T23:30:05.465654"
+          },
+          "review002": {
+            "userId": "user002",
+            "rating": 4,
+            "comment": "Good emergency care but expensive for regular use.",
+            "createdAt": "2025-07-18T23:45:05.465654"
+          },
+          "review003": {
+            "userId": "user010",
+            "rating": 5,
+            "comment": "Very reliable and my kids feel safe here.",
+            "createdAt": "2025-07-19T00:00:05.465654"
+          },
+          "review004": {
+            "userId": "user008",
+            "rating": 4,
+            "comment": "Great for emergencies but limited space.",
+            "createdAt": "2025-07-19T00:15:05.465654"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Zoo",
+      "description": "Family-friendly zoo with over 2,000 animals and interactive exhibits. Perfect for children of all ages with playgrounds and picnic areas.",
+      "category": "entertainment",
+      "location": {
+        "lat": 55.3961,
+        "lng": 10.3881
+      },
+      "submittedBy": "user001",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.6,
+      "totalRatings": 45,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Amazing zoo! My kids loved the lions and the playground. Great family day out.",
+            "createdAt": "2025-01-20T11:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user004",
+            "rating": 4,
+            "comment": "Beautiful zoo with lots of space. Food is expensive but worth it for the experience.",
+            "createdAt": "2025-01-20T12:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Brandts Museum of Art",
+      "description": "Contemporary art museum with family-friendly exhibitions and workshops. Offers guided tours for children and interactive art activities.",
+      "category": "museum",
+      "location": {
+        "lat": 55.4039,
+        "lng": 10.3889
+      },
+      "submittedBy": "user003",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.3,
+      "totalRatings": 28,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user005",
+            "rating": 4,
+            "comment": "Great art museum with interesting exhibits. Kids enjoyed the interactive sections.",
+            "createdAt": "2025-01-20T13:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user008",
+            "rating": 5,
+            "comment": "Perfect for introducing children to art. The workshops are fantastic!",
+            "createdAt": "2025-01-20T14:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Skatepark",
+      "description": "Modern skatepark with ramps, bowls, and street obstacles. Suitable for beginners to advanced skaters. Safety equipment available for rent.",
+      "category": "sports",
+      "location": {
+        "lat": 55.3989,
+        "lng": 10.3922
+      },
+      "submittedBy": "user007",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.7,
+      "totalRatings": 32,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user009",
+            "rating": 5,
+            "comment": "Best skatepark in the area! My son loves it here. Great for all skill levels.",
+            "createdAt": "2025-01-20T15:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user006",
+            "rating": 4,
+            "comment": "Well-maintained park with good facilities. Can get crowded on weekends.",
+            "createdAt": "2025-01-20T16:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Public Library - Children's Section",
+      "description": "Extensive children's library with reading programs, storytelling sessions, and educational activities. Free membership for all children.",
+      "category": "library",
+      "location": {
+        "lat": 55.4047,
+        "lng": 10.3867
+      },
+      "submittedBy": "user005",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.8,
+      "totalRatings": 67,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user001",
+            "rating": 5,
+            "comment": "Wonderful library! My kids love the story time sessions and the huge book collection.",
+            "createdAt": "2025-01-20T17:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user010",
+            "rating": 5,
+            "comment": "Excellent children's section with helpful staff. Great educational programs.",
+            "createdAt": "2025-01-20T18:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Swimming Center",
+      "description": "Modern swimming facility with multiple pools, water slides, and swimming lessons for all ages. Family changing rooms available.",
+      "category": "sports",
+      "location": {
+        "lat": 55.3978,
+        "lng": 10.3905
+      },
+      "submittedBy": "user004",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.4,
+      "totalRatings": 89,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user002",
+            "rating": 4,
+            "comment": "Great swimming center with clean facilities. My kids love the water slides!",
+            "createdAt": "2025-01-20T19:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user007",
+            "rating": 5,
+            "comment": "Excellent swimming lessons for children. Professional instructors.",
+            "createdAt": "2025-01-20T20:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Hans Christian Andersen Museum",
+      "description": "Interactive museum dedicated to the famous Danish author. Features fairy tale exhibits, storytelling sessions, and children's workshops.",
+      "category": "museum",
+      "location": {
+        "lat": 55.4033,
+        "lng": 10.3878
+      },
+      "submittedBy": "user008",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.5,
+      "totalRatings": 156,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user003",
+            "rating": 5,
+            "comment": "Magical place! My children were enchanted by the fairy tale exhibits.",
+            "createdAt": "2025-01-20T21:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user006",
+            "rating": 4,
+            "comment": "Beautiful museum with engaging exhibits. Great for introducing kids to literature.",
+            "createdAt": "2025-01-20T22:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Adventure Playground",
+      "description": "Large adventure playground with climbing structures, zip lines, sandpits, and natural play areas. Perfect for active children.",
+      "category": "playground",
+      "location": {
+        "lat": 55.3995,
+        "lng": 10.3918
+      },
+      "submittedBy": "user001",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.6,
+      "totalRatings": 78,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user009",
+            "rating": 5,
+            "comment": "Amazing playground! My kids can spend hours here. Great for all ages.",
+            "createdAt": "2025-01-20T23:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user005",
+            "rating": 4,
+            "comment": "Excellent playground with lots of different activities. Well-maintained equipment.",
+            "createdAt": "2025-01-21T00:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Science Center",
+      "description": "Interactive science museum with hands-on experiments, planetarium shows, and educational workshops for children and families.",
+      "category": "educational",
+      "location": {
+        "lat": 55.4012,
+        "lng": 10.3895
+      },
+      "submittedBy": "user005",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.7,
+      "totalRatings": 94,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user002",
+            "rating": 5,
+            "comment": "Fantastic science center! My kids love the interactive exhibits and experiments.",
+            "createdAt": "2025-01-21T01:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user010",
+            "rating": 5,
+            "comment": "Excellent educational experience. The planetarium shows are amazing!",
+            "createdAt": "2025-01-21T02:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Music School",
+      "description": "Professional music school offering lessons in piano, guitar, violin, drums, and voice for children of all ages. Group classes available.",
+      "category": "music",
+      "location": {
+        "lat": 55.4028,
+        "lng": 10.3883
+      },
+      "submittedBy": "user006",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.4,
+      "totalRatings": 56,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user008",
+            "rating": 4,
+            "comment": "Great music school with talented teachers. My daughter loves her piano lessons.",
+            "createdAt": "2025-01-21T03:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user003",
+            "rating": 5,
+            "comment": "Excellent music education. The teachers are patient and encouraging.",
+            "createdAt": "2025-01-21T04:00:00.000Z"
+          }
+        }
+      }
+    },
+    {
+      "name": "Odense Children's Hospital Playroom",
+      "description": "Bright and welcoming playroom for children visiting the hospital. Staffed by child life specialists with toys, games, and activities.",
+      "category": "healthcare",
+      "location": {
+        "lat": 55.3967,
+        "lng": 10.3933
+      },
+      "submittedBy": "user010",
+      "approved": true,
+      "createdAt": "2025-01-20T10:00:00.000Z",
+      "updatedAt": "2025-01-20T10:00:00.000Z",
+      "averageRating": 4.8,
+      "totalRatings": 23,
+      "_subcollections": {
+        "reviews": {
+          "review001": {
+            "userId": "user004",
+            "rating": 5,
+            "comment": "Wonderful playroom that makes hospital visits less scary for children.",
+            "createdAt": "2025-01-21T05:00:00.000Z"
+          },
+          "review002": {
+            "userId": "user007",
+            "rating": 5,
+            "comment": "Amazing staff who really care about making children comfortable.",
+            "createdAt": "2025-01-21T06:00:00.000Z"
+          }
+        }
+      }
+    }
+  ],
+  "alerts": {
+    "alert001": {
+      "createdBy": "user001",
+      "title": "Coyote spotted near park",
+      "message": "Be cautious around the Maple Grove area. Keep pets and children close.",
+      "location": {
+        "lat": 37.775,
+        "lng": -122.418
+      },
+      "radiusMeters": 500,
+      "alertType": "safety",
+      "createdAt": "2025-07-18T21:24:05.465654",
+      "expiresAt": "2025-07-28T21:24:05.465654"
+    },
+    "alert002": {
+      "createdBy": "user004",
+      "title": "Construction work on Main St",
+      "message": "Heavy construction work may affect traffic to community center.",
+      "location": {
+        "lat": 37.7755,
+        "lng": -122.418
+      },
+      "radiusMeters": 300,
+      "alertType": "traffic",
+      "createdAt": "2025-07-18T21:25:05.465654",
+      "expiresAt": "2025-07-25T21:25:05.465654"
+    },
+    "alert003": {
+      "createdBy": "user010",
+      "title": "High pollen count today",
+      "message": "Pollen levels are very high. Consider indoor activities for allergy sufferers.",
+      "location": {
+        "lat": 37.771,
+        "lng": -122.423
+      },
+      "radiusMeters": 1000,
+      "alertType": "health",
+      "createdAt": "2025-07-18T21:26:05.465654",
+      "expiresAt": "2025-07-19T21:26:05.465654"
+    },
+    "alert004": {
+      "createdBy": "user007",
+      "title": "Lost dog in neighborhood",
+      "message": "Golden retriever named Max lost near Fitness Park. Please contact if seen.",
+      "location": {
+        "lat": 37.778,
+        "lng": -122.415
+      },
+      "radiusMeters": 800,
+      "alertType": "community",
+      "createdAt": "2025-07-18T21:27:05.465654",
+      "expiresAt": "2025-07-20T21:27:05.465654"
+    },
+    "alert005": {
+      "createdBy": "user002",
+      "title": "Community event reminder",
+      "message": "Don't forget the potluck this Saturday at 6 PM!",
+      "location": {
+        "lat": 37.7755,
+        "lng": -122.418
+      },
+      "radiusMeters": 1000,
+      "alertType": "event",
+      "createdAt": "2025-07-18T21:28:05.465654",
+      "expiresAt": "2025-07-25T21:28:05.465654"
+    }
+  },
+  "matches": {
+    "match001": {
+      "userId1": "user001",
+      "userId2": "user002",
+      "commonFactors": [
+        "outdoor play",
+        "community events"
+      ],
+      "matchScore": 87,
+      "matchedAt": "2025-07-18T21:24:05.465654"
+    },
+    "match002": {
+      "userId1": "user003",
+      "userId2": "user009",
+      "commonFactors": [
+        "educational activities",
+        "hands-on projects"
+      ],
+      "matchScore": 92,
+      "matchedAt": "2025-07-18T21:25:05.465654"
+    },
+    "match003": {
+      "userId1": "user004",
+      "userId2": "user010",
+      "commonFactors": [
+        "wellness",
+        "health"
+      ],
+      "matchScore": 78,
+      "matchedAt": "2025-07-18T21:26:05.465654"
+    },
+    "match004": {
+      "userId1": "user005",
+      "userId2": "user001",
+      "commonFactors": [
+        "STEM",
+        "educational activities"
+      ],
+      "matchScore": 85,
+      "matchedAt": "2025-07-18T21:27:05.465654"
+    },
+    "match005": {
+      "userId1": "user006",
+      "userId2": "user008",
+      "commonFactors": [
+        "cultural activities",
+        "creative activities"
+      ],
+      "matchScore": 81,
+      "matchedAt": "2025-07-18T21:28:05.465654"
+    },
+    "match006": {
+      "userId1": "user007",
+      "userId2": "user003",
+      "commonFactors": [
+        "sports",
+        "active lifestyle"
+      ],
+      "matchScore": 89,
+      "matchedAt": "2025-07-18T21:29:05.465654"
+    },
+    "match007": {
+      "userId1": "user002",
+      "userId2": "user004",
+      "commonFactors": [
+        "community building",
+        "gentle parenting"
+      ],
+      "matchScore": 76,
+      "matchedAt": "2025-07-18T21:30:05.465654"
+    },
+    "match008": {
+      "userId1": "user008",
+      "userId2": "user005",
+      "commonFactors": [
+        "creative activities",
+        "educational activities"
+      ],
+      "matchScore": 83,
+      "matchedAt": "2025-07-18T21:31:05.465654"
+    },
+    "match009": {
+      "userId1": "user009",
+      "userId2": "user007",
+      "commonFactors": [
+        "hands-on activities",
+        "active lifestyle"
+      ],
+      "matchScore": 79,
+      "matchedAt": "2025-07-18T21:32:05.465654"
+    },
+    "match010": {
+      "userId1": "user010",
+      "userId2": "user006",
+      "commonFactors": [
+        "health",
+        "cultural activities"
+      ],
+      "matchScore": 74,
+      "matchedAt": "2025-07-18T21:33:05.465654"
+    }
+  },
+  "reports": {
+    "report001": {
+      "reportedBy": "user001",
+      "targetType": "activity",
+      "targetId": "activity001",
+      "reason": "Inappropriate content",
+      "status": "pending",
+      "createdAt": "2025-07-18T21:24:05.465654"
+    },
+    "report002": {
+      "reportedBy": "user004",
+      "targetType": "user",
+      "targetId": "user007",
+      "reason": "Spam messages",
+      "status": "reviewed",
+      "createdAt": "2025-07-18T21:25:05.465654"
+    },
+    "report003": {
+      "reportedBy": "user010",
+      "targetType": "resource",
+      "targetId": "resource002",
+      "reason": "Inaccurate information",
+      "status": "resolved",
+      "createdAt": "2025-07-18T21:26:05.465654"
+    }
+  },
+  "feedback": {
+    "feedback001": {
+      "submittedBy": "user001",
+      "type": "feature",
+      "title": "Add allergy filter to playdate match",
+      "description": "It would be great to match parents based on allergies.",
+      "status": "open",
+      "createdAt": "2025-07-18T21:24:05.465654",
+      "updatedAt": "2025-07-18T21:24:05.465654"
+    },
+    "feedback002": {
+      "submittedBy": "user003",
+      "type": "bug",
+      "title": "Location not updating correctly",
+      "description": "My location shows incorrectly on the map.",
+      "status": "in_progress",
+      "createdAt": "2025-07-18T21:25:05.465654",
+      "updatedAt": "2025-07-18T21:25:05.465654"
+    },
+    "feedback003": {
+      "submittedBy": "user006",
+      "type": "feature",
+      "title": "Add language preference filter",
+      "description": "Would love to connect with other Korean-speaking families.",
+      "status": "open",
+      "createdAt": "2025-07-18T21:26:05.465654",
+      "updatedAt": "2025-07-18T21:26:05.465654"
+    },
+    "feedback004": {
+      "submittedBy": "user008",
+      "type": "feature",
+      "title": "Photo sharing in conversations",
+      "description": "It would be helpful to share photos in messages.",
+      "status": "planned",
+      "createdAt": "2025-07-18T21:27:05.465654",
+      "updatedAt": "2025-07-18T21:27:05.465654"
+    },
+    "feedback005": {
+      "submittedBy": "user005",
+      "type": "improvement",
+      "title": "Better activity search filters",
+      "description": "The activity search could use more specific filters.",
+      "status": "open",
+      "createdAt": "2025-07-18T21:28:05.465654",
+      "updatedAt": "2025-07-18T21:28:05.465654"
+    }
+  },
+  "app_config": {
+    "main": {
+      "support_email": "help@parentconnect.us",
+      "company_name": "ParentConnect",
+      "support_response_time": "48 hours",
+      "urgent_response_time": "much sooner",
+      "app_version": "1.0.0",
+      "urgent_keywords": [
+        "urgent",
+        "emergency",
+        "safety",
+        "abuse",
+        "harassment",
+        "threat",
+        "danger"
+      ],
+      "features_location_filtering": false,
+      "features_push_notifications": true,
+      "features_community_moderation": false
+    }
+  }
+}

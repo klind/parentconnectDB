@@ -1,0 +1,32 @@
+{
+  "name": "parentconnect",
+  "version": "1.0.0",
+  "description": "ParentConnect - A platform for connecting parents and families",
+  "main": "import.js",
+  "scripts": {
+    "start": "",
+    "loaddata": "node import.js",
+    "dev": "node --watch import.js",
+    "delete": "node delete-all.js",
+    "delete:force": "node delete-all.js --force",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "parenting",
+    "community",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 

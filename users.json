@@ -1,0 +1,300 @@
+{
+  "collection": "users",
+  "total": 13,
+  "data": {
+    "kh9A93UuJuO5YaQ0M9nWSK0KeRo1": {
+      "displayName": "Peter",
+      "email": "klpcrap@gmail.com",
+      "preferences": {
+        "interests": [],
+        "parentingStyle": "",
+        "contactPermissions": false,
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "createdAt": "2025-07-19T10:27:25.862Z"
+    },
+    "user001": {
+      "displayName": "Alice Johnson",
+      "email": "alice@example.com",
+      "photoURL": "",
+      "bio": "Mom of two, loves outdoor activities and STEM education.",
+      "location": {
+        "zipCode": "94102"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "parenting support",
+          "playdate coordination",
+          "educational resources",
+          "activity planning"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.5,
+      "createdAt": "2025-07-18T21:24:05.465654",
+      "updatedAt": "2025-07-18T21:24:05.465654"
+    },
+    "user002": {
+      "displayName": "Maria Rodriguez",
+      "email": "maria@example.com",
+      "photoURL": "",
+      "bio": "Single mom of a 5-year-old, passionate about community building.",
+      "location": {
+        "zipCode": "94103"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "community events",
+          "meal planning",
+          "parenting support",
+          "childcare networking"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.8,
+      "createdAt": "2025-07-18T21:25:05.465654",
+      "updatedAt": "2025-07-18T21:25:05.465654"
+    },
+    "user003": {
+      "displayName": "David Chen",
+      "email": "david@example.com",
+      "photoURL": "",
+      "bio": "Dad of twins, tech enthusiast, loves board games.",
+      "location": {
+        "zipCode": "94104"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "activity planning",
+          "screen time management",
+          "educational resources",
+          "behavior guidance"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.2,
+      "createdAt": "2025-07-18T21:26:05.465654",
+      "updatedAt": "2025-07-18T21:26:05.465654"
+    },
+    "user004": {
+      "displayName": "Sarah Williams",
+      "email": "sarah@example.com",
+      "photoURL": "",
+      "bio": "Working mom, loves yoga and mindfulness with kids.",
+      "location": {
+        "zipCode": "94105"
+      },
+      "preferences": {
+        "contactPermissions": false,
+        "interests": [
+          "health advice",
+          "work life balance",
+          "outdoor family activities",
+          "developmental milestones"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.6,
+      "createdAt": "2025-07-18T21:27:05.465654",
+      "updatedAt": "2025-07-18T21:27:05.465654"
+    },
+    "user005": {
+      "displayName": "James Thompson",
+      "email": "james@example.com",
+      "photoURL": "",
+      "bio": "Stay-at-home dad, former teacher, loves educational activities.",
+      "location": {
+        "zipCode": "94107"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "educational resources",
+          "school support",
+          "developmental milestones",
+          "creative family projects"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.9,
+      "createdAt": "2025-07-18T21:28:05.465654",
+      "updatedAt": "2025-07-18T21:28:05.465654"
+    },
+    "user006": {
+      "displayName": "Lisa Park",
+      "email": "lisa@example.com",
+      "photoURL": "",
+      "bio": "Mom of three, Korean-American, loves cultural activities.",
+      "location": {
+        "zipCode": "94108"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "cultural education",
+          "meal planning",
+          "community events",
+          "allergy management"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.4,
+      "createdAt": "2025-07-18T21:29:05.465654",
+      "updatedAt": "2025-07-18T21:29:05.465654"
+    },
+    "user007": {
+      "displayName": "Michael Brown",
+      "email": "michael@example.com",
+      "photoURL": "",
+      "bio": "Dad of one, fitness enthusiast, loves outdoor adventures.",
+      "location": {
+        "zipCode": "94109"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "outdoor family activities",
+          "health advice",
+          "activity planning",
+          "safety education"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.3,
+      "createdAt": "2025-07-18T21:30:05.465654",
+      "updatedAt": "2025-07-18T21:30:05.465654"
+    },
+    "user008": {
+      "displayName": "Emma Davis",
+      "email": "emma@example.com",
+      "photoURL": "",
+      "bio": "Single mom, artist, loves creative activities with daughter.",
+      "location": {
+        "zipCode": "94110"
+      },
+      "preferences": {
+        "contactPermissions": false,
+        "interests": [
+          "creative family projects",
+          "activity planning",
+          "developmental milestones",
+          "work life balance"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.7,
+      "createdAt": "2025-07-18T21:31:05.465654",
+      "updatedAt": "2025-07-18T21:31:05.465654"
+    },
+    "user009": {
+      "displayName": "Robert Wilson",
+      "email": "robert@example.com",
+      "photoURL": "",
+      "bio": "Dad of two, engineer, loves building and construction activities.",
+      "location": {
+        "zipCode": "94111"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "educational resources",
+          "activity planning",
+          "developmental milestones",
+          "creative family projects"
+        ],
+        "privacy": {
+          "allowDiscovery": true
+        }
+      },
+      "trustScore": 4.1,
+      "createdAt": "2025-07-18T21:32:05.465654",
+      "updatedAt": "2025-07-18T21:32:05.465654"
+    },
+    "user010": {
+      "displayName": "Jennifer Lee",
+      "email": "jennifer@example.com",
+      "photoURL": "",
+      "bio": "Mom of twins, pediatrician, loves health and wellness activities.",
+      "location": {
+        "zipCode": "94112"
+      },
+      "preferences": {
+        "contactPermissions": true,
+        "interests": [
+          "health advice",
+          "allergy management",
+          "meal planning",
+          "developmental milestones"
+        ]
+      },
+      "trustScore": 4.8,
+      "createdAt": "2025-07-18T21:33:05.465654",
+      "updatedAt": "2025-07-18T21:33:05.465654"
+    },
+    "wr6TfEAKy8fcU9agJyWyOdtgfRO2": {
+      "displayName": "Kris ",
+      "email": "kl@parentconnect.com",
+      "createdAt": "2025-07-19T11:25:43.521Z",
+      "preferences": {
+        "interests": [],
+        "parentingStyle": "",
+        "contactPermissions": true
+      }
+    },
+    "z1RjlZyE5rdCfA3D0cMqEq57wcn1": {
+      "displayName": "Kristian ",
+      "email": "klindp@gmail.com",
+      "createdAt": "2025-07-19T10:26:28.037Z",
+      "bio": "Bio",
+      "location": {
+        "state": "No",
+        "zipCode": "5000",
+        "city": "Odense"
+      },
+      "isAdmin": true,
+      "preferences": {
+        "interests": [
+          "activity planning",
+          "allergy management",
+          "behavior guidance",
+          "creative family projects"
+        ],
+        "contactPermissions": true,
+        "notifications": {
+          "pushEnabled": true,
+          "playdateInvitations": true,
+          "parentMessages": true,
+          "newParentsNearby": true,
+          "communityEvents": true,
+          "activityRecommendations": true,
+          "nearbyPlaces": false,
+          "safetyAlerts": true,
+          "weatherAlerts": true
+        },
+        "distanceUnit": "miles",
+        "locationTrackingEnabled": true
+      }
+    }
+  }
+}

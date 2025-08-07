@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Odense Zoo",
+    "description": "Family-friendly zoo with over 2,000 animals and interactive exhibits. Perfect for children of all ages with playgrounds and picnic areas.",
+    "category": "Museums",
+    "location": {
+      "lat": 55.3961,
+      "lng": 10.3881
+    },
+    "submittedBy": "user001",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.6,
+    "totalRatings": 45,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user002",
+          "rating": 5,
+          "comment": "Amazing zoo! My kids loved the lions and the playground. Great family day out.",
+          "createdAt": "2025-01-20T11:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user004",
+          "rating": 4,
+          "comment": "Beautiful zoo with lots of space. Food is expensive but worth it for the experience.",
+          "createdAt": "2025-01-20T12:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Brandts Museum of Art",
+    "description": "Contemporary art museum with family-friendly exhibitions and workshops. Offers guided tours for children and interactive art activities.",
+    "category": "Museums",
+    "location": {
+      "lat": 55.4039,
+      "lng": 10.3889
+    },
+    "submittedBy": "user003",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.3,
+    "totalRatings": 28,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user005",
+          "rating": 4,
+          "comment": "Great art museum with interesting exhibits. Kids enjoyed the interactive sections.",
+          "createdAt": "2025-01-20T13:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user008",
+          "rating": 5,
+          "comment": "Perfect for introducing children to art. The workshops are fantastic!",
+          "createdAt": "2025-01-20T14:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Skatepark",
+    "description": "Modern skatepark with ramps, bowls, and street obstacles. Suitable for beginners to advanced skaters. Safety equipment available for rent.",
+    "category": "Gyms",
+    "location": {
+      "lat": 55.3989,
+      "lng": 10.3922
+    },
+    "submittedBy": "user007",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.7,
+    "totalRatings": 32,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user009",
+          "rating": 5,
+          "comment": "Best skatepark in the area! My son loves it here. Great for all skill levels.",
+          "createdAt": "2025-01-20T15:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user006",
+          "rating": 4,
+          "comment": "Well-maintained park with good facilities. Can get crowded on weekends.",
+          "createdAt": "2025-01-20T16:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Public Library - Children's Section",
+    "description": "Extensive children's library with reading programs, storytelling sessions, and educational activities. Free membership for all children.",
+    "category": "Libraries",
+    "location": {
+      "lat": 55.4047,
+      "lng": 10.3867
+    },
+    "submittedBy": "user005",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.8,
+    "totalRatings": 67,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user001",
+          "rating": 5,
+          "comment": "Wonderful library! My kids love the story time sessions and the huge book collection.",
+          "createdAt": "2025-01-20T17:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user010",
+          "rating": 5,
+          "comment": "Excellent children's section with helpful staff. Great educational programs.",
+          "createdAt": "2025-01-20T18:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Swimming Center",
+    "description": "Modern swimming facility with multiple pools, water slides, and swimming lessons for all ages. Family changing rooms available.",
+    "category": "Swimming Pools",
+    "location": {
+      "lat": 55.3978,
+      "lng": 10.3905
+    },
+    "submittedBy": "user004",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.4,
+    "totalRatings": 89,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user002",
+          "rating": 4,
+          "comment": "Great swimming center with clean facilities. My kids love the water slides!",
+          "createdAt": "2025-01-20T19:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user007",
+          "rating": 5,
+          "comment": "Excellent swimming lessons for children. Professional instructors.",
+          "createdAt": "2025-01-20T20:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Hans Christian Andersen Museum",
+    "description": "Interactive museum dedicated to the famous Danish author. Features fairy tale exhibits, storytelling sessions, and children's workshops.",
+    "category": "Museums",
+    "location": {
+      "lat": 55.4033,
+      "lng": 10.3878
+    },
+    "submittedBy": "user008",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.5,
+    "totalRatings": 156,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user003",
+          "rating": 5,
+          "comment": "Magical place! My children were enchanted by the fairy tale exhibits.",
+          "createdAt": "2025-01-20T21:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user006",
+          "rating": 4,
+          "comment": "Beautiful museum with engaging exhibits. Great for introducing kids to literature.",
+          "createdAt": "2025-01-20T22:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Adventure Playground",
+    "description": "Large adventure playground with climbing structures, zip lines, sandpits, and natural play areas. Perfect for active children.",
+    "category": "Playgrounds",
+    "location": {
+      "lat": 55.3995,
+      "lng": 10.3918
+    },
+    "submittedBy": "user001",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.6,
+    "totalRatings": 78,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user009",
+          "rating": 5,
+          "comment": "Amazing playground! My kids can spend hours here. Great for all ages.",
+          "createdAt": "2025-01-20T23:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user005",
+          "rating": 4,
+          "comment": "Excellent playground with lots of different activities. Well-maintained equipment.",
+          "createdAt": "2025-01-21T00:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Science Center",
+    "description": "Interactive science museum with hands-on experiments, planetarium shows, and educational workshops for children and families.",
+    "category": "Schools",
+    "location": {
+      "lat": 55.4012,
+      "lng": 10.3895
+    },
+    "submittedBy": "user005",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.7,
+    "totalRatings": 94,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user002",
+          "rating": 5,
+          "comment": "Fantastic science center! My kids love the interactive exhibits and experiments.",
+          "createdAt": "2025-01-21T01:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user010",
+          "rating": 5,
+          "comment": "Excellent educational experience. The planetarium shows are amazing!",
+          "createdAt": "2025-01-21T02:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Music School",
+    "description": "Professional music school offering lessons in piano, guitar, violin, drums, and voice for children of all ages. Group classes available.",
+    "category": "Schools",
+    "location": {
+      "lat": 55.4028,
+      "lng": 10.3883
+    },
+    "submittedBy": "user006",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.4,
+    "totalRatings": 56,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user008",
+          "rating": 4,
+          "comment": "Great music school with talented teachers. My daughter loves her piano lessons.",
+          "createdAt": "2025-01-21T03:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user003",
+          "rating": 5,
+          "comment": "Excellent music education. The teachers are patient and encouraging.",
+          "createdAt": "2025-01-21T04:00:00.000Z"
+        }
+      }
+    }
+  },
+  {
+    "name": "Odense Children's Hospital Playroom",
+    "description": "Bright and welcoming playroom for children visiting the hospital. Staffed by child life specialists with toys, games, and activities.",
+    "category": "Hospitals",
+    "location": {
+      "lat": 55.3967,
+      "lng": 10.3933
+    },
+    "submittedBy": "user010",
+    "approved": true,
+    "createdAt": "2025-01-20T10:00:00.000Z",
+    "updatedAt": "2025-01-20T10:00:00.000Z",
+    "averageRating": 4.8,
+    "totalRatings": 23,
+    "_subcollections": {
+      "reviews": {
+        "review001": {
+          "userId": "user004",
+          "rating": 5,
+          "comment": "Wonderful playroom that makes hospital visits less scary for children.",
+          "createdAt": "2025-01-21T05:00:00.000Z"
+        },
+        "review002": {
+          "userId": "user007",
+          "rating": 5,
+          "comment": "Amazing staff who really care about making children comfortable.",
+          "createdAt": "2025-01-21T06:00:00.000Z"
+        }
+      }
+    }
+  }
+] 

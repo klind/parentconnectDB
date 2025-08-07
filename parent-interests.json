@@ -1,0 +1,109 @@
+Fetching all parent interests from the database...
+{
+  "collection": "parent_interests",
+  "total": 20,
+  "data": {
+    "activity_planning": {
+      "name": "activity planning",
+      "category": "planning",
+      "description": "Planning family activities and outings"
+    },
+    "allergy_management": {
+      "name": "allergy management",
+      "category": "health",
+      "description": "Managing food allergies and sensitivities"
+    },
+    "behavior_guidance": {
+      "name": "behavior guidance",
+      "category": "parenting",
+      "description": "Behavior management and guidance strategies"
+    },
+    "childcare_networking": {
+      "name": "childcare networking",
+      "category": "support",
+      "description": "Networking for childcare and babysitting"
+    },
+    "community_events": {
+      "name": "community events",
+      "category": "social",
+      "description": "Community gatherings and family events"
+    },
+    "creative_family_projects": {
+      "name": "creative family projects",
+      "category": "creative",
+      "description": "Creative projects and activities for families"
+    },
+    "cultural_education": {
+      "name": "cultural education",
+      "category": "cultural",
+      "description": "Cultural education and traditions"
+    },
+    "developmental_milestones": {
+      "name": "developmental milestones",
+      "category": "development",
+      "description": "Tracking and supporting developmental milestones"
+    },
+    "educational_resources": {
+      "name": "educational resources",
+      "category": "resources",
+      "description": "Finding educational resources and programs"
+    },
+    "financial_planning": {
+      "name": "financial planning",
+      "category": "planning",
+      "description": "Financial planning for families"
+    },
+    "health_advice": {
+      "name": "health advice",
+      "category": "health",
+      "description": "Health and wellness advice for families"
+    },
+    "meal_planning": {
+      "name": "meal planning",
+      "category": "lifestyle",
+      "description": "Family meal planning and nutrition"
+    },
+    "outdoor_family_activities": {
+      "name": "outdoor family activities",
+      "category": "physical",
+      "description": "Outdoor activities for the whole family"
+    },
+    "parenting_support": {
+      "name": "parenting support",
+      "category": "support",
+      "description": "Parenting advice and support groups"
+    },
+    "playdate_coordination": {
+      "name": "playdate coordination",
+      "category": "social",
+      "description": "Organizing and coordinating playdates"
+    },
+    "safety_education": {
+      "name": "safety education",
+      "category": "education",
+      "description": "Child safety and education"
+    },
+    "school_support": {
+      "name": "school support",
+      "category": "education",
+      "description": "School-related support and resources"
+    },
+    "screen_time_management": {
+      "name": "screen time management",
+      "category": "technology",
+      "description": "Managing screen time and digital activities"
+    },
+    "special_needs_support": {
+      "name": "special needs support",
+      "category": "support",
+      "description": "Support for children with special needs"
+    },
+    "work_life_balance": {
+      "name": "work life balance",
+      "category": "lifestyle",
+      "description": "Balancing work and family life"
+    }
+  }
+}
+
+Parent interests listing completed successfully!

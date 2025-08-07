@@ -1,0 +1,286 @@
+Fetching all child diagnoses from the database...
+{
+  "collection": "child_diagnoses",
+  "totalCategories": 4,
+  "categories": {
+    "chronic_medical_conditions": {
+      "name": "Chronic Medical Conditions",
+      "description": "Long-term health conditions requiring ongoing management",
+      "createdAt": "2025-07-25T15:05:58.039Z",
+      "updatedAt": "2025-07-25T15:05:58.039Z",
+      "diagnoses": {
+        "allergies": {
+          "name": "Allergies",
+          "description": "Food or environmental allergies",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "asthma": {
+          "name": "Asthma",
+          "description": "Chronic respiratory condition affecting breathing",
+          "ageRange": "2-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "cystic_fibrosis": {
+          "name": "Cystic Fibrosis",
+          "description": "Genetic disorder affecting lungs and digestive system",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "diabetes_type1": {
+          "name": "Diabetes (Type 1)",
+          "description": "Autoimmune condition affecting blood sugar regulation",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "eczema": {
+          "name": "Eczema",
+          "description": "Chronic skin condition causing inflammation and itching",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "epilepsy": {
+          "name": "Epilepsy or Seizure Disorder",
+          "description": "Neurological disorder causing recurrent seizures",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "gastrointestinal_issues": {
+          "name": "Gastrointestinal Issues",
+          "description": "Digestive system disorders (e.g., IBS, reflux)",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "heart_condition": {
+          "name": "Heart Condition",
+          "description": "Various cardiovascular conditions",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "prediabetes": {
+          "name": "Prediabetes",
+          "description": "Elevated blood sugar levels below diabetes threshold",
+          "ageRange": "8-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "sleep_disorder": {
+          "name": "Sleep Disorder",
+          "description": "Sleep-related conditions (e.g., insomnia, apnea)",
+          "ageRange": "0-18",
+          "category": "chronic_medical_conditions",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        }
+      },
+      "diagnosisCount": 10
+    },
+    "emotional_psychological": {
+      "name": "Emotional or Psychological",
+      "description": "Mental health conditions affecting emotional well-being",
+      "createdAt": "2025-07-25T15:05:58.039Z",
+      "updatedAt": "2025-07-25T15:05:58.039Z",
+      "diagnoses": {
+        "behavioral_regulation_challenges": {
+          "name": "Behavioral Regulation Challenges",
+          "description": "Difficulties managing emotions and behaviors",
+          "ageRange": "3-18",
+          "category": "emotional_psychological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "depression": {
+          "name": "Depression",
+          "description": "Persistent feelings of sadness and loss of interest",
+          "ageRange": "6-18",
+          "category": "emotional_psychological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "mood_disorder": {
+          "name": "Mood Disorder",
+          "description": "Conditions affecting emotional state and mood regulation",
+          "ageRange": "6-18",
+          "category": "emotional_psychological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "ptsd": {
+          "name": "PTSD (Post-Traumatic Stress Disorder)",
+          "description": "Mental health condition triggered by traumatic events",
+          "ageRange": "3-18",
+          "category": "emotional_psychological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "social_anxiety": {
+          "name": "Social Anxiety",
+          "description": "Intense fear of social situations and interactions",
+          "ageRange": "8-18",
+          "category": "emotional_psychological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        }
+      },
+      "diagnosisCount": 5
+    },
+    "genetic_neurological": {
+      "name": "Genetic or Neurological",
+      "description": "Conditions caused by genetic factors or neurological differences",
+      "createdAt": "2025-07-25T15:05:58.039Z",
+      "updatedAt": "2025-07-25T15:05:58.039Z",
+      "diagnoses": {
+        "cerebral_palsy": {
+          "name": "Cerebral Palsy",
+          "description": "Neurological disorder affecting movement and posture",
+          "ageRange": "0-18",
+          "category": "genetic_neurological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "down_syndrome": {
+          "name": "Down Syndrome",
+          "description": "Genetic condition caused by extra chromosome 21",
+          "ageRange": "0-18",
+          "category": "genetic_neurological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "fragile_x_syndrome": {
+          "name": "Fragile X Syndrome",
+          "description": "Genetic condition causing intellectual disability",
+          "ageRange": "0-18",
+          "category": "genetic_neurological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "muscular_dystrophy": {
+          "name": "Muscular Dystrophy",
+          "description": "Group of genetic diseases causing muscle weakness",
+          "ageRange": "0-18",
+          "category": "genetic_neurological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "spina_bifida": {
+          "name": "Spina Bifida",
+          "description": "Birth defect affecting spinal cord development",
+          "ageRange": "0-18",
+          "category": "genetic_neurological",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        }
+      },
+      "diagnosisCount": 5
+    },
+    "neurodevelopmental_behavioral": {
+      "name": "Neurodevelopmental & Behavioral",
+      "description": "Conditions affecting brain development, behavior, and learning",
+      "createdAt": "2025-07-25T15:05:58.039Z",
+      "updatedAt": "2025-07-25T15:05:58.039Z",
+      "diagnoses": {
+        "add": {
+          "name": "Attention Deficit Disorder (ADD)",
+          "description": "A subtype of ADHD without hyperactivity",
+          "ageRange": "3-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "adhd": {
+          "name": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+          "description": "A neurodevelopmental disorder affecting attention and impulse control",
+          "ageRange": "3-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "anxiety_disorder": {
+          "name": "Anxiety Disorder",
+          "description": "Excessive worry and fear affecting daily life",
+          "ageRange": "3-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "autism_spectrum_disorder": {
+          "name": "Autism Spectrum Disorder (ASD)",
+          "description": "A developmental disorder affecting communication and behavior",
+          "ageRange": "2-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "developmental_delay": {
+          "name": "Developmental Delay",
+          "description": "Global or specific delays in developmental milestones",
+          "ageRange": "0-8",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "intellectual_disability": {
+          "name": "Intellectual Disability",
+          "description": "Significant limitations in intellectual functioning and adaptive behavior",
+          "ageRange": "2-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "learning_disability": {
+          "name": "Learning Disability",
+          "description": "Specific learning difficulties (e.g., dyslexia, dyscalculia)",
+          "ageRange": "5-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "odd": {
+          "name": "Oppositional Defiant Disorder (ODD)",
+          "description": "A pattern of angry, defiant, and vindictive behavior",
+          "ageRange": "3-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "sensory_processing_disorder": {
+          "name": "Sensory Processing Disorder",
+          "description": "Difficulty processing sensory information from the environment",
+          "ageRange": "2-18",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        },
+        "speech_language_delay": {
+          "name": "Speech or Language Delay",
+          "description": "Delayed development of speech and language skills",
+          "ageRange": "2-8",
+          "category": "neurodevelopmental_behavioral",
+          "createdAt": "2025-07-25T15:05:58.039Z",
+          "updatedAt": "2025-07-25T15:05:58.039Z"
+        }
+      },
+      "diagnosisCount": 10
+    }
+  },
+  "totalDiagnoses": 30
+}
+
+Child diagnoses listing completed successfully!

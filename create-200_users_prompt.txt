@@ -1,0 +1,90 @@
+Create a JSON array of 200 user objects for a React Native app, each representing a parent living in the Salt Lake City metro area.
+
+➤ Each user should match the following structure exactly (no extra fields):
+
+"user001": {
+    "displayName": "John Romero",
+    "email": "john.romero88@gmail.com",
+    "photoURL": "",
+    "bio": "Hi, I'm a parent of 3 children in the Salt Lake City area. Looking to connect with other families!",
+    "location": {
+      "state": "UT",
+      "city": "West Haven",
+      "zipCode": "84201"
+    },
+    "preferences": {
+      "contactPermissions": true,
+      "distanceUnit": "km",
+      "locationTrackingEnabled": true,
+      "privacy": {
+        "allowDirectMessages": true,
+        "dataCollection": false,
+        "marketingEmails": true,
+        "profileVisibility": "friends",
+        "shareActivityData": true,
+        "showChildren": true,
+        "showLocation": true
+      }
+    },
+    "_subcollections": {
+      "children": {
+        "child001": {
+          "name": "Lillian",
+          "age": 11,
+          "gender": "female",
+          "interests": [
+            "biology",
+            "swimming",
+            "photography",
+            "robotics_advanced"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        },
+        "child002": {
+          "name": "Jack",
+          "age": 3,
+          "gender": "female",
+          "interests": [
+            "chess",
+            "volunteering",
+            "3d_printing",
+            "investing",
+            "activism"
+          ],
+          "allergies": [],
+          "diagnoses": [
+            "developmental_delay"
+          ]
+        },
+        "child003": {
+          "name": "Aiden",
+          "age": 12,
+          "gender": "male",
+          "interests": [
+            "trains",
+            "animals",
+            "activism",
+            "makeup"
+          ],
+          "allergies": [],
+          "diagnoses": []
+        }
+      }
+    },
+    "createdAt": "2024-02-02T08:06:19.827Z",
+    "updatedAt": "2024-05-06T10:27:05.534Z"
+  }
+  
+
+➤ Fill in:
+- Parent `interests` using values from `list-parent-interests.js`
+- Each user should have 1–3 children, named uniquely
+- Child `interests` using `list-child-interests.js`
+- For some children, include 1–2 `diagnoses` from `list-child-diagnoses.js`
+- For some children, include 1–2 `allergies` from `list-allergies.js`
+- Use realistic `displayName`, `email`, `bio`, and Salt Lake City–area ZIP codes
+- Use ISO 8601 timestamps for dates (createdAt, updatedAt, lastActive)
+- Do **not** include any script, explanation, or code comments — just output the JSON
+
+Save the entire result as a single file like `seed-users.json`
