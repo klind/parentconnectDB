@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Enterprise Library",
+    "category": "Libraries",
+    "address": "25 E Shelbourne Ave, Las Vegas, NV 89123",
+    "longitude": -115.1701,
+    "latitude": 36.0175,
+    "description": "A bright and welcoming library offering books, movies, activities, story times, and free museum passes for families.",
+    "images": [],
+    "reviews": [
+      "Great kids’ section and play area.",
+      "Staff is always helpful and friendly.",
+      "My kids love story time and all the crafts.",
+      "Clean and spacious with lots of books for all ages."
+    ]
+  },
+  {
+    "name": "Las Vegas Library - West Charleston",
+    "category": "Libraries",
+    "address": "6300 W Charleston Blvd, Las Vegas, NV 89146",
+    "longitude": -115.2434,
+    "latitude": 36.1353,
+    "description": "Modern library with extensive children’s programs, reading areas, and multimedia collections.",
+    "images": [],
+    "reviews": [
+      "Beautiful new library with a friendly atmosphere.",
+      "Lots of children’s books and activities.",
+      "Great computer access and study spaces.",
+      "Friendly and knowledgeable staff."
+    ]
+  },
+  {
+    "name": "Las Vegas Library - Clark County",
+    "category": "Libraries",
+    "address": "1401 E Flamingo Rd, Las Vegas, NV 89119",
+    "longitude": -115.1271,
+    "latitude": 36.1153,
+    "description": "Large library with diverse sections including a children’s area, events, and community rooms.",
+    "images": [],
+    "reviews": [
+      "Wonderful children’s programs and storytimes.",
+      "Lots of books and friendly staff.",
+      "Clean and inviting space for families.",
+      "Parking is convenient and staff very helpful."
+    ]
+  },
+  {
+    "name": "Clark County Library - Windmill",
+    "category": "Libraries",
+    "address": "7060 W Windmill Ln, Las Vegas, NV 89113",
+    "longitude": -115.2904,
+    "latitude": 36.0498,
+    "description": "Community library featuring children’s activities, reading programs, and public services.",
+    "images": [],
+    "reviews": [
+      "Excellent kid-friendly environment.",
+      "Lots of fun educational programs.",
+      "Clean and well-organized library.",
+      "Friendly and helpful staff."
+    ]
+  },
+  {
+    "name": "Meadows Library",
+    "category": "Libraries",
+    "address": "2301 S Nellis Blvd, Las Vegas, NV 89104",
+    "longitude": -115.0827,
+    "latitude": 36.0790,
+    "description": "Cozy neighborhood library with children’s storytimes and diverse book collections.",
+    "images": [],
+    "reviews": [
+      "Great location with friendly staff.",
+      "Good range of children’s books.",
+      "Nice quiet reading areas.",
+      "Enjoyed the family events here."
+    ]
+  },
+  {
+    "name": "Sahara West Library",
+    "category": "Libraries",
+    "address": "9600 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2735,
+    "latitude": 36.1593,
+    "description": "A spacious library with a welcoming children’s section and regular family programs.",
+    "images": [],
+    "reviews": [
+      "Wonderful space for kids to explore books.",
+      "Lots of seating and computers.",
+      "Staff are excellent and friendly.",
+      "Great storytime sessions for toddlers."
+    ]
+  },
+  {
+    "name": "East Las Vegas Library",
+    "category": "Libraries",
+    "address": "2851 E Bonanza Rd, Las Vegas, NV 89101",
+    "longitude": -115.0921,
+    "latitude": 36.1578,
+    "description": "Offers a variety of children’s programs and a comfortable reading environment.",
+    "images": [],
+    "reviews": [
+      "Friendly staff and good selection of children’s books.",
+      "The kids love the art and craft sessions.",
+      "Quiet and peaceful place for reading.",
+      "Parking is convenient."
+    ]
+  },
+  {
+    "name": "Rainbow Library",
+    "category": "Libraries",
+    "address": "3150 N Rainbow Blvd, Las Vegas, NV 89108",
+    "longitude": -115.2194,
+    "latitude": 36.1415,
+    "description": "Library with a strong focus on children’s literacy and inclusive programs.",
+    "images": [],
+    "reviews": [
+      "Excellent storytime and reading programs for kids.",
+      "Helpful and knowledgeable staff.",
+      "Clean and welcoming environment.",
+      "Easy access and parking."
+    ]
+  },
+  {
+    "name": "Summerlin Library",
+    "category": "Libraries",
+    "address": "1771 Inner Circle Dr #150, Las Vegas, NV 89134",
+    "longitude": -115.3152,
+    "latitude": 36.1849,
+    "description": "Modern library with creative programs for children and teens, plus quiet spaces for study and reading.",
+    "images": [],
+    "reviews": [
+      "Best library in the Summerlin area for kids.",
+      "Fun activities and friendly staff.",
+      "Lots of new books and digital resources.",
+      "Peaceful and well-organized."
+    ]
+  },
+  {
+    "name": "West Las Vegas Library",
+    "category": "Libraries",
+    "address": "951 W Lake Mead Blvd, North Las Vegas, NV 89030",
+    "longitude": -115.1457,
+    "latitude": 36.2370,
+    "description": "Community-focused library with a welcoming children’s area and diverse programs.",
+    "images": [],
+    "reviews": [
+      "Great library for families.",
+      "The storytime sessions are very popular.",
+      "Lots of educational materials and toys.",
+      "Friendly and helpful staff."
+    ]
+  },
+  {
+    "name": "Paradise Library",
+    "category": "Libraries",
+    "address": "4375 S Jones Blvd, Las Vegas, NV 89103",
+    "longitude": -115.2346,
+    "latitude": 36.0950,
+    "description": "Modern, family-friendly library featuring children’s activities and community events.",
+    "images": [],
+    "reviews": [
+      "My kids love coming here for storytime.",
+      "Great community vibe with lots of events.",
+      "Clean and spacious children's area.",
+      "Staff are very welcoming."
+    ]
+  },
+  {
+    "name": "Centennial Hills Library",
+    "category": "Libraries",
+    "address": "6711 N Buffalo Dr, Las Vegas, NV 89131",
+    "longitude": -115.2900,
+    "latitude": 36.2460,
+    "description": "Large library with children's reading programs, crafts, and group activities.",
+    "images": [],
+    "reviews": [
+      "Excellent place for children’s literacy programs.",
+      "Lots of books and space to hang out.",
+      "Friendly staff and safe environment.",
+      "Perfect for family visits."
+    ]
+  },
+  {
+    "name": "Sandy Valley Library",
+    "category": "Libraries",
+    "address": "650 E Desert Inn Rd, Las Vegas, NV 89169",
+    "longitude": -115.3598,
+    "latitude": 36.1191,
+    "description": "Small community library offering children’s storytelling and educational resources.",
+    "images": [],
+    "reviews": [
+      "Quiet and cozy library with friendly staff.",
+      "Good selection of children’s books.",
+      "Lovely place for young kids.",
+      "Welcoming and safe for families."
+    ]
+  },
+  {
+    "name": "Spring Valley Library",
+    "category": "Libraries",
+    "address": "4280 S Hualapai Way, Las Vegas, NV 89147",
+    "longitude": -115.2175,
+    "latitude": 36.0786,
+    "description": "A community library with a well-stocked children’s section and family programs.",
+    "images": [],
+    "reviews": [
+      "Great for kids with lots of activities.",
+      "Friendly librarian and staff.",
+      "Clean and cozy environment.",
+      "Programs are educational and fun."
+    ]
+  },
+  {
+    "name": "West Henderson Library",
+    "category": "Libraries",
+    "address": "280 S Green Valley Pkwy, Henderson, NV 89074",
+    "longitude": -115.0967,
+    "latitude": 36.0206,
+    "description": "Library offering a wide array of children’s books and community events.",
+    "images": [],
+    "reviews": [
+      "Well-maintained and staffed.",
+      "My kids love the storytelling hours.",
+      "Lots of programs for families.",
+      "Quiet and welcoming environment."
+    ]
+  },
+  {
+    "name": "Spanish Trail Library",
+    "category": "Libraries",
+    "address": "250 S Stephanie St, Henderson, NV 89012",
+    "longitude": -115.1356,
+    "latitude": 35.9978,
+    "description": "Community library with a warm children’s area and regular family-friendly events.",
+    "images": [],
+    "reviews": [
+      "Great place for literacy and fun programs.",
+      "Staff are helpful and welcoming.",
+      "Lots of books and activities for kids.",
+      "Nice, calm environment for reading."
+    ]
+  },
+  {
+    "name": "Mesquite Library",
+    "category": "Libraries",
+    "address": "160 W 1st N, Mesquite, NV 89027",
+    "longitude": -114.0679,
+    "latitude": 36.8056,
+    "description": "Small library offering children’s reading programs and community support resources.",
+    "images": [],
+    "reviews": [
+      "Lovely small town library with a warm atmosphere.",
+      "Plenty of books for kids of all ages.",
+      "Friendly staff and good storytimes.",
+      "Clean and well-organized."
+    ]
+  },
+  {
+    "name": "North Las Vegas Library",
+    "category": "Libraries",
+    "address": "710 W Lake Mead Blvd, North Las Vegas, NV 89030",
+    "longitude": -115.1500,
+    "latitude": 36.2399,
+    "description": "Large community library with a children’s section, events, and computer access.",
+    "images": [],
+    "reviews": [
+      "Great facilities and programs for families.",
+      "Helpful staff and clean environment.",
+      "Lots of books and other resources.",
+      "Perfect for quiet study and reading."
+    ]
+  },
+  {
+    "name": "Henderson Libraries - Paseo Verde",
+    "category": "Libraries",
+    "address": "280 S Green Valley Pkwy, Henderson, NV 89012",
+    "longitude": -115.0984,
+    "latitude": 36.0212,
+    "description": "Modern library with children’s programming, study spaces, and technology resources.",
+    "images": [],
+    "reviews": [
+      "Lots of activities for kids and teens.",
+      "Great staff and clean facilities.",
+      "My kids always enjoy the story hours.",
+      "Well stocked with new books."
+    ]
+  }
+]

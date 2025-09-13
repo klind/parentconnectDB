@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Las Vegas Swim Center",
+    "category": "Swimming Pools",
+    "address": "4501 W Bonanza Rd, Las Vegas, NV 89107",
+    "longitude": -115.1872,
+    "latitude": 36.1643,
+    "description": "Public swimming pool with family-friendly swim hours and lessons for children of all ages.",
+    "images": [],
+    "reviews": [
+      "Clean and well-maintained pool.",
+      "Great swim lessons for kids.",
+      "Friendly staff and safe environment.",
+      "Perfect spot to cool off in summer."
+    ]
+  },
+  {
+    "name": "Canyon Gate Country Club Pool",
+    "category": "Swimming Pools",
+    "address": "2001 Northern Lights Dr, Las Vegas, NV 89108",
+    "longitude": -115.2359,
+    "latitude": 36.1449,
+    "description": "Private club pool with well-kept facilities and family swim times available.",
+    "images": [],
+    "reviews": [
+      "Lovely pool and peaceful setting.",
+      "Kid-friendly with clean water.",
+      "Staff are attentive and helpful.",
+      "Great for family swim days."
+    ]
+  },
+  {
+    "name": "The Orleans Hotel & Casino Pool",
+    "category": "Swimming Pools",
+    "address": "4500 W Tropicana Ave, Las Vegas, NV 89103",
+    "longitude": -115.2318,
+    "latitude": 36.1291,
+    "description": "Resort-style pool with a family-friendly atmosphere and shallow areas for young children.",
+    "images": [],
+    "reviews": [
+      "Perfect pool for families with kids.",
+      "Clean and well cared for.",
+      "Lifeguards are very professional.",
+      "Fun and safe environment."
+    ]
+  },
+  {
+    "name": "Sunset Park Pool",
+    "category": "Swimming Pools",
+    "address": "2601 E Sunset Rd, Las Vegas, NV 89120",
+    "longitude": -115.0979,
+    "latitude": 36.0847,
+    "description": "Large community pool with swim lessons and family swim hours, located within Sunset Park.",
+    "images": [],
+    "reviews": [
+      "Great pool for families.",
+      "Swimming lessons are excellent.",
+      "Staff is friendly and supportive.",
+      "Perfect spot for summer fun."
+    ]
+  },
+  {
+    "name": "Mountain's Edge Aquatic Center",
+    "category": "Swimming Pools",
+    "address": "9550 Mountain Ridge Dr, Las Vegas, NV 89178",
+    "longitude": -115.2959,
+    "latitude": 36.0117,
+    "description": "Public aquatic center with lap swimming, recreation pool, and kid-friendly splash areas.",
+    "images": [],
+    "reviews": [
+      "Great facility with plenty of space.",
+      "Family-friendly and clean.",
+      "Staff make kids feel welcome.",
+      "Lots of fun features for children."
+    ]
+  },
+  {
+    "name": "Tivoli Village Pool",
+    "category": "Swimming Pools",
+    "address": "410 S Rampart Blvd, Las Vegas, NV 89145",
+    "longitude": -115.2624,
+    "latitude": 36.1744,
+    "description": "Community pool with a relaxed environment and amenities suitable for families with children.",
+    "images": [],
+    "reviews": [
+      "Nice and calm pool.",
+      "Great for family swim outings.",
+      "Clean and well maintained.",
+      "Perfect for little swimmers."
+    ]
+  },
+  {
+    "name": "Centennial Hills Pool",
+    "category": "Swimming Pools",
+    "address": "7101 W Alexander Rd, Las Vegas, NV 89129",
+    "longitude": -115.2980,
+    "latitude": 36.2324,
+    "description": "Large public pool featuring family swim times and swim lessons for all ages.",
+    "images": [],
+    "reviews": [
+      "Excellent pool for children.",
+      "Friendly instructors and lifeguards.",
+      "Well-kept and clean.",
+      "Perfect for kids' swim classes."
+    ]
+  },
+  {
+    "name": "Desert Breeze Regional Park Pool",
+    "category": "Swimming Pools",
+    "address": "8275 Spring Mountain Rd, Las Vegas, NV 89117",
+    "longitude": -115.2617,
+    "latitude": 36.1113,
+    "description": "Community pool with family swim programs, open swim, and lessons in a safe setting.",
+    "images": [],
+    "reviews": [
+      "My kids love the splash area.",
+      "Great swim programs for all ages.",
+      "Friendly and helpful pool staff.",
+      "Clean and safe swimming environment."
+    ]
+  },
+  {
+    "name": "Henderson Multigenerational Center Pool",
+    "category": "Swimming Pools",
+    "address": "250 S Green Valley Pkwy, Henderson, NV 89012",
+    "longitude": -115.1034,
+    "latitude": 36.0215,
+    "description": "Indoor pool offering lessons, lap swimming, and family swim sessions in Henderson.",
+    "images": [],
+    "reviews": [
+      "Well-maintained indoor pool.",
+      "Helpful instructors and staff.",
+      "Perfect for year-round swimming.",
+      "Friendly atmosphere for families."
+    ]
+  },
+  {
+    "name": "Wet’n’Wild Las Vegas",
+    "category": "Swimming Pools",
+    "address": "7055 S Fort Apache Rd, Las Vegas, NV 89148",
+    "longitude": -115.2870,
+    "latitude": 36.0630,
+    "description": "Water park featuring pools, splash pads, water slides, and family-friendly attractions.",
+    "images": [],
+    "reviews": [
+      "Lots of fun for kids and adults.",
+      "Safe and clean water park environment.",
+      "Great variety of water activities.",
+      "Perfect for hot summer days."
+    ]
+  },
+  {
+    "name": "Craig Ranch Regional Park Pool",
+    "category": "Swimming Pools",
+    "address": "628 W Craig Rd, North Las Vegas, NV 89032",
+    "longitude": -115.0763,
+    "latitude": 36.2340,
+    "description": "Community pool offering swim lessons and family swim times within a large park.",
+    "images": [],
+    "reviews": [
+      "Excellent swimming facilities.",
+      "Kid-friendly pool and splash area.",
+      "Friendly lifeguards and staff.",
+      "Families love the pool events."
+    ]
+  },
+  {
+    "name": "Lake Las Vegas Pool",
+    "category": "Swimming Pools",
+    "address": "101 Montelago Blvd, Henderson, NV 89011",
+    "longitude": -115.0225,
+    "latitude": 36.0443,
+    "description": "Resort pool with family swim areas, swim lessons, and water play features.",
+    "images": [],
+    "reviews": [
+      "Beautiful pool with excellent amenities.",
+      "Safe and fun for kids.",
+      "Lifeguards and staff are attentive.",
+      "Perfect for family vacations."
+    ]
+  },
+  {
+    "name": "Palm Valley Pool",
+    "category": "Swimming Pools",
+    "address": "540 E Flamingo Rd, Las Vegas, NV 89119",
+    "longitude": -115.1330,
+    "latitude": 36.1115,
+    "description": "Public pool with family swim sessions and instructional swim lessons.",
+    "images": [],
+    "reviews": [
+      "Clean pool and friendly staff.",
+      "Great lessons for my kids.",
+      "Nice facility for families.",
+      "Safe and well managed."
+    ]
+  },
+  {
+    "name": "Durango Hills Aquatic Center",
+    "category": "Swimming Pools",
+    "address": "3520 N Durango Dr, Las Vegas, NV 89129",
+    "longitude": -115.2518,
+    "latitude": 36.2437,
+    "description": "Community aquatic center with a recreation pool, water slides, and swim lessons.",
+    "images": [],
+    "reviews": [
+      "Kids love the water slides.",
+      "Very clean and safe environment.",
+      "Great instructors for swimming.",
+      "Family-friendly aquatic center."
+    ]
+  },
+  {
+    "name": "Imagination Dome Pools",
+    "category": "Swimming Pools",
+    "address": "2900 S Decatur Blvd, Las Vegas, NV 89102",
+    "longitude": -115.2161,
+    "latitude": 36.1210,
+    "description": "Indoor swimming pools with family swim hours and swim instruction.",
+    "images": [],
+    "reviews": [
+      "Perfect for year-round swimming.",
+      "Helpful staff and clean pools.",
+      "Great for learning to swim.",
+      "Family-friendly atmosphere."
+    ]
+  },
+  {
+    "name": "Sunrise Recreation Center Pool",
+    "category": "Swimming Pools",
+    "address": "9150 W Tropical Pkwy, Las Vegas, NV 89149",
+    "longitude": -115.2825,
+    "latitude": 36.2367,
+    "description": "Public pool with family swim times, swim lessons, and recreational facilities.",
+    "images": [],
+    "reviews": [
+      "Clean and child-friendly pool.",
+      "Great swim lesson programs.",
+      "Nice and safe environment.",
+      "Perfect for family visits."
+    ]
+  },
+  {
+    "name": "Wildflower Aquatic Center",
+    "category": "Swimming Pools",
+    "address": "715 Bottoms Up Dr, Las Vegas, NV 89144",
+    "longitude": -115.2590,
+    "latitude": 36.1652,
+    "description": "Community pool featuring a splash pad, lap pool, and family swim hours.",
+    "images": [],
+    "reviews": [
+      "Loved the splash pad for small kids.",
+      "Friendly lifeguards and clean facilities.",
+      "Great place for swim lessons.",
+      "Family-friendly and well maintained."
+    ]
+  }
+]

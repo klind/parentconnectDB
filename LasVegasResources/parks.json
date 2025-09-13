@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Sunset Park",
+    "category": "Parks",
+    "address": "2601 E Sunset Rd, Las Vegas, NV 89120",
+    "longitude": -115.0980,
+    "latitude": 36.0847,
+    "description": "Large park offering playgrounds, picnic areas, multi-purpose fields, and walking trails for families.",
+    "images": [],
+    "reviews": [
+      "Huge park perfect for families.",
+      "Lots of playground equipment for all ages.",
+      "Beautiful lake view and picnic areas.",
+      "Always clean and safe."
+    ]
+  },
+  {
+    "name": "Craig Ranch Regional Park",
+    "category": "Parks",
+    "address": "628 W Craig Rd, North Las Vegas, NV 89032",
+    "longitude": -115.0760,
+    "latitude": 36.2341,
+    "description": "Spacious park with multiple playgrounds, sports fields, splash pad, and picnic areas ideal for family outings.",
+    "images": [],
+    "reviews": [
+      "Plenty of facilities for all ages.",
+      "Splash pad is perfect for hot days.",
+      "Clean playgrounds and lots of shade.",
+      "Great place for family outings."
+    ]
+  },
+  {
+    "name": "Floyd Lamb Park at Tule Springs",
+    "category": "Parks",
+    "address": "9200 Tule Springs Rd, Las Vegas, NV 89131",
+    "longitude": -115.1580,
+    "latitude": 36.2383,
+    "description": "Historic park featuring lakes, walking trails, picnic areas, and playgrounds, great for family days outdoors.",
+    "images": [],
+    "reviews": [
+      "Beautiful, spacious park with lakes.",
+      "Perfect for family picnics and fishing.",
+      "Plenty of shade and kid-friendly play areas.",
+      "Relaxing and peaceful environment."
+    ]
+  },
+  {
+    "name": "Exploration Peak Park",
+    "category": "Parks",
+    "address": "9275 S Buffalo Dr, Las Vegas, NV 89178",
+    "longitude": -115.2642,
+    "latitude": 36.0205,
+    "description": "Park with hiking trails, picnic areas, and a large playground featuring unique equipment for children.",
+    "images": [],
+    "reviews": [
+      "Wonderful park to hike and explore with kids.",
+      "Playground is unique and my kids love the slide.",
+      "Plenty of shaded areas and green grass.",
+      "Safe, clean, and fun for the whole family."
+    ]
+  },
+  {
+    "name": "Pioneer Park",
+    "category": "Parks",
+    "address": "530 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "longitude": -115.1732,
+    "latitude": 36.1767,
+    "description": "Urban park with playgrounds, walking paths, and picnic facilities close to downtown Las Vegas.",
+    "images": [],
+    "reviews": [
+      "Nice quiet park near downtown.",
+      "Great playground and picnic areas.",
+      "Safe and clean environment.",
+      "Perfect for a short family visit."
+    ]
+  },
+  {
+    "name": "Child Haven Park",
+    "category": "Parks",
+    "address": "8400 W Robindale Rd, Las Vegas, NV 89143",
+    "longitude": -115.2861,
+    "latitude": 36.1793,
+    "description": "Community park with playgrounds, picnic shelters, and family-friendly open spaces.",
+    "images": [],
+    "reviews": [
+      "A nice neighborhood park with great facilities.",
+      "Clean and well maintained.",
+      "Kids love the playground.",
+      "Perfect for relaxing family afternoons."
+    ]
+  },
+  {
+    "name": "Gilcrease Nature Sanctuary Park",
+    "category": "Parks",
+    "address": "2121 S Valley View Blvd, Las Vegas, NV 89102",
+    "longitude": -115.2207,
+    "latitude": 36.1086,
+    "description": "Nature sanctuary with picnic spots, walking trails, and playgrounds suitable for kids and families.",
+    "images": [],
+    "reviews": [
+      "Peaceful and educational nature park.",
+      "Playgrounds are well designed and safe.",
+      "Good walking trails for families.",
+      "Great spot for kids to learn about nature."
+    ]
+  },
+  {
+    "name": "Mountain Crest Park",
+    "category": "Parks",
+    "address": "875 E Alexander Rd, Henderson, NV 89015",
+    "longitude": -115.0011,
+    "latitude": 36.0429,
+    "description": "Family-friendly park with sports courts, playgrounds, picnic areas, and walking paths.",
+    "images": [],
+    "reviews": [
+      "Nice playground and plenty of green space.",
+      "Great for family gatherings.",
+      "Well-kept and clean.",
+      "Excellent facilities for kids."
+    ]
+  },
+  {
+    "name": "Siena Park",
+    "category": "Parks",
+    "address": "6309 Siena Vista St, Las Vegas, NV 89139",
+    "longitude": -115.2775,
+    "latitude": 36.0577,
+    "description": "Community park featuring playgrounds, sports courts, walking trails, and picnic areas.",
+    "images": [],
+    "reviews": [
+      "Nice playground and open space.",
+      "Good for family picnics.",
+      "Safe and well maintained.",
+      "Lots of activities for kids."
+    ]
+  },
+  {
+    "name": "Las Vegas Wetlands Park",
+    "category": "Parks",
+    "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+    "longitude": -115.0964,
+    "latitude": 35.9946,
+    "description": "Nature park with walking trails, bird watching, and educational programs suitable for families.",
+    "images": [],
+    "reviews": [
+      "Perfect place to explore nature.",
+      "Educational and fun for kids.",
+      "Peaceful and safe environment.",
+      "Great for hiking and wildlife spotting."
+    ]
+  },
+  {
+    "name": "Sunrise Mountain Regional Park",
+    "category": "Parks",
+    "address": "11675 E Alexander Rd, Henderson, NV 89052",
+    "longitude": -114.9887,
+    "latitude": 36.0207,
+    "description": "Regional park featuring hiking trails, picnic areas, and playgrounds for family recreation.",
+    "images": [],
+    "reviews": [
+      "Beautiful trails and parks.",
+      "Playground is clean and kid-friendly.",
+      "Great place for outdoor activities.",
+      "Perfect for family picnics."
+    ]
+  },
+  {
+    "name": "Whitney Ranch Park",
+    "category": "Parks",
+    "address": "11400 Tom Kimmel Dr, Las Vegas, NV 89141",
+    "longitude": -115.1860,
+    "latitude": 36.1036,
+    "description": "Community park with playgrounds, sports courts, picnic shelters, and walking paths.",
+    "images": [],
+    "reviews": [
+      "Kids love the playgrounds here.",
+      "Clean and well cared for park.",
+      "Lots of picnic areas for families.",
+      "Nice walking trails."
+    ]
+  }
+]

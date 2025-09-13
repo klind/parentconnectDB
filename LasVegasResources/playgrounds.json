@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Play Playground",
+    "category": "Playgrounds",
+    "address": "3900 S Las Vegas Blvd Luxor Hotel & Casino, Las Vegas, NV 89119",
+    "longitude": -115.1546,
+    "latitude": 36.0957,
+    "description": "Indoor playground with oversized games, interactive challenges, and fun for families and teens.",
+    "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/25/01/6f/dwightcalwhite.jpg"],
+    "reviews": [
+      "Great for families and playful adults!",
+      "Lots of fun interactive games and challenges.",
+      "The slide and games kept my kids entertained for hours.",
+      "Amazing place for a unique family outing."
+    ]
+  },
+  {
+    "name": "Treehouse Playground",
+    "category": "Playgrounds",
+    "address": "707 Fremont St, Las Vegas, NV 89101",
+    "longitude": -115.1410,
+    "latitude": 36.1695,
+    "description": "Outdoor playground with natural wood structures and safe play areas for young children.",
+    "images": [],
+    "reviews": [
+      "Perfect for toddlers and young kids.",
+      "Safe and well-maintained.",
+      "Lots of shade and equipment.",
+      "A favorite spot for our family weekends."
+    ]
+  },
+  {
+    "name": "Exploration Peak Park",
+    "category": "Playgrounds",
+    "address": "9275 S Buffalo Dr, Las Vegas, NV 89178",
+    "longitude": -115.2642,
+    "latitude": 36.0205,
+    "description": "A park with hiking trails, a playground, picnic areas, and stunning views.",
+    "images": [],
+    "reviews": [
+      "Beautiful hiking and great playground for kids.",
+      "We loved the peaceful environment and slide.",
+      "Lots of open space for kids to run.",
+      "Great family picnic destination."
+    ]
+  },
+  {
+    "name": "Sky Zone Trampoline Park",
+    "category": "Playgrounds",
+    "address": "9650 S Eastern Ave, Las Vegas, NV 89123",
+    "longitude": -115.1278,
+    "latitude": 36.0575,
+    "description": "Indoor trampoline park with foam pits, dodgeball courts, and ninja warrior courses.",
+    "images": [],
+    "reviews": [
+      "My kids can jump here for hours.",
+      "Clean and well-supervised.",
+      "Perfect for rainy or hot days.",
+      "Great birthday party venue."
+    ]
+  },
+  {
+    "name": "Fidgets Indoor Playground & Party Place",
+    "category": "Playgrounds",
+    "address": "7835 S Rainbow Blvd, Ste 15, Las Vegas, NV 89139",
+    "longitude": -115.2410,
+    "latitude": 36.0801,
+    "description": "Indoor playground aimed at kids up to 6 years old, with party spaces available.",
+    "images": [],
+    "reviews": [
+      "Great indoor play for toddlers.",
+      "Fun and clean environment.",
+      "Perfect spot for birthday parties.",
+      "Friendly staff and safe equipment."
+    ]
+  },
+  {
+    "name": "Bouncy World",
+    "category": "Playgrounds",
+    "address": "4549 Blue Diamond Road, Las Vegas, NV 89139",
+    "longitude": -115.2775,
+    "latitude": 36.0609,
+    "description": "Indoor inflatable playground with bounce houses, slides, and more for children ages 2-10.",
+    "images": [],
+    "reviews": [
+      "A fun and safe place for young kids.",
+      "Lots of inflatables to keep kids entertained.",
+      "Clean and well-staffed.",
+      "My kids ask to come back all the time."
+    ]
+  },
+  {
+    "name": "Kangamoo Indoor Playground",
+    "category": "Playgrounds",
+    "address": "1525 E Sunset Rd, Ste 7, Las Vegas, NV 89119",
+    "longitude": -115.1124,
+    "latitude": 36.1094,
+    "description": "Indoor playground offering soft play equipment, toddler zones, and birthday party services.",
+    "images": [],
+    "reviews": [
+      "Great for toddlers and preschoolers.",
+      "Clean and safe with friendly staff.",
+      "Amazing birthday party venue.",
+      "Lots of toys and activities for kids."
+    ]
+  },
+  {
+    "name": "Kidstopia",
+    "category": "Playgrounds",
+    "address": "4215 S Durango Dr, Las Vegas, NV 89147",
+    "longitude": -115.2337,
+    "latitude": 36.0656,
+    "description": "Indoor play space catered to children from toddlers to young teens with diverse play options.",
+    "images": [],
+    "reviews": [
+      "Perfect spot to burn off energy on hot days.",
+      "Lots of activities for multiple age groups.",
+      "Great for birthday parties!",
+      "Staff is very attentive and helpful."
+    ]
+  },
+  {
+    "name": "Kids Town",
+    "category": "Playgrounds",
+    "address": "5875 S Rainbow Blvd, Ste 110, Las Vegas, NV 89118",
+    "longitude": -115.2421,
+    "latitude": 36.0890,
+    "description": "Indoor playground with modular play systems and party spaces, suitable for kids up to 12 years old.",
+    "images": [],
+    "reviews": [
+      "Clean and safe indoor playground.",
+      "Kids love the variety of climbing and play options.",
+      "Great birthday party location.",
+      "Helpful staff and friendly atmosphere."
+    ]
+  },
+  {
+    "name": "Wally Wombats Indoor Playground",
+    "category": "Playgrounds",
+    "address": "3165 N Rainbow Blvd, Las Vegas, NV 89108",
+    "longitude": -115.2175,
+    "latitude": 36.1507,
+    "description": "Indoor playground offering a fun, safe environment for kids to play and learn.",
+    "images": [],
+    "reviews": [
+      "Lots of fun activities for all ages.",
+      "Clean and well maintained.",
+      "Perfect for group birthday parties.",
+      "Very welcoming staff."
+    ]
+  }
+]

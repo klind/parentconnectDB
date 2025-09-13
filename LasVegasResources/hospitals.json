@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Sunrise Children's Hospital",
+    "category": "Hospitals",
+    "address": "3186 S Maryland Pkwy, Las Vegas, NV 89109",
+    "longitude": -115.1367,
+    "latitude": 36.0994,
+    "description": "Specialized pediatric hospital offering comprehensive care and child-friendly facilities.",
+    "images": [],
+    "reviews": [
+      "Excellent care provided with a focus on children.",
+      "The staff was compassionate and patient.",
+      "Facilities are clean and comfortable.",
+      "Highly recommend for pediatric care."
+    ]
+  },
+  {
+    "name": "University Medical Center Children's Hospital",
+    "category": "Hospitals",
+    "address": "1800 W Charleston Blvd, Las Vegas, NV 89102",
+    "longitude": -115.1704,
+    "latitude": 36.1361,
+    "description": "Large hospital with specialized pediatric services and child-friendly amenities.",
+    "images": [],
+    "reviews": [
+      "State-of-the-art pediatric care.",
+      "Friendly and knowledgeable medical staff.",
+      "The child play areas made hospital stays easier.",
+      "Clean and well-managed."
+    ]
+  },
+  {
+    "name": "Summerlin Hospital Medical Center",
+    "category": "Hospitals",
+    "address": "657 N Town Center Dr, Las Vegas, NV 89144",
+    "longitude": -115.2658,
+    "latitude": 36.1771,
+    "description": "Full-service hospital with a dedicated pediatric unit and family-friendly environment.",
+    "images": [],
+    "reviews": [
+      "Excellent emergency pediatric services.",
+      "Nurses and doctors are caring and experienced.",
+      "Great facilities and comfortable rooms.",
+      "Efficient and child-focused care."
+    ]
+  },
+  {
+    "name": "Nathan Adelson Hospice",
+    "category": "Hospitals",
+    "address": "9075 W Russell Rd, Las Vegas, NV 89148",
+    "longitude": -115.2813,
+    "latitude": 36.0512,
+    "description": "Supportive care facility with services for children needing palliative care.",
+    "images": [],
+    "reviews": [
+      "Compassionate environment for families.",
+      "Excellent support and medical care.",
+      "Well-trained staff that focus on comfort.",
+      "Highly recommended for specialized care."
+    ]
+  },
+  {
+    "name": "Centennial Hills Hospital Medical Center",
+    "category": "Hospitals",
+    "address": "6900 N Durango Dr, Las Vegas, NV 89149",
+    "longitude": -115.2701,
+    "latitude": 36.2395,
+    "description": "Modern community hospital offering pediatric care and a welcoming atmosphere for families.",
+    "images": [],
+    "reviews": [
+      "Friendly pediatricians and nurses.",
+      "Clean and well-maintained facilities.",
+      "Great experience for pediatric emergencies.",
+      "Family-focused care."
+    ]
+  },
+  {
+    "name": "Desert Springs Hospital Medical Center",
+    "category": "Hospitals",
+    "address": "2075 E Flamingo Rd, Las Vegas, NV 89119",
+    "longitude": -115.1197,
+    "latitude": 36.1254,
+    "description": "Comprehensive hospital with pediatric services and child-centered care options.",
+    "images": [],
+    "reviews": [
+      "Excellent specialist pediatric doctors.",
+      "Helpful and attentive nursing staff.",
+      "Facilities designed with children in mind.",
+      "Quick and compassionate service."
+    ]
+  },
+  {
+    "name": "Henderson Hospital",
+    "category": "Hospitals",
+    "address": "1050 W Galleria Dr, Henderson, NV 89011",
+    "longitude": -115.0441,
+    "latitude": 36.0389,
+    "description": "Hospital with a pediatric department, offering family-friendly environments and support.",
+    "images": [],
+    "reviews": [
+      "Good pediatric care with friendly doctors.",
+      "Nice and clean hospital.",
+      "Staff attentive to children’s needs.",
+      "Comfortable rooms and quick service."
+    ]
+  },
+  {
+    "name": "MountainView Hospital",
+    "category": "Hospitals",
+    "address": "3100 N Tenaya Way, Las Vegas, NV 89128",
+    "longitude": -115.2776,
+    "latitude": 36.2033,
+    "description": "Full-service hospital with advanced pediatric care and family support facilities.",
+    "images": [],
+    "reviews": [
+      "Professional and caring pediatric staff.",
+      "Clean and modern facility.",
+      "Great emergency care for kids.",
+      "Comfortable environment for families."
+    ]
+  },
+  {
+    "name": "St. Rose Dominican Hospitals - Rose de Lima Campus",
+    "category": "Hospitals",
+    "address": "102 E Lake Mead Pkwy, Henderson, NV 89015",
+    "longitude": -114.9876,
+    "latitude": 36.0246,
+    "description": "Hospital with pediatric care and family-friendly amenities for children and parents.",
+    "images": [],
+    "reviews": [
+      "Excellent pediatric doctors and nurses.",
+      "Clean and welcoming environment.",
+      "Quick service and attentive staff.",
+      "Good support for families during stays."
+    ]
+  },
+  {
+    "name": "Valley Hospital Medical Center",
+    "category": "Hospitals",
+    "address": "620 Shadow Ln, Las Vegas, NV 89106",
+    "longitude": -115.1463,
+    "latitude": 36.1542,
+    "description": "Comprehensive medical center with pediatric services and family resources.",
+    "images": [],
+    "reviews": [
+      "Friendly pediatric care team.",
+      "Clean and quiet hospital.",
+      "Great support for families.",
+      "Efficient and professional doctors."
+    ]
+  },
+  {
+    "name": "Southern Hills Hospital & Medical Center",
+    "category": "Hospitals",
+    "address": "9300 W Sunset Rd, Las Vegas, NV 89148",
+    "longitude": -115.3261,
+    "latitude": 36.0729,
+    "description": "Hospital with pediatric care, specialized treatments, and a comfortable child-friendly setting.",
+    "images": [],
+    "reviews": [
+      "Caring pediatricians and staff.",
+      "Nice facilities with child-friendly play areas.",
+      "Very clean and well-organized.",
+      "Supportive and thorough care."
+    ]
+  },
+  {
+    "name": "North Vista Hospital",
+    "category": "Hospitals",
+    "address": "1409 Paseo Verde Pkwy, Henderson, NV 89012",
+    "longitude": -115.1489,
+    "latitude": 35.9998,
+    "description": "Community hospital with pediatric services and family-centered care.",
+    "images": [],
+    "reviews": [
+      "Professional and friendly pediatric staff.",
+      "Hospital is clean and welcoming.",
+      "Good support during child care.",
+      "Comfortable rooms and facilities."
+    ]
+  },
+  {
+    "name": "Urology Specialists of Southern Nevada",
+    "category": "Hospitals",
+    "address": "2801 S Maryland Pkwy, Las Vegas, NV 89109",
+    "longitude": -115.1384,
+    "latitude": 36.0986,
+    "description": "Specialized pediatric urology clinic providing child-friendly care and support.",
+    "images": [],
+    "reviews": [
+      "Excellent pediatric specialists.",
+      "Friendly and understanding staff.",
+      "Clean and welcoming clinic.",
+      "Great for children’s urological needs."
+    ]
+  },
+  {
+    "name": "Children’s Specialty Care",
+    "category": "Hospitals",
+    "address": "1301 W Sunset Rd #250, Henderson, NV 89014",
+    "longitude": -115.0872,
+    "latitude": 36.0441,
+    "description": "Specialty care center focusing on various pediatric medical needs in a family-friendly setting.",
+    "images": [],
+    "reviews": [
+      "Highly skilled pediatric specialists.",
+      "Friendly and compassionate staff.",
+      "Well-equipped and clean facilities.",
+      "Supportive environment for families."
+    ]
+  },
+  {
+    "name": "Nevada Pediatric Cardiology",
+    "category": "Hospitals",
+    "address": "8138 W Desert Inn Rd, Las Vegas, NV 89117",
+    "longitude": -115.2215,
+    "latitude": 36.1516,
+    "description": "Pediatric cardiology clinic providing expert care for children with heart conditions.",
+    "images": [],
+    "reviews": [
+      "Excellent cardiac care for kids.",
+      "Caring and knowledgeable staff.",
+      "Clean and child-friendly environment.",
+      "Very supportive clinic for families."
+    ]
+  },
+  {
+    "name": "Pediatric Associates of Nevada",
+    "category": "Hospitals",
+    "address": "6500 S Fort Apache Rd #120, Las Vegas, NV 89148",
+    "longitude": -115.2707,
+    "latitude": 36.0603,
+    "description": "Pediatric clinic offering comprehensive healthcare services for children in a welcoming atmosphere.",
+    "images": [],
+    "reviews": [
+      "Friendly and thorough pediatricians.",
+      "Great experience with the staff.",
+      "Clean and comfortable clinic.",
+      "Excellent service and caring approach."
+    ]
+  },
+  {
+    "name": "Children’s Clinic of Nevada",
+    "category": "Hospitals",
+    "address": "9575 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2754,
+    "latitude": 36.1603,
+    "description": "Pediatric clinic with a focus on preventive care and family health education.",
+    "images": [],
+    "reviews": [
+      "Supportive and knowledgeable pediatricians.",
+      "Helpful and friendly staff.",
+      "Well-organized and clean clinic.",
+      "Great care for kids and families."
+    ]
+  },
+  {
+    "name": "Nevada Orthopedic & Spine Center",
+    "category": "Hospitals",
+    "address": "6640 S Tenaya Way Suite 101, Las Vegas, NV 89113",
+    "longitude": -115.2569,
+    "latitude": 36.0572,
+    "description": "Orthopedic center specializing in pediatric care for bone and spine conditions.",
+    "images": [],
+    "reviews": [
+      "Excellent specialists for children.",
+      "Friendly staff and clean environment.",
+      "Effective treatments and care.",
+      "Highly recommended for pediatric orthopedics."
+    ]
+  },
+  {
+    "name": "Kids Health & Wellness Center",
+    "category": "Hospitals",
+    "address": "7900 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2743,
+    "latitude": 36.1568,
+    "description": "Comprehensive pediatric wellness center focusing on child health and development.",
+    "images": [],
+    "reviews": [
+      "Great preventive care for kids.",
+      "Friendly and knowledgeable staff.",
+      "Modern facilities and welcoming environment.",
+      "Excellent health programs for children."
+    ]
+  }
+]

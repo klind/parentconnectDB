@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Mr. Mamas Breakfast & Lunch",
+    "category": "Family Restaurants",
+    "address": "5693 S Jones Blvd #106, Las Vegas, NV 89118",
+    "longitude": -115.2249,
+    "latitude": 36.0895,
+    "description": "Clean, inviting family-friendly breakfast spot with friendly staff and lots of kid-approved menu options.",
+    "images": [
+      "https://mrmamaslv.com/wp-content/uploads/2022/10/restaurant-front.jpg",
+      "https://mrmamaslv.com/wp-content/uploads/2022/10/dining-area-1.jpg"
+    ],
+    "reviews": [
+      "The first thing I noticed is how clean this restaurant is.",
+      "Our kids loved the pancakes!",
+      "Service was quick, and they offered child seats right away.",
+      "Best family breakfast experience we've had in Vegas!"
+    ]
+  },
+  {
+    "name": "The Cracked Egg",
+    "category": "Family Restaurants",
+    "address": "3755 S Decatur Blvd, Las Vegas, NV 89103",
+    "longitude": -115.2286,
+    "latitude": 36.0868,
+    "description": "Cozy breakfast and brunch spot known for a kid-friendly menu and welcoming atmosphere.",
+    "images": [],
+    "reviews": [
+      "Great place for family breakfasts.",
+      "The kids’ menu has plenty of options.",
+      "Friendly and accommodating staff.",
+      "Loved the large portions and quick service."
+    ]
+  },
+  {
+    "name": "Blueberry Hill Family Restaurant",
+    "category": "Family Restaurants",
+    "address": "1811 N Boulder Hwy, Henderson, NV 89015",
+    "longitude": -115.0489,
+    "latitude": 36.0358,
+    "description": "Traditional family diner offering comfort food and a welcoming environment for children.",
+    "images": [],
+    "reviews": [
+      "Very friendly and family-oriented restaurant.",
+      "Kids loved the pancakes and milkshakes.",
+      "Portions are generous and prices reasonable.",
+      "Clean and comfortable atmosphere."
+    ]
+  },
+  {
+    "name": "Eat.",
+    "category": "Family Restaurants",
+    "address": "707 E Bridger Ave, Las Vegas, NV 89101",
+    "longitude": -115.1389,
+    "latitude": 36.1734,
+    "description": "Casual dining with a focus on fresh, local ingredients and a menu with child-friendly favorites.",
+    "images": [],
+    "reviews": [
+      "Delicious food with great kid-friendly options.",
+      "Welcoming atmosphere for families.",
+      "Staff was attentive and friendly.",
+      "Perfect spot for brunch with kids."
+    ]
+  },
+  {
+    "name": "Hash House A Go Go",
+    "category": "Family Restaurants",
+    "address": "3535 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "longitude": -115.1724,
+    "latitude": 36.1065,
+    "description": "Known for huge portions and creative comfort food, with a friendly vibe appealing to families.",
+    "images": [],
+    "reviews": [
+      "Kids loved the large portions and fun menu.",
+      "Great experience for families.",
+      "Staff made us feel very welcome.",
+      "Food is tasty and filling."
+    ]
+  },
+  {
+    "name": "The Original Pancake House",
+    "category": "Family Restaurants",
+    "address": "3111 S Valley View Blvd, Las Vegas, NV 89102",
+    "longitude": -115.2172,
+    "latitude": 36.1038,
+    "description": "Classic breakfast spot serving pancakes, waffles, and kid-friendly breakfast dishes in a family-friendly setting.",
+    "images": [],
+    "reviews": [
+      "Always a favorite for family breakfast.",
+      "Kids love the variety of pancakes.",
+      "Friendly service and good prices.",
+      "Clean and comfortable environment."
+    ]
+  },
+  {
+    "name": "Metro Pizza",
+    "category": "Family Restaurants",
+    "address": "1550 W Warm Springs Rd, Henderson, NV 89014",
+    "longitude": -115.1333,
+    "latitude": 36.0468,
+    "description": "Casual pizza place with a spacious dining area and a menu that appeals to kids and adults.",
+    "images": [],
+    "reviews": [
+      "Great pizza and friendly staff.",
+      "Perfect for families with kids.",
+      "Good prices and fast service.",
+      "Kids loved the cheesy slices."
+    ]
+  },
+  {
+    "name": "Griddlecakes",
+    "category": "Family Restaurants",
+    "address": "740 N Rainbow Blvd, Las Vegas, NV 89107",
+    "longitude": -115.1731,
+    "latitude": 36.1687,
+    "description": "Breakfast and brunch eatery known for large portions and a kid-friendly atmosphere.",
+    "images": [],
+    "reviews": [
+      "Huge menu with great kid’s options.",
+      "Staff very welcoming to families.",
+      "Portions are perfect for sharing.",
+      "Cozy atmosphere for all ages."
+    ]
+  },
+  {
+    "name": "Farmers Market at Tivoli Village",
+    "category": "Family Restaurants",
+    "address": "410 S Rampart Blvd, Las Vegas, NV 89145",
+    "longitude": -115.2627,
+    "latitude": 36.1752,
+    "description": "A variety of family-friendly eateries within a vibrant open-air market setting.",
+    "images": [],
+    "reviews": [
+      "Lots of choices for kids and adults.",
+      "Great vibe and outdoor seating.",
+      "Perfect spot for families to explore different foods.",
+      "Clean and lively environment."
+    ]
+  },
+  {
+    "name": "Firefly Tapas Kitchen & Bar",
+    "category": "Family Restaurants",
+    "address": "3730 S Las Vegas Blvd unit 100, Las Vegas, NV 89109",
+    "longitude": -115.1721,
+    "latitude": 36.1059,
+    "description": "Tapas restaurant offering a kid-friendly menu and welcoming atmosphere for families.",
+    "images": [],
+    "reviews": [
+      "Kids enjoyed the small plate options.",
+      "Great location with friendly staff.",
+      "Comfortable and clean dining area.",
+      "Perfect for family dinners."
+    ]
+  },
+  {
+    "name": "La Salsa Cantina",
+    "category": "Family Restaurants",
+    "address": "3101 S Pavilion Center Dr, Las Vegas, NV 89135",
+    "longitude": -115.2415,
+    "latitude": 36.0534,
+    "description": "Mexican restaurant with kid-friendly menu options and a lively atmosphere.",
+    "images": [],
+    "reviews": [
+      "Great food and friendly staff.",
+      "Kids loved the mild dishes.",
+      "Quick service and fun environment.",
+      "Family-friendly with good parking."
+    ]
+  },
+  {
+    "name": "Gold Coast Hotel & Casino - The Copa Room",
+    "category": "Family Restaurants",
+    "address": "4000 W Flamingo Rd, Las Vegas, NV 89103",
+    "longitude": -115.1884,
+    "latitude": 36.1213,
+    "description": "Family-friendly dining with classic American dishes and a relaxed atmosphere.",
+    "images": [],
+    "reviews": [
+      "Good variety for kids and adults.",
+      "Friendly staff and quick service.",
+      "Clean and comfortable dining space.",
+      "Perfect for casual family meals."
+    ]
+  },
+  {
+    "name": "BabyStacks Cafe",
+    "category": "Family Restaurants",
+    "address": "6767 W Charleston Blvd, Ste 120, Las Vegas, NV 89146",
+    "longitude": -115.2598,
+    "latitude": 36.1397,
+    "description": "Breakfast and brunch spot known for pancakes and kid-friendly atmosphere.",
+    "images": [],
+    "reviews": [
+      "Kids love the pancakes and menu variety.",
+      "Welcoming and cozy place.",
+      "Great service and clean environment.",
+      "Perfect for family outings."
+    ]
+  },
+  {
+    "name": "Egg Works",
+    "category": "Family Restaurants",
+    "address": "10865 W Charleston Blvd, Las Vegas, NV 89135",
+    "longitude": -115.2832,
+    "latitude": 36.1557,
+    "description": "Popular breakfast restaurant with a large menu and children’s meals.",
+    "images": [],
+    "reviews": [
+      "Excellent service and great food.",
+      "Kids have many options to choose from.",
+      "Clean and family-friendly environment.",
+      "Consistently good experience."
+    ]
+  },
+  {
+    "name": "Rachel's Kitchen",
+    "category": "Family Restaurants",
+    "address": "7890 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2741,
+    "latitude": 36.1582,
+    "description": "Diner-style eatery serving classic American breakfasts and lunches with a kids’ menu.",
+    "images": [],
+    "reviews": [
+      "Delicious and filling meals.",
+      "Kids loved the friendly service.",
+      "Great value for families.",
+      "Clean and cozy atmosphere."
+    ]
+  },
+  {
+    "name": "Pops & Me",
+    "category": "Family Restaurants",
+    "address": "7060 S Decatur Blvd, Las Vegas, NV 89118",
+    "longitude": -115.2431,
+    "latitude": 36.0886,
+    "description": "A casual dining spot with a fun, kid-friendly menu and a welcoming environment.",
+    "images": [],
+    "reviews": [
+      "Kids loved the creative menu options.",
+      "Friendly staff and clean space.",
+      "Perfect for families looking to relax.",
+      "Great atmosphere and good food."
+    ]
+  },
+  {
+    "name": "Sierra Gold",
+    "category": "Family Restaurants",
+    "address": "78 N Pecos Rd, Henderson, NV 89074",
+    "longitude": -115.0483,
+    "latitude": 36.0262,
+    "description": "Casual American dining with a family-friendly vibe and extensive children’s menu.",
+    "images": [],
+    "reviews": [
+      "Good food and friendly service.",
+      "Kids enjoyed the menu choices.",
+      "Clean and comfortable setting.",
+      "Perfect for family dinners."
+    ]
+  }
+]

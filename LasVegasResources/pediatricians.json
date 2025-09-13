@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Pediatric Associates of Nevada",
+    "category": "Pediatricians",
+    "address": "6500 S Fort Apache Rd #120, Las Vegas, NV 89148",
+    "longitude": -115.2707,
+    "latitude": 36.0603,
+    "description": "Comprehensive pediatric care focused on preventive medicine and family health.",
+    "images": [],
+    "reviews": [
+      "Friendly and thorough pediatricians.",
+      "Always informed and helpful.",
+      "Welcoming staff and clean offices.",
+      "Great experience with my children."
+    ]
+  },
+  {
+    "name": "Sunset Pediatrics",
+    "category": "Pediatricians",
+    "address": "3165 N Tenaya Way Ste 110, Las Vegas, NV 89128",
+    "longitude": -115.2724,
+    "latitude": 36.2069,
+    "description": "Pediatric specialists offering personalized care with a focus on child development.",
+    "images": [],
+    "reviews": [
+      "Caring and knowledgeable doctors.",
+      "Wonderful experience every visit.",
+      "Clean and kid-friendly environment.",
+      "Patient and attentive staff."
+    ]
+  },
+  {
+    "name": "Children's Clinic of Nevada",
+    "category": "Pediatricians",
+    "address": "9575 W Sahara Ave #8, Las Vegas, NV 89117",
+    "longitude": -115.2754,
+    "latitude": 36.1603,
+    "description": "Full-service pediatric healthcare offering a range of child medical services.",
+    "images": [],
+    "reviews": [
+      "Excellent care provider for my kids.",
+      "Friendly staff and efficient service.",
+      "Great communication and follow-up.",
+      "Highly trusted pediatricians."
+    ]
+  },
+  {
+    "name": "Pediatric Care Clinic",
+    "category": "Pediatricians",
+    "address": "3320 S Durango Dr Suite 110, Las Vegas, NV 89117",
+    "longitude": -115.2386,
+    "latitude": 36.0708,
+    "description": "Clinic providing personalized pediatric care in a family-friendly setting.",
+    "images": [],
+    "reviews": [
+      "Caring pediatricians and support staff.",
+      "Good appointment availability.",
+      "My children feel comfortable here.",
+      "Helpful and thorough care."
+    ]
+  },
+  {
+    "name": "Pediatrics at Centennial Hills",
+    "category": "Pediatricians",
+    "address": "6870 N Durango Dr #102, Las Vegas, NV 89149",
+    "longitude": -115.2727,
+    "latitude": 36.2374,
+    "description": "Offering quality pediatric services with a focus on child wellness and family support.",
+    "images": [],
+    "reviews": [
+      "Excellent pediatric care.",
+      "Friendly and professional staff.",
+      "Our kids love the doctors here.",
+      "Clean and comforting clinic."
+    ]
+  },
+  {
+    "name": "Rainbow Pediatrics",
+    "category": "Pediatricians",
+    "address": "5551 W Tropicana Ave #106, Las Vegas, NV 89103",
+    "longitude": -115.2373,
+    "latitude": 36.1115,
+    "description": "Specialized pediatric care with a warm and welcoming environment for children and families.",
+    "images": [],
+    "reviews": [
+      "Very caring and patient doctors.",
+      "Wonderful bedside manner with kids.",
+      "Staff is helpful and polite.",
+      "Great thorough check-ups."
+    ]
+  },
+  {
+    "name": "Mountain View Pediatrics",
+    "category": "Pediatricians",
+    "address": "9990 W Flamingo Rd, Las Vegas, NV 89147",
+    "longitude": -115.2769,
+    "latitude": 36.0896,
+    "description": "Pediatric practice offering comprehensive health care for infants to adolescents.",
+    "images": [],
+    "reviews": [
+      "Great pediatricians who care deeply.",
+      "Clean and welcoming atmosphere.",
+      "Good communication with parents.",
+      "Kids love visiting the staff."
+    ]
+  },
+  {
+    "name": "Henderson Pediatric Center",
+    "category": "Pediatricians",
+    "address": "101 Paseo Verde Pkwy #100, Henderson, NV 89012",
+    "longitude": -115.1346,
+    "latitude": 36.0172,
+    "description": "Full-service pediatric center focused on child health and development.",
+    "images": [],
+    "reviews": [
+      "Friendly and knowledgeable pediatricians.",
+      "Quick and efficient service.",
+      "Facilities are clean and child-friendly.",
+      "Highly recommend to other parents."
+    ]
+  },
+  {
+    "name": "Pediatric Specialists",
+    "category": "Pediatricians",
+    "address": "5821 W Oquendo Rd, Las Vegas, NV 89118",
+    "longitude": -115.2614,
+    "latitude": 36.0884,
+    "description": "Specialized pediatric care offering a range of medical services for children in a family-friendly setting.",
+    "images": [],
+    "reviews": [
+      "Pediatricians are very kind and knowledgeable.",
+      "My kids don’t mind visiting here.",
+      "Clean and well-run clinic.",
+      "Competent and caring staff."
+    ]
+  },
+  {
+    "name": "Las Vegas Pediatric Clinic",
+    "category": "Pediatricians",
+    "address": "6230 W Sahara Ave #105, Las Vegas, NV 89146",
+    "longitude": -115.2724,
+    "latitude": 36.1423,
+    "description": "Community pediatric clinic offering routine care, vaccinations, and developmental check-ups.",
+    "images": [],
+    "reviews": [
+      "Doctors are patient and attentive.",
+      "Great care for my children.",
+      "Staff are friendly and helpful.",
+      "Clean and comfortable office."
+    ]
+  },
+  {
+    "name": "Sunset Pediatrics - Horizon Ridge",
+    "category": "Pediatricians",
+    "address": "11501 S Eastern Ave, Henderson, NV 89052",
+    "longitude": -115.0961,
+    "latitude": 35.9808,
+    "description": "Comprehensive pediatric care in a family-focused environment in Henderson.",
+    "images": [],
+    "reviews": [
+      "Wonderful doctors and staff.",
+      "Comfortable and welcoming clinic.",
+      "Always thorough and compassionate.",
+      "Kids enjoy visits here."
+    ]
+  },
+  {
+    "name": "Westcare Pediatrics",
+    "category": "Pediatricians",
+    "address": "1751 N Rainbow Blvd #160, Las Vegas, NV 89108",
+    "longitude": -115.2366,
+    "latitude": 36.1651,
+    "description": "Pediatric clinic providing personalized care and development guidance for children.",
+    "images": [],
+    "reviews": [
+      "Doctors take time to explain everything.",
+      "Clean and kid-friendly atmosphere.",
+      "Efficient and caring staff.",
+      "Our family trusts them completely."
+    ]
+  },
+  {
+    "name": "Kid's First Pediatrics",
+    "category": "Pediatricians",
+    "address": "8205 S Eastern Ave Suite 107, Las Vegas, NV 89123",
+    "longitude": -115.1105,
+    "latitude": 36.0784,
+    "description": "Comprehensive pediatric services with a warm and family-centered approach to care.",
+    "images": [],
+    "reviews": [
+      "Amazing pediatricians who really care.",
+      "Great support for parents.",
+      "Clean and welcoming.",
+      "My children feel comfortable here."
+    ]
+  },
+  {
+    "name": "Rainbow Pediatrics and Family Medicine",
+    "category": "Pediatricians",
+    "address": "5555 S Rainbow Blvd, Suite #104, Las Vegas, NV 89118",
+    "longitude": -115.2364,
+    "latitude": 36.0888,
+    "description": "Full pediatric and family care, focused on friendly patient experience and comprehensive service.",
+    "images": [],
+    "reviews": [
+      "Friendly and knowledgeable pediatricians.",
+      "Staff are very patient and kind.",
+      "Clean facilities and great communication.",
+      "Our family depends on their care."
+    ]
+  },
+  {
+    "name": "Canyon Pediatric Care",
+    "category": "Pediatricians",
+    "address": "750 E Warm Springs Rd #102, Henderson, NV 89011",
+    "longitude": -115.0412,
+    "latitude": 36.0295,
+    "description": "Pediatric care center offering a wide range of medical services in a child-friendly environment.",
+    "images": [],
+    "reviews": [
+      "Very caring doctors and staff.",
+      "Great facility and clean surroundings.",
+      "Excellent communication with parents.",
+      "Our kids love the friendly atmosphere."
+    ]
+  },
+  {
+    "name": "Pediatric Clinic of Nevada",
+    "category": "Pediatricians",
+    "address": "1230 W Horizon Ridge Pkwy #110, Henderson, NV 89012",
+    "longitude": -115.0418,
+    "latitude": 36.0222,
+    "description": "Child-focused clinic providing health care, immunizations, and developmental support.",
+    "images": [],
+    "reviews": [
+      "Staff is very knowledgeable and friendly.",
+      "Clean and well-run clinic.",
+      "My kids are comfortable here.",
+      "Highly recommended for quality care."
+    ]
+  },
+  {
+    "name": "Summit Pediatric Care",
+    "category": "Pediatricians",
+    "address": "7980 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2719,
+    "latitude": 36.1567,
+    "description": "Committed to providing compassionate and comprehensive pediatric care for children of all ages.",
+    "images": [],
+    "reviews": [
+      "Doctors truly care about the kids.",
+      "Clean and welcoming environment.",
+      "Great with young children.",
+      "Excellent support for families."
+    ]
+  }
+]
