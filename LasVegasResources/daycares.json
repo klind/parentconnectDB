@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Happy Kidz Daycare",
+    "category": "Daycares",
+    "address": "1120 E Sahara Ave, Las Vegas, NV 89104",
+    "longitude": -115.1235,
+    "latitude": 36.1239,
+    "description": "Licensed daycare center offering early childhood education and interactive play for infants to preschoolers.",
+    "images": [],
+    "reviews": [
+      "Very loving and attentive staff.",
+      "Great curriculum for young children.",
+      "Safe environment with plenty of activities.",
+      "My child loves going here!"
+    ]
+  },
+  {
+    "name": "Sunshine Academy",
+    "category": "Daycares",
+    "address": "9475 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2827,
+    "latitude": 36.1608,
+    "description": "Top-rated daycare with a focus on development and learning for children aged 6 weeks to 5 years.",
+    "images": [],
+    "reviews": [
+      "Excellent communication from staff.",
+      "Very clean and welcoming environment.",
+      "My child has learned so much.",
+      "Highly recommend for busy parents."
+    ]
+  },
+  {
+    "name": "Little Learners Academy",
+    "category": "Daycares",
+    "address": "2130 N Green Valley Pkwy, Henderson, NV 89014",
+    "longitude": -115.0642,
+    "latitude": 36.0734,
+    "description": "Daycare center with educational programs and a nurturing environment for toddlers and preschoolers.",
+    "images": [],
+    "reviews": [
+      "Teachers are wonderful and caring.",
+      "My toddler loves attending every day.",
+      "Safe and clean learning spaces.",
+      "Great arts and crafts activities."
+    ]
+  },
+  {
+    "name": "Kids’ Choice Daycare",
+    "category": "Daycares",
+    "address": "4205 E Windmill Ln, Las Vegas, NV 89120",
+    "longitude": -115.0452,
+    "latitude": 36.0621,
+    "description": "Early childhood center focusing on play-based learning and social skills development.",
+    "images": [],
+    "reviews": [
+      "Friendly staff and safe environment.",
+      "Great variety of learning activities.",
+      "Excellent communication with parents.",
+      "Highly recommend this daycare."
+    ]
+  },
+  {
+    "name": "Bright Futures Academy",
+    "category": "Daycares",
+    "address": "3525 W Sunset Rd, Las Vegas, NV 89118",
+    "longitude": -115.2302,
+    "latitude": 36.0865,
+    "description": "Comprehensive daycare center with strong curriculum and nurturing staff for children aged 6 weeks to 5 years.",
+    "images": [],
+    "reviews": [
+      "Amazing teachers and caring staff.",
+      "My child has blossomed here.",
+      "Activities are both fun and educational.",
+      "Safe and clean facilities."
+    ]
+  },
+  {
+    "name": "Happy Hearts Learning Center",
+    "category": "Daycares",
+    "address": "5890 S Fort Apache Rd, Las Vegas, NV 89148",
+    "longitude": -115.2807,
+    "latitude": 36.0628,
+    "description": "Daycare offering personalized care and early learning programs in a welcoming environment.",
+    "images": [],
+    "reviews": [
+      "Staff truly care about every child.",
+      "Lots of fun and engaging learning activities.",
+      "Safe and secure premises.",
+      "Highly recommended by parents."
+    ]
+  },
+  {
+    "name": "Little Steps Academy",
+    "category": "Daycares",
+    "address": "6050 W Flamingo Rd, Las Vegas, NV 89103",
+    "longitude": -115.2121,
+    "latitude": 36.1156,
+    "description": "Daycare focused on preparing kids for kindergarten through educational play and structured lessons.",
+    "images": [],
+    "reviews": [
+      "Excellent preparation for school.",
+      "Teachers provide great care and attention.",
+      "My child loves the activities.",
+      "Clean and welcoming daycare center."
+    ]
+  },
+  {
+    "name": "Creative Kids Learning Center",
+    "category": "Daycares",
+    "address": "1581 E Lake Mead Blvd, North Las Vegas, NV 89030",
+    "longitude": -115.1265,
+    "latitude": 36.2447,
+    "description": "Daycare offering art, music, and play activities with an emphasis on creativity and development.",
+    "images": [],
+    "reviews": [
+      "Fun and creative curriculum.",
+      "Staff are passionate and caring.",
+      "Lots of hands-on activities for kids.",
+      "Safe and clean environment."
+    ]
+  },
+  {
+    "name": "Bright Beginnings",
+    "category": "Daycares",
+    "address": "2200 E Tropicana Ave, Las Vegas, NV 89119",
+    "longitude": -115.1333,
+    "latitude": 36.1083,
+    "description": "Daycare center with a focus on holistic child development and supportive staff.",
+    "images": [],
+    "reviews": [
+      "Welcoming and nurturing environment.",
+      "Good communication with parents.",
+      "My child has grown socially and academically.",
+      "High standards for cleanliness."
+    ]
+  },
+  {
+    "name": "Sunshine Kids Academy",
+    "category": "Daycares",
+    "address": "3100 S Jones Blvd, Las Vegas, NV 89146",
+    "longitude": -115.2380,
+    "latitude": 36.0983,
+    "description": "Daycare with a positive atmosphere and educational programs for children from infancy to preschool.",
+    "images": [],
+    "reviews": [
+      "Highly recommend for caring teachers.",
+      "Lots of outdoor play and learning.",
+      "Clean and well managed.",
+      "Great place for young children."
+    ]
+  },
+  {
+    "name": "Little Angels Daycare",
+    "category": "Daycares",
+    "address": "1125 S Rainbow Blvd, Las Vegas, NV 89145",
+    "longitude": -115.2298,
+    "latitude": 36.0963,
+    "description": "Child-centered daycare that emphasizes safety and learning in a fun environment.",
+    "images": [],
+    "reviews": [
+      "Wonderful staff and fun activities.",
+      "My child loves going here.",
+      "Clean and secure facility.",
+      "Excellent communication with parents."
+    ]
+  },
+  {
+    "name": "Ready Steady Grow",
+    "category": "Daycares",
+    "address": "4975 S Durango Dr, Las Vegas, NV 89113",
+    "longitude": -115.2356,
+    "latitude": 36.0702,
+    "description": "Daycare focused on early childhood development with structured learning and playtime.",
+    "images": [],
+    "reviews": [
+      "Teachers are attentive and caring.",
+      "Great balance of learning and play.",
+      "Clean and child-friendly.",
+      "Highly recommend for working parents."
+    ]
+  },
+  {
+    "name": "Bright Minds Academy",
+    "category": "Daycares",
+    "address": "5050 W Lake Mead Blvd, Las Vegas, NV 89108",
+    "longitude": -115.2368,
+    "latitude": 36.1640,
+    "description": "Academy offering comprehensive early learning and supportive care for infants and young children.",
+    "images": [],
+    "reviews": [
+      "Staff is wonderful and nurturing.",
+      "Very structured and educational.",
+      "My kids love the activities.",
+      "Safe and clean environment."
+    ]
+  },
+  {
+    "name": "Early Learning Academy",
+    "category": "Daycares",
+    "address": "6100 W Sahara Ave, Las Vegas, NV 89146",
+    "longitude": -115.2688,
+    "latitude": 36.1382,
+    "description": "Daycare specializing in preparing children for kindergarten through engaging curriculum and play.",
+    "images": [],
+    "reviews": [
+      "Great preparation for school.",
+      "Friendly and experienced teachers.",
+      "Lots of fun learning activities.",
+      "The facility is clean and safe."
+    ]
+  },
+  {
+    "name": "Little Stars Child Development Center",
+    "category": "Daycares",
+    "address": "2300 E Flamingo Rd, Las Vegas, NV 89119",
+    "longitude": -115.1207,
+    "latitude": 36.1088,
+    "description": "Child-centered development center with a strong curriculum and supportive educators.",
+    "images": [],
+    "reviews": [
+      "My child has flourished here.",
+      "Teachers are kind and attentive.",
+      "Lots of learning and play.",
+      "Safe environment with good communication."
+    ]
+  },
+  {
+    "name": "Play & Learn Academy",
+    "category": "Daycares",
+    "address": "3435 S Hualapai Way, Las Vegas, NV 89147",
+    "longitude": -115.2250,
+    "latitude": 36.0763,
+    "description": "Academy offering play-based early education with nurturing staff and quality facilities.",
+    "images": [],
+    "reviews": [
+      "Excellent early education programs.",
+      "Teachers focus on individual needs.",
+      "Safe, friendly, and clean.",
+      "My kids love this daycare!"
+    ]
+  },
+  {
+    "name": "Bright Horizons Learning Center",
+    "category": "Daycares",
+    "address": "6000 S Rainbow Blvd, Las Vegas, NV 89118",
+    "longitude": -115.2379,
+    "latitude": 36.0879,
+    "description": "Learning center providing childcare and preschool programs with a focus on creativity and growth.",
+    "images": [],
+    "reviews": [
+      "Caring and dedicated teachers.",
+      "Lots of creative activities.",
+      "Safe and well-organized environment.",
+      "Highly recommended for young children."
+    ]
+  },
+  {
+    "name": "Happy Days Early Learning Center",
+    "category": "Daycares",
+    "address": "4800 W Sahara Ave, Las Vegas, NV 89102",
+    "longitude": -115.2331,
+    "latitude": 36.1369,
+    "description": "Early learning center with structured curriculum, creative play, and supportive staff.",
+    "images": [],
+    "reviews": [
+      "My son loves the teachers.",
+      "Great mix of play and learning.",
+      "Clean and safe facilities.",
+      "Good communication with parents."
+    ]
+  },
+  {
+    "name": "Little Champs Academy",
+    "category": "Daycares",
+    "address": "3600 E Desert Inn Rd, Las Vegas, NV 89121",
+    "longitude": -115.0886,
+    "latitude": 36.0982,
+    "description": "Academy with a nurturing, educational environment for toddlers and preschool children.",
+    "images": [],
+    "reviews": [
+      "Supportive teachers and good curriculum.",
+      "My daughter enjoys every day here.",
+      "Clean and child-friendly.",
+      "Excellent communication and care."
+    ]
+  },
+  {
+    "name": "Imagination Station",
+    "category": "Daycares",
+    "address": "1951 N Rainbow Blvd, Las Vegas, NV 89108",
+    "longitude": -115.2352,
+    "latitude": 36.1611,
+    "description": "Creative daycare focused on play-based learning and child development.",
+    "images": [],
+    "reviews": [
+      "Fun learning environment.",
+      "Teachers are very nurturing.",
+      "Safe and clean facility.",
+      "Highly recommend for busy parents."
+    ]
+  }
+]

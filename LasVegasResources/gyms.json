@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Fit4Mom Las Vegas",
+    "category": "Gyms",
+    "address": "1230 W Horizon Ridge Pkwy, Henderson, NV 89014",
+    "longitude": -115.0414,
+    "latitude": 36.0220,
+    "description": "Fitness program designed for moms focusing on pre and postnatal workouts and stroller fitness classes.",
+    "images": [],
+    "reviews": [
+      "Excellent support for new moms.",
+      "Great fitness classes with childcare.",
+      "Friendly and motivating trainers.",
+      "Helps moms get back into shape safely."
+    ]
+  },
+  {
+    "name": "StretchLab Las Vegas",
+    "category": "Gyms",
+    "address": "9100 S. Rainbow Blvd., Las Vegas, NV 89148",
+    "longitude": -115.2623,
+    "latitude": 36.0501,
+    "description": "Specialized gym offering assisted stretching sessions great for all fitness levels including family-friendly options.",
+    "images": [],
+    "reviews": [
+      "Amazing assisted stretching experience.",
+      "Staff is knowledgeable and caring.",
+      "Great for flexibility and injury prevention.",
+      "Clean and welcoming facility."
+    ]
+  },
+  {
+    "name": "City Athletic Club",
+    "category": "Gyms",
+    "address": "10520 S Eastern Ave, Henderson, NV 89052",
+    "longitude": -115.0991,
+    "latitude": 35.9834,
+    "description": "Full-service gym with childcare services, swimming pools, and family fitness programs.",
+    "images": [],
+    "reviews": [
+      "Excellent childcare while I work out.",
+      "Wide variety of classes for all ages.",
+      "Clean and spacious facilities.",
+      "Friendly experience for families."
+    ]
+  },
+  {
+    "name": "Anytime Fitness - Las Vegas",
+    "category": "Gyms",
+    "address": "3296 S Maryland Pkwy #5, Las Vegas, NV 89109",
+    "longitude": -115.1363,
+    "latitude": 36.1027,
+    "description": "Convenient 24/7 gym with family-friendly policies and accessible fitness equipment.",
+    "images": [],
+    "reviews": [
+      "Open all day which is great for parents.",
+      "Clean equipment and friendly staff.",
+      "Safe and welcoming gym environment.",
+      "Good for family workout schedules."
+    ]
+  },
+  {
+    "name": "Life Time Athletic - Summerlin",
+    "category": "Gyms",
+    "address": "1985 Village Center Cir, Las Vegas, NV 89134",
+    "longitude": -115.3158,
+    "latitude": 36.1837,
+    "description": "Luxury fitness center with amenities including childcare, swimming pools, and family group fitness classes.",
+    "images": [],
+    "reviews": [
+      "Top-notch facilities and family amenities.",
+      "Childcare services make workouts easy.",
+      "Lots of family-friendly programs.",
+      "Clean and well maintained."
+    ]
+  },
+  {
+    "name": "Zumba Fitness - Las Vegas Family Classes",
+    "category": "Gyms",
+    "address": "Various locations throughout Las Vegas",
+    "longitude": null,
+    "latitude": null,
+    "description": "Dance fitness classes welcoming families and kids to participate in fun and energetic workouts together.",
+    "images": [],
+    "reviews": [
+      "Fun and energetic classes for the whole family.",
+      "Great way to stay active with kids.",
+      "Friendly instructors and welcoming vibe.",
+      "Kids love dancing along!"
+    ]
+  },
+  {
+    "name": "Planet Fitness - Las Vegas",
+    "category": "Gyms",
+    "address": "4920 S Rainbow Blvd, Las Vegas, NV 89118",
+    "longitude": -115.2381,
+    "latitude": 36.0883,
+    "description": "Affordable gym with family-friendly hours and clean facilities suitable for parents and teens.",
+    "images": [],
+    "reviews": [
+      "Good value gym for families.",
+      "Clean and well-maintained.",
+      "Plenty of equipment and friendly staff.",
+      "Convenient hours for parents."
+    ]
+  },
+  {
+    "name": "The Little Gym of Las Vegas",
+    "category": "Gyms",
+    "address": "12075 S Eastern Ave #140, Henderson, NV 89052",
+    "longitude": -115.0901,
+    "latitude": 35.9984,
+    "description": "Gym focused on children’s physical development offering gymnastics and fitness classes for ages 4 months to 12 years.",
+    "images": [],
+    "reviews": [
+      "Great classes that kids really enjoy.",
+      "Excellent instructors and staff.",
+      "Safe and nurturing environment.",
+      "Highly recommended for child fitness."
+    ]
+  },
+  {
+    "name": "OrangeTheory Fitness - Summerlin",
+    "category": "Gyms",
+    "address": "10800 W Charleston Blvd Unit 110, Las Vegas, NV 89135",
+    "longitude": -115.2880,
+    "latitude": 36.1471,
+    "description": "Popular workout studio with family-friendly policies and diverse fitness classes.",
+    "images": [],
+    "reviews": [
+      "Great workout and welcoming atmosphere.",
+      "Staff accommodate families well.",
+      "Fun and challenging classes.",
+      "Good schedule for busy parents."
+    ]
+  },
+  {
+    "name": "LA Fitness - Henderson",
+    "category": "Gyms",
+    "address": "2000 Paseo Verde Pkwy, Henderson, NV 89052",
+    "longitude": -115.1437,
+    "latitude": 35.9979,
+    "description": "Full-service gym with childcare, group classes, pool, and family fitness programs.",
+    "images": [],
+    "reviews": [
+      "Helpful childcare staff.",
+      "Lots of family-friendly activities.",
+      "Clean and spacious facility.",
+      "Friendly and professional trainers."
+    ]
+  },
+  {
+    "name": "Montessori Academy of Las Vegas",
+    "category": "Schools",
+    "address": "4001 W Patrick Ln #200, Las Vegas, NV 89129",
+    "longitude": -115.2961,
+    "latitude": 36.2178,
+    "description": "Montessori school offering early childhood education focused on self-directed learning and development.",
+    "images": [],
+    "reviews": [
+      "Excellent Montessori education.",
+      "Teachers are very supportive.",
+      "Great learning environment.",
+      "My child loves the school."
+    ]
+  },
+  {
+    "name": "Red Rock Country Day School",
+    "category": "Schools",
+    "address": "9101 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.3032,
+    "latitude": 36.1452,
+    "description": "Private K-8 school providing high-quality academics in a nurturing environment.",
+    "images": [],
+    "reviews": [
+      "Small classes and personal attention.",
+      "Highly qualified teachers.",
+      "Safe and welcoming campus.",
+      "Great academic programs."
+    ]
+  },
+  {
+    "name": "The Meadows School",
+    "category": "Schools",
+    "address": "8600 W Del Rey Ave, Las Vegas, NV 89139",
+    "longitude": -115.2699,
+    "latitude": 36.1591,
+    "description": "Private school offering programs from preschool to high school with a focus on leadership and service.",
+    "images": [],
+    "reviews": [
+      "Strong academic and extracurricular programs.",
+      "Very supportive staff and teachers.",
+      "Safe and engaging environment.",
+      "Great school for families."
+    ]
+  }
+]

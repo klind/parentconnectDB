@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Rex Center Vegas",
+    "category": "Family Fun Centers",
+    "address": "3528 S Maryland Pkwy, Las Vegas, NV 89169",
+    "longitude": -115.1359,
+    "latitude": 36.0896,
+    "description": "Family fun center offering Mini Golf, Go-Karts, Laser Tag, Rock Climbing Walls, and Axe Throwing. Also features a pizza restaurant.",
+    "images": [],
+    "reviews": [
+      "Great place for families with kids of all ages.",
+      "Unlimited go-karts and laser tag with a full day pass.",
+      "Friendly staff and clean facilities.",
+      "Perfect for birthday parties and family outings."
+    ]
+  },
+  {
+    "name": "Las Vegas Mini Grand Prix Family Fun Center",
+    "category": "Family Fun Centers",
+    "address": "1401 N Rainbow Blvd, Las Vegas, NV 89108",
+    "longitude": -115.2357,
+    "latitude": 36.1599,
+    "description": "Popular spot for thrilling go-kart racing, amusement rides, and arcade games suitable for kids and adults.",
+    "images": [],
+    "reviews": [
+      "Kids had a blast racing go-karts.",
+      "Great family-friendly environment.",
+      "Many rides and games for all ages.",
+      "Clean and well maintained."
+    ]
+  },
+  {
+    "name": "Game Nest Arcade",
+    "category": "Family Fun Centers",
+    "address": "10998 W Charleston Blvd #20, Las Vegas, NV 89135",
+    "longitude": -115.2832,
+    "latitude": 36.1511,
+    "description": "Arcade with a variety of games suitable for children and teens in a welcoming environment.",
+    "images": [],
+    "reviews": [
+      "Lots of fun games for the whole family.",
+      "Clean and safe arcade.",
+      "Friendly staff and helpful attendants.",
+      "Kids loved the prizes and game variety."
+    ]
+  },
+  {
+    "name": "John's Incredible Pizza",
+    "category": "Family Fun Centers",
+    "address": "8714 W Sunset Rd, Las Vegas, NV 89113",
+    "longitude": -115.2894,
+    "latitude": 36.0624,
+    "description": "Family-oriented amusement center offering pizza buffet, arcade games, rides, and entertainment.",
+    "images": [],
+    "reviews": [
+      "Great variety of fun for kids and families.",
+      "Pizza buffet was a big hit.",
+      "Clean and welcoming environment.",
+      "Lots to keep kids entertained for hours."
+    ]
+  },
+  {
+    "name": "Canyon Cars",
+    "category": "Family Fun Centers",
+    "address": "7835 S Rainbow Blvd, Las Vegas, NV 89139",
+    "longitude": -115.2413,
+    "latitude": 36.0805,
+    "description": "Indoor amusement park featuring go-kart racing, arcade games, and party rooms.",
+    "images": [],
+    "reviews": [
+      "Safe and fun environment for kids.",
+      "Great go-kart track and arcade.",
+      "Excellent for birthday parties.",
+      "Helpful and friendly staff."
+    ]
+  },
+  {
+    "name": "Area15",
+    "category": "Family Fun Centers",
+    "address": "3215 S Rancho Dr, Las Vegas, NV 89102",
+    "longitude": -115.2332,
+    "latitude": 36.1094,
+    "description": "Immersive entertainment district including interactive art, VR experiences, family-friendly activities, and dining.",
+    "images": [],
+    "reviews": [
+      "A unique place with lots for families to do.",
+      "Interactive exhibits and fun events.",
+      "Great dining and shopping options.",
+      "Fun for all ages."
+    ]
+  },
+  {
+    "name": "Electric Playhouse",
+    "category": "Family Fun Centers",
+    "address": "4480 Paradise Rd Suite 100, Las Vegas, NV 89169",
+    "longitude": -115.1366,
+    "latitude": 36.0938,
+    "description": "Indoor interactive games and activities suitable for kids and adults, perfect for birthday parties.",
+    "images": [],
+    "reviews": [
+      "Great for groups and parties.",
+      "Lots of interactive games.",
+      "Clean and well managed.",
+      "Kids love it here."
+    ]
+  },
+  {
+    "name": "Spy Ninjas HQ",
+    "category": "Family Fun Centers",
+    "address": "7400 W Sahara Ave, Las Vegas, NV 89117",
+    "longitude": -115.2754,
+    "latitude": 36.1603,
+    "description": "Adventure park featuring escape rooms, virtual reality, trampolines, climbing walls, axe throwing, and arcade games.",
+    "images": [],
+    "reviews": [
+      "Perfect for adventurous families.",
+      "Fun activities for all ages.",
+      "Safe and clean facility.",
+      "Great for birthday parties."
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Fashion Show Mall",
+    "category": "Shopping",
+    "address": "3200 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "longitude": -115.1536,
+    "latitude": 36.1319,
+    "description": "Large shopping mall with many family-friendly stores, play areas, and dining options suitable for children.",
+    "images": [],
+    "reviews": [
+      "Great shopping with spacious play zones for kids.",
+      "Lots of kid-friendly dining options.",
+      "Clean and well maintained.",
+      "Perfect place for a family outing."
+    ]
+  },
+  {
+    "name": "Town Square Las Vegas",
+    "category": "Shopping",
+    "address": "6605 Las Vegas Blvd S, Las Vegas, NV 89119",
+    "longitude": -115.1721,
+    "latitude": 36.1032,
+    "description": "Outdoor shopping center with family-friendly activities, play areas, and kid-centric events.",
+    "images": [],
+    "reviews": [
+      "Our kids love the splash pad and play areas.",
+      "Lots of family-friendly stores and eateries.",
+      "Great atmosphere for kids and adults.",
+      "Safe and clean open-air mall."
+    ]
+  },
+  {
+    "name": "Meadowood Shopping Center",
+    "category": "Shopping",
+    "address": "4455 S Nellis Blvd, Las Vegas, NV 89121",
+    "longitude": -115.0829,
+    "latitude": 36.0687,
+    "description": "Community shopping center with a family-friendly environment and kid activities.",
+    "images": [],
+    "reviews": [
+      "Convenient shopping with kids' play zones.",
+      "Friendly shops and helpful staff.",
+      "Good variety of stores for families.",
+      "Fun place for kids to explore."
+    ]
+  },
+  {
+    "name": "The District at Green Valley Ranch",
+    "category": "Shopping",
+    "address": "2240 Village Walk Dr, Henderson, NV 89052",
+    "longitude": -115.0551,
+    "latitude": 36.0169,
+    "description": "Upscale shopping and dining with family-oriented events and children’s play areas.",
+    "images": [],
+    "reviews": [
+      "Lovely outdoor area with lots of kids’ activities.",
+      "Clean and safe environment.",
+      "Great shops and restaurants for families.",
+      "Perfect weekend spot with children."
+    ]
+  },
+  {
+    "name": "Charleston Pavilion",
+    "category": "Shopping",
+    "address": "850 S Durango Dr, Las Vegas, NV 89145",
+    "longitude": -115.2171,
+    "latitude": 36.0807,
+    "description": "Shopping center with a focus on family needs and kid-friendly amenities.",
+    "images": [],
+    "reviews": [
+      "Nice shopping and kid-friendly spaces.",
+      "Lots of family restaurants.",
+      "Safe and clean shopping area.",
+      "Great customer service."
+    ]
+  },
+  {
+    "name": "The Boulevard Mall",
+    "category": "Shopping",
+    "address": "3528 S Maryland Pkwy, Las Vegas, NV 89169",
+    "longitude": -115.1359,
+    "latitude": 36.0896,
+    "description": "Large mall with a children's play area and numerous family-friendly stores and dining options.",
+    "images": [],
+    "reviews": [
+      "Good shopping with kid play zones.",
+      "Clean and safe environment.",
+      "Great food court with kid menus.",
+      "Very family-oriented mall."
+    ]
+  },
+  {
+    "name": "Town Square Arcade",
+    "category": "Shopping",
+    "address": "6605 S Las Vegas Blvd, Las Vegas, NV 89119",
+    "longitude": -115.1724,
+    "latitude": 36.1031,
+    "description": "Family-friendly arcade located within Town Square Shopping Center, offering fun games for children.",
+    "images": [],
+    "reviews": [
+      "Kids love the arcade games.",
+      "Clean and well maintained.",
+      "Friendly staff and plenty of fun.",
+      "Great place for family fun."
+    ]
+  },
+  {
+    "name": "Downtown Container Park",
+    "category": "Shopping",
+    "address": "707 Fremont St, Las Vegas, NV 89101",
+    "longitude": -115.1393,
+    "latitude": 36.1698,
+    "description": "Shopping and entertainment complex with interactive play areas and kid-friendly events.",
+    "images": [],
+    "reviews": [
+      "Awesome place for kids to explore and play.",
+      "Clean and vibrant atmosphere.",
+      "Lots of unique shops and eateries.",
+      "Perfect for families visiting downtown."
+    ]
+  },
+  {
+    "name": "TCF Bank Children's Play Area",
+    "category": "Shopping",
+    "address": "4550 W Tropicana Ave, Las Vegas, NV 89103",
+    "longitude": -115.2379,
+    "latitude": 36.1062,
+    "description": "Dedicated children's play area located inside a family-friendly shopping center.",
+    "images": [],
+    "reviews": [
+      "Safe and fun indoor play space.",
+      "Good supervision and clean environment.",
+      "Kids really enjoy this spot.",
+      "Great relief while parents shop."
+    ]
+  },
+  {
+    "name": "The District at Mountain’s Edge",
+    "category": "Shopping",
+    "address": "9560 W Lake Mead Pkwy, Las Vegas, NV 89134",
+    "longitude": -115.3047,
+    "latitude": 36.2092,
+    "description": "Community shopping center with family-friendly shops and interactive children's zones.",
+    "images": [],
+    "reviews": [
+      "Nice shopping center with play areas.",
+      "Family-friendly and clean.",
+      "Lovely outdoor setting.",
+      "Great weekend spot for families."
+    ]
+  },
+  {
+    "name": "Las Vegas North Premium Outlets",
+    "category": "Shopping",
+    "address": "875 S Grand Central Pkwy, Las Vegas, NV 89106",
+    "longitude": -115.1283,
+    "latitude": 36.1705,
+    "description": "Outlet shopping mall with family-friendly amenities and kid-friendly stores.",
+    "images": [],
+    "reviews": [
+      "Great deals with plenty of kid stuff.",
+      "Clean and nice place for families.",
+      "Good restroom and stroller rental facilities.",
+      "Kids entertained while parents shop."
+    ]
+  },
+  {
+    "name": "Las Vegas South Premium Outlets",
+    "category": "Shopping",
+    "address": "7400 Las Vegas Blvd S, Las Vegas, NV 89123",
+    "longitude": -115.1732,
+    "latitude": 35.9953,
+    "description": "Popular outlet mall with a family-friendly atmosphere and wide variety of shops.",
+    "images": [],
+    "reviews": [
+      "Lots of shopping options for families.",
+      "Clean and well organized.",
+      "Good kid-friendly seating and areas.",
+      "Fun and safe during busy days."
+    ]
+  },
+  {
+    "name": "The Shops at Crystals",
+    "category": "Shopping",
+    "address": "3720 S Las Vegas Blvd, Las Vegas, NV 89158",
+    "longitude": -115.1742,
+    "latitude": 36.1011,
+    "description": "Luxury shopping destination with family-friendly events and spaces.",
+    "images": [],
+    "reviews": [
+      "Beautiful shopping with kid-friendly spaces.",
+      "Clean and spacious environment.",
+      "Great dining options for families.",
+      "Staff welcoming and helpful."
+    ]
+  },
+  {
+    "name": "Galleria at Sunset",
+    "category": "Shopping",
+    "address": "1300 W Sunset Rd, Henderson, NV 89014",
+    "longitude": -114.9742,
+    "latitude": 36.0367,
+    "description": "Large indoor mall with entertainment and dining focused on families and children.",
+    "images": [],
+    "reviews": [
+      "Perfect shopping spot for families.",
+      "Lots of kid-friendly stores and activities.",
+      "Very clean and well maintained.",
+      "Friendly staff throughout the mall."
+    ]
+  },
+  {
+    "name": "Paradise Valley Marketplace",
+    "category": "Shopping",
+    "address": "4480 Paradise Rd, Las Vegas, NV 89169",
+    "longitude": -115.1357,
+    "latitude": 36.0901,
+    "description": "Shopping center with family-friendly stores, restaurants, and play areas for children.",
+    "images": [],
+    "reviews": [
+      "Great family shopping experience.",
+      "Nice playground nearby for kids.",
+      "Safe and clean area.",
+      "Variety of shops and eateries."
+    ]
+  },
+  {
+    "name": "Town Square Splash Pad",
+    "category": "Shopping",
+    "address": "6605 Las Vegas Blvd S, Las Vegas, NV 89119",
+    "longitude": -115.1720,
+    "latitude": 36.1031,
+    "description": "Popular outdoor splash pad and play area within the Town Square Shopping Center, perfect for children.",
+    "images": [],
+    "reviews": [
+      "Kids love splashing here during the summer.",
+      "Safe and well-maintained.",
+      "Great place for family outings.",
+      "Parents can relax nearby while watching kids."
+    ]
+  },
+  {
+    "name": "Broadacres Plaza",
+    "category": "Shopping",
+    "address": "3925 N Decatur Blvd, Las Vegas, NV 89129",
+    "longitude": -115.1831,
+    "latitude": 36.2405,
+    "description": "Shopping plaza with family-friendly stores and convenient parking for families with children.",
+    "images": [],
+    "reviews": [
+      "Easy to access with kids.",
+      "Good variety of stores.",
+      "Friendly environment for families.",
+      "Clean and peaceful shopping."
+    ]
+  },
+  {
+    "name": "Rampart Commons",
+    "category": "Shopping",
+    "address": "8950 Rampart Blvd, Las Vegas, NV 89128",
+    "longitude": -115.2680,
+    "latitude": 36.1977,
+    "description": "Neighborhood shopping center with many family-oriented shops and dining options.",
+    "images": [],
+    "reviews": [
+      "Great place to shop with kids.",
+      "Plenty of parking and stroller accessible.",
+      "Friendly staff and restaurants.",
+      "Clean and well maintained."
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "DISCOVERY Children's Museum",
+    "category": "Museums",
+    "address": "360 Promenade Place, Las Vegas, NV 89106",
+    "longitude": -115.1449,
+    "latitude": 36.1721,
+    "description": "Interactive museum with hands-on exhibits focused on science, art, and education for children of all ages.",
+    "images": ["https://www.discoverykidslv.org/wp-content/uploads/2023/12/featured-energia-energy-300x300.jpg"],
+    "reviews": [
+      "This museum is fun for kids and adults alike.",
+      "Perfect for a rainy day with lots to explore.",
+      "Hands-on exhibits keep children engaged and curious.",
+      "Friendly staff and clean facilities."
+    ]
+  },
+  {
+    "name": "Nevada State Museum, Las Vegas",
+    "category": "Museums",
+    "address": "309 S Valley View Blvd, Las Vegas, NV 89107",
+    "longitude": -115.2298,
+    "latitude": 36.1079,
+    "description": "Museum showcasing Nevada’s unique history, including wildlife and cultural exhibits that interest children.",
+    "images": [],
+    "reviews": [
+      "Great museum for kids to learn about Nevada history.",
+      "Interactive and educational exhibits.",
+      "Perfect outing for families.",
+      "Well organized and engaging."
+    ]
+  },
+  {
+    "name": "The Mob Museum",
+    "category": "Museums",
+    "address": "300 Stewart Ave, Las Vegas, NV 89101",
+    "longitude": -115.1487,
+    "latitude": 36.1710,
+    "description": "Engaging museum with exhibits centered on the history of organized crime and law enforcement, with kid-friendly activities.",
+    "images": [],
+    "reviews": [
+      "Fascinating exhibits that kids found interesting.",
+      "Great mix of history and interactive displays.",
+      "Staff friendly and helpful to families.",
+      "Educational and fun."
+    ]
+  },
+  {
+    "name": "Las Vegas Natural History Museum",
+    "category": "Museums",
+    "address": "900 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "longitude": -115.1539,
+    "latitude": 36.1860,
+    "description": "Museum featuring dinosaur skeletons, animal exhibits, and a planetarium, great for children’s curiosity.",
+    "images": [],
+    "reviews": [
+      "One of our favorite family spots.",
+      "Kids loved the dinosaurs and animal displays.",
+      "Quiet and educational place.",
+      "Helpful staff and nice gift shop."
+    ]
+  },
+  {
+    "name": "DISCOVERY Children's Museum - Water World",
+    "category": "Museums",
+    "address": "360 Promenade Place, Las Vegas, NV 89106",
+    "longitude": -115.1449,
+    "latitude": 36.1721,
+    "description": "A water play exhibit inside the children's museum where kids can learn about water physics with fun activities.",
+    "images": [],
+    "reviews": [
+      "My kids had so much fun while learning about water!",
+      "One of the best interactive exhibits.",
+      "Safe and very educational.",
+      "Staff is attentive and kind."
+    ]
+  },
+  {
+    "name": "Las Vegas Springs Preserve",
+    "category": "Museums",
+    "address": "333 S Valley View Blvd, Las Vegas, NV 89107",
+    "longitude": -115.2392,
+    "latitude": 36.1154,
+    "description": "Nature preserve with educational exhibits, gardens, and walking trails ideal for families with children.",
+    "images": [],
+    "reviews": [
+      "Beautiful and peaceful place for a family day.",
+      "Lots of hands-on learning opportunities.",
+      "Perfect for kids to explore nature.",
+      "Great for picnics and outdoor fun."
+    ]
+  },
+  {
+    "name": "Pinball Hall of Fame",
+    "category": "Museums",
+    "address": "1610 E Tropicana Ave, Las Vegas, NV 89119",
+    "longitude": -115.1271,
+    "latitude": 36.1077,
+    "description": "Museum featuring vintage pinball machines and arcade games that kids and adults enjoy.",
+    "images": [],
+    "reviews": [
+      "Really fun place for kids and pinball enthusiasts.",
+      "Great mix of games from many eras.",
+      "Affordable and entertaining.",
+      "Friendly staff and clean environment."
+    ]
+  },
+  {
+    "name": "Nevada State Railroad Museum",
+    "category": "Museums",
+    "address": "2180 S Railroad St, Boulder City, NV 89005",
+    "longitude": -114.8528,
+    "latitude": 35.9673,
+    "description": "Museum showcasing railroad history with historic trains and kid-friendly exhibits, located near Las Vegas.",
+    "images": [],
+    "reviews": [
+      "Fascinating trains for the whole family.",
+      "Kids loved sitting in the old locomotives.",
+      "Engaging and educational staff.",
+      "Great outdoor museum experience."
+    ]
+  },
+  {
+    "name": "Clark County Museum",
+    "category": "Museums",
+    "address": "1830 S Decatur Blvd, Las Vegas, NV 89102",
+    "longitude": -115.1836,
+    "latitude": 36.1424,
+    "description": "Historic museum with buildings and artifacts showing life in Nevada’s past, great for kids interested in history.",
+    "images": [],
+    "reviews": [
+      "Wonderful glimpse into Nevada’s history.",
+      "Kids enjoyed the historic buildings.",
+      "Informative and well-maintained.",
+      "Perfect educational outing."
+    ]
+  },
+  {
+    "name": "Wetlands Park Nature Center",
+    "category": "Museums",
+    "address": "7050 Wetlands Park Ln, Las Vegas, NV 89122",
+    "longitude": -115.0964,
+    "latitude": 35.9946,
+    "description": "Nature center with interactive exhibits about wetland ecosystems and wildlife, great for children and families.",
+    "images": [],
+    "reviews": [
+      "Great place to learn about nature.",
+      "Kids loved the animal exhibits.",
+      "Beautiful trails to explore.",
+      "Staff provided engaging tours and activities."
+    ]
+  },
+  {
+    "name": "Titanic: The Artifact Exhibition",
+    "category": "Museums",
+    "address": "3717 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "longitude": -115.1707,
+    "latitude": 36.0968,
+    "description": "Exhibition featuring artifacts and history of the Titanic, offering educational experiences for children and adults.",
+    "images": [],
+    "reviews": [
+      "Highly engaging for older kids and adults.",
+      "Displays are informative and well-organized.",
+      "Great audio guide included.",
+      "Perfect for history fans."
+    ]
+  },
+  {
+    "name": "Las Vegas Art Museum",
+    "category": "Museums",
+    "address": "900 Las Vegas Blvd N, Las Vegas, NV 89101",
+    "longitude": -115.1540,
+    "latitude": 36.1862,
+    "description": "Museum showcasing contemporary art with family-friendly activities and exhibits.",
+    "images": [],
+    "reviews": [
+      "Beautiful art pieces.",
+      "Kids workshops are outstanding.",
+      "Staff very welcoming and helpful.",
+      "A great cultural experience for families."
+    ]
+  },
+  {
+    "name": "National Atomic Testing Museum",
+    "category": "Museums",
+    "address": "755 E Flamingo Rd, Las Vegas, NV 89119",
+    "longitude": -115.1249,
+    "latitude": 36.1218,
+    "description": "Museum focused on the history of nuclear testing with interactive exhibits suitable for older children.",
+    "images": [],
+    "reviews": [
+      "Very educational and interesting exhibits.",
+      "Great for science-loving kids and teens.",
+      "Staff explained things clearly.",
+      "Unique experience in Las Vegas."
+    ]
+  },
+  {
+    "name": "DISCOVERY Children's Museum - Dino Lab",
+    "category": "Museums",
+    "address": "360 Promenade Place, Las Vegas, NV 89106",
+    "longitude": -115.1449,
+    "latitude": 36.1721,
+    "description": "Dinosaur-themed exhibit with interactive fossils and educational activities for kids.",
+    "images": [],
+    "reviews": [
+      "Kids loved the Dino Lab!",
+      "Very interactive and fun science activities.",
+      "Great educational experience.",
+      "The staff was very kid-friendly."
+    ]
+  },
+  {
+    "name": "Las Vegas Holocaust Museum",
+    "category": "Museums",
+    "address": "2101 S Jones Blvd, Las Vegas, NV 89146",
+    "longitude": -115.2436,
+    "latitude": 36.1029,
+    "description": "Museum dedicated to Holocaust education with exhibits accessible to older children and teens.",
+    "images": [],
+    "reviews": [
+      "Important and well-curated exhibits.",
+      "Educational for older kids and teens.",
+      "Respectful and informative experience.",
+      "Staff is very knowledgeable."
+    ]
+  },
+  {
+    "name": "Las Vegas Discovery Museum",
+    "category": "Museums",
+    "address": "360 Promenade Place, Las Vegas, NV 89106",
+    "longitude": -115.1449,
+    "latitude": 36.1721,
+    "description": "Hands-on children’s museum with rotating exhibits related to science and art.",
+    "images": [],
+    "reviews": [
+      "My children were engaged for hours.",
+      "The hands-on exhibits are fantastic.",
+      "Great for kids of all ages.",
+      "Friendly and helpful staff."
+    ]
+  }
+]

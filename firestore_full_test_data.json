@@ -3278,6 +3278,18 @@
       "features_location_filtering": false,
       "features_push_notifications": true,
       "features_community_moderation": false
+    },
+    "user_field_visibility": {
+      "publicFields": [
+        "displayName",
+        "profileImageUrl",
+        "location.city",
+        "location.state",
+        "interests",
+        "friendsCount",
+        "childAgeRanges",
+        "bio"
+      ]
     }
   }
 }

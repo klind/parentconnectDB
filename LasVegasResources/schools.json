@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Coronado High School",
+    "category": "Schools",
+    "address": "1001 Coronado Center Dr, Henderson, NV 89052",
+    "longitude": -115.0886,
+    "latitude": 36.0216,
+    "description": "Public high school with a strong focus on academics, arts, and athletics, serving the Henderson area.",
+    "images": [],
+    "reviews": [
+      "Great environment for students.",
+      "Supportive teachers and staff.",
+      "Strong extracurricular programs.",
+      "Good for preparing kids for college."
+    ]
+  },
+  {
+    "name": "Foothill High School",
+    "category": "Schools",
+    "address": "800 College Dr, Henderson, NV 89015",
+    "longitude": -114.9911,
+    "latitude": 36.0310,
+    "description": "Well-regarded public high school with a comprehensive curriculum and variety of clubs and sports.",
+    "images": [],
+    "reviews": [
+      "Good balance of academics and sports.",
+      "Teachers really care about kids.",
+      "Great community involvement.",
+      "Safe and supportive environment."
+    ]
+  },
+  {
+    "name": "Eldorado High School",
+    "category": "Schools",
+    "address": "1139 Alaska Ave, Las Vegas, NV 89102",
+    "longitude": -115.1497,
+    "latitude": 36.1198,
+    "description": "Public high school with a diverse student body offering AP courses and athletics.",
+    "images": [],
+    "reviews": [
+      "Strong academic programs.",
+      "Various electives for students.",
+      "Good sports teams.",
+      "Safe and well-maintained campus."
+    ]
+  },
+  {
+    "name": "Liberty High School",
+    "category": "Schools",
+    "address": "875 W Centennial Pkwy, Henderson, NV 89015",
+    "longitude": -114.9974,
+    "latitude": 36.0385,
+    "description": "Large public high school providing various academic and extracurricular activities.",
+    "images": [],
+    "reviews": [
+      "Great AP and honors courses.",
+      "Supportive faculty.",
+      "Variety of clubs and sports.",
+      "Nice campus and facilities."
+    ]
+  },
+  {
+    "name": "Basic High School",
+    "category": "Schools",
+    "address": "310 S Casino Center Blvd, Las Vegas, NV 89101",
+    "longitude": -115.1731,
+    "latitude": 36.1622,
+    "description": "Historic public high school emphasizing traditions alongside modern education.",
+    "images": [],
+    "reviews": [
+      "Strong sense of community.",
+      "Good academic programs.",
+      "Friendly teachers.",
+      "Lots of extracurricular options."
+    ]
+  },
+  {
+    "name": "West Career & Technical Academy",
+    "category": "Schools",
+    "address": "11945 W Charleston Blvd, Las Vegas, NV 89135",
+    "longitude": -115.2936,
+    "latitude": 36.1439,
+    "description": "Specialized high school focusing on career and technical education with various academies.",
+    "images": [],
+    "reviews": [
+      "Excellent technical programs.",
+      "Hands-on learning experiences.",
+      "Helpful staff and great facilities.",
+      "Prepares students well for careers."
+    ]
+  },
+  {
+    "name": "Bonanza High School",
+    "category": "Schools",
+    "address": "6665 W Del Rey Ave, Las Vegas, NV 89146",
+    "longitude": -115.2614,
+    "latitude": 36.1546,
+    "description": "Public high school offering diverse programs and supportive learning environment.",
+    "images": [],
+    "reviews": [
+      "Friendly teachers and great counselors.",
+      "Good academic support.",
+      "Lots of extracurricular activities.",
+      "Safe and welcoming campus."
+    ]
+  },
+  {
+    "name": "Cheyenne High School",
+    "category": "Schools",
+    "address": "3200 W Alexander Rd, North Las Vegas, NV 89032",
+    "longitude": -115.0616,
+    "latitude": 36.2343,
+    "description": "Public high school with academic and athletic programs for diverse learners.",
+    "images": [],
+    "reviews": [
+      "Great sports and arts programs.",
+      "Supportive administration.",
+      "Quality teachers.",
+      "Engaging community."
+    ]
+  },
+  {
+    "name": "Desert Oasis High School",
+    "category": "Schools",
+    "address": "6600 W Erie Ave, Las Vegas, NV 89141",
+    "longitude": -115.1847,
+    "latitude": 36.1021,
+    "description": "Newer public high school with modern facilities and a focus on college readiness.",
+    "images": [],
+    "reviews": [
+      "Clean, modern campus.",
+      "Excellent teachers.",
+      "Lots of opportunities for students.",
+      "Safe environment."
+    ]
+  },
+  {
+    "name": "Legacy High School",
+    "category": "Schools",
+    "address": "1800 E Lake Mead Pkwy, Henderson, NV 89015",
+    "longitude": -114.9927,
+    "latitude": 36.0228,
+    "description": "Public high school offering solid academics, sports, and arts programming in Henderson.",
+    "images": [],
+    "reviews": [
+      "Friendly staff and teachers.",
+      "Good balance of academics and sports.",
+      "Well maintained and clean.",
+      "Safe and positive atmosphere."
+    ]
+  },
+  {
+    "name": "Advanced Technologies Academy",
+    "category": "Schools",
+    "address": "1900 W Oakey Blvd, Las Vegas, NV 89106",
+    "longitude": -115.1904,
+    "latitude": 36.1395,
+    "description": "Magnet school focusing on STEM and advanced technologies for high school students.",
+    "images": [],
+    "reviews": [
+      "Excellent STEM programs.",
+      "Knowledgeable teachers.",
+      "Good facilities for technology education.",
+      "Very engaging curriculum."
+    ]
+  },
+  {
+    "name": "Del Sol Academy",
+    "category": "Schools",
+    "address": "3450 N Buffalo Dr, Las Vegas, NV 89128",
+    "longitude": -115.2767,
+    "latitude": 36.2031,
+    "description": "Public high school with arts and science academies and diverse extracurricular offerings.",
+    "images": [],
+    "reviews": [
+      "Strong academic focus.",
+      "Creative arts programs.",
+      "Energetic and involved staff.",
+      "Good student support."
+    ]
+  },
+  {
+    "name": "Legacy Traditional Schools - Simmons",
+    "category": "Schools",
+    "address": "9700 W Patrick Ln, Las Vegas, NV 89148",
+    "longitude": -115.3035,
+    "latitude": 36.0499,
+    "description": "Charter school providing a rigorous college-preparatory curriculum for grades K-12.",
+    "images": [],
+    "reviews": [
+      "Strong academic standards.",
+      "Highly qualified teachers.",
+      "Good discipline and structure.",
+      "Parents are very involved."
+    ]
+  },
+  {
+    "name": "Spring Valley High School",
+    "category": "Schools",
+    "address": "3750 S Buffalo Dr, Las Vegas, NV 89147",
+    "longitude": -115.2678,
+    "latitude": 36.0737,
+    "description": "Public high school offering a wide variety of clubs, sports, and AP courses.",
+    "images": [],
+    "reviews": [
+      "Friendly and helpful teachers.",
+      "Good range of activities.",
+      "Safe and clean campus.",
+      "Supportive community."
+    ]
+  },
+  {
+    "name": "Pinecrest Academy",
+    "category": "Schools",
+    "address": "11020 Park Run Dr, Las Vegas, NV 89144",
+    "longitude": -115.2473,
+    "latitude": 36.1768,
+    "description": "Public charter school offering personalized learning in a supportive environment.",
+    "images": [],
+    "reviews": [
+      "Great academic programs.",
+      "Teachers clearly care about students.",
+      "Very supportive environment.",
+      "Good parent involvement."
+    ]
+  },
+  {
+    "name": "West Preparatory Academy",
+    "category": "Schools",
+    "address": "5555 W Washington Ave, Las Vegas, NV 89107",
+    "longitude": -115.2367,
+    "latitude": 36.1657,
+    "description": "Charter school with a strong emphasis on college readiness and community involvement.",
+    "images": [],
+    "reviews": [
+      "Teachers are dedicated.",
+      "Good extracurriculars.",
+      "Safe campus with lots of activities.",
+      "Great college prep."
+    ]
+  },
+  {
+    "name": "Twin Lakes Elementary School",
+    "category": "Schools",
+    "address": "1651 Elkhorn Rd, Henderson, NV 89014",
+    "longitude": -115.0379,
+    "latitude": 36.0547,
+    "description": "Elementary school with a nurturing environment and strong focus on student growth and development.",
+    "images": [],
+    "reviews": [
+      "Friendly teachers and staff.",
+      "Good communication with parents.",
+      "Safe and supportive environment.",
+      "Great community spirit."
+    ]
+  },
+  {
+    "name": "Mountain View Elementary School",
+    "category": "Schools",
+    "address": "1100 N Marycrest Cir, Las Vegas, NV 89107",
+    "longitude": -115.2303,
+    "latitude": 36.1365,
+    "description": "Elementary school emphasizing academic excellence and community involvement.",
+    "images": [],
+    "reviews": [
+      "Loving and caring teachers.",
+      "Lots of activities for kids.",
+      "Well-kept campus.",
+      "Good balance of academics and fun."
+    ]
+  },
+  {
+    "name": "Whitney Ranch Elementary School",
+    "category": "Schools",
+    "address": "7350 S Laredo St, Las Vegas, NV 89113",
+    "longitude": -115.2649,
+    "latitude": 36.0674,
+    "description": "Elementary school with a strong arts program and nurturing community.",
+    "images": [],
+    "reviews": [
+      "Great art and music programs.",
+      "Teachers truly care about students.",
+      "Clean and safe school.",
+      "Excellent afterschool activities."
+    ]
+  },
+  {
+    "name": "Goynes Elementary School",
+    "category": "Schools",
+    "address": "1640 Ashgrove St, Las Vegas, NV 89102",
+    "longitude": -115.1735,
+    "latitude": 36.1253,
+    "description": "Elementary school focused on fostering a positive and supportive learning environment.",
+    "images": [],
+    "reviews": [
+      "Great communication with parents.",
+      "Friendly and approachable staff.",
+      "Good education programs.",
+      "Kids are happy and engaged."
+    ]
+  }
+]
