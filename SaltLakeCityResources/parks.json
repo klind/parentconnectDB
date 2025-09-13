@@ -1,0 +1,330 @@
+{
+  "category": "Parks",
+  "totalResources": 20,
+  "resources": [
+    {
+      "name": "Liberty Park",
+      "category": "Parks",
+      "street": "600 E 900 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "latitude": 40.746445,
+      "longitude": -111.874916,
+      "description": "Massive city park with shady walking paths, two playgrounds, splash pad, aviary, pond, sports, and open green space.",
+      "reviews": [
+        "This park is huge, family and pet friendly. The playgrounds are very nice and well maintained.",
+        "The aviary is incredible, and my kids love the splash pad.",
+        "A must-visit spot in SLC for anyone with kids.",
+        "Great place for jogging, walking your dog, picnics, or just relaxing."
+      ]
+    },
+    {
+      "name": "Rosewood Park",
+      "category": "Parks",
+      "street": "1400 Rose Park Ln",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84116",
+      "latitude": 40.7833,
+      "longitude": -111.9167,
+      "description": "Neighborhood park known for its large grassy fields, updated playground, and safe, quiet vibe.",
+      "reviews": [
+        "Such a beautifully maintained neighborhood park with a great playground.",
+        "Quiet, clean, and fun for the kids.",
+        "Tons of grass and space for kids to run and play.",
+        "Nice walking path with lots of shade."
+      ]
+    },
+    {
+      "name": "Rotary Glen Park",
+      "category": "Parks",
+      "street": "2903 Kennedy Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84108",
+      "latitude": 40.823002,
+      "longitude": -111.799657,
+      "description": "Park with wooded areas, river, picnic sites, and a small but fun play area.",
+      "reviews": [
+        "Pretty park with a playground and a pond. Great for little kids.",
+        "A hidden gem—peaceful and perfect for picnics.",
+        "Nice open spaces and a fun play area."
+      ]
+    },
+    {
+      "name": "Great Salt Lake State Park",
+      "category": "Parks",
+      "street": "13312 W 1075 S",
+      "city": "Magna",
+      "state": "UT",
+      "zip": "84044",
+      "latitude": 40.6868,
+      "longitude": -111.9897,
+      "description": "State park by the lakeshore, offers water views, boat marina, picnicking, casual wading, and birdwatching.",
+      "reviews": [
+        "Beautiful views! The kids like watching the boats and skipping rocks.",
+        "Nice place for a sunset walk with the family.",
+        "Interesting to see the salt flats and wade in the water."
+      ]
+    },
+    {
+      "name": "East Riverfront Park",
+      "category": "Parks",
+      "street": "10991 S River Front Pkwy",
+      "city": "South Jordan",
+      "state": "UT",
+      "zip": "84095",
+      "latitude": 40.5439,
+      "longitude": -111.8981,
+      "description": "Trail-adjacent, riverside park with big lawns, creative playground, and picnic space.",
+      "reviews": [
+        "It’s clean, quiet, and has a nice play area for children.",
+        "I love walking along the river with my kids here.",
+        "The playground is great, and there's a picnic area too."
+      ]
+    },
+    {
+      "name": "Murray Park",
+      "category": "Parks",
+      "street": "296 E Murray Park Ave",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.6722,
+      "longitude": -111.8881,
+      "description": "Classic city park: large, shady, with multiple playgrounds, sports fields, picnic spaces, and a stream for exploration.",
+      "reviews": [
+        "Lots of playgrounds and room to run. Super family-friendly.",
+        "Perfect shady park for summer.",
+        "My kids love the creek!",
+        "Great for big gatherings and events."
+      ]
+    },
+    {
+      "name": "Sugar House Park",
+      "category": "Parks",
+      "street": "1330 E 2100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84106",
+      "latitude": 40.7226,
+      "longitude": -111.8545,
+      "description": "Sprawling historic park with walking trails, climbing equipment, sledding hills in winter, and scenic lake.",
+      "reviews": [
+        "Massive park, we always come for walks and picnics.",
+        "Great sledding hills in the winter.",
+        "Fun playground and beautiful scenery."
+      ]
+    },
+    {
+      "name": "Mountview Park",
+      "category": "Parks",
+      "street": "1651 Fort Union Blvd",
+      "city": "Cottonwood Heights",
+      "state": "UT",
+      "zip": "84121",
+      "latitude": 40.6217,
+      "longitude": -111.8292,
+      "description": "Splash pad, well-designed playground with safe surfaces, lots of shade, and sports court.",
+      "reviews": [
+        "Wonderful splash pad and playground. Lots of shade and seating.",
+        "My toddlers could play here for hours.",
+        "Always clean and safe."
+      ]
+    },
+    {
+      "name": "Memory Grove Park",
+      "category": "Parks",
+      "street": "300 N Canyon Rd",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84103",
+      "latitude": 40.7769,
+      "longitude": -111.8744,
+      "description": "Wooded trails, creek, bridges, memorial gardens. Great for relaxed walks and nature discovery.",
+      "reviews": [
+        "One of the most peaceful places in Salt Lake City.",
+        "Nice trails and creek access.",
+        "Quiet spot to walk and let the kids enjoy nature."
+      ]
+    },
+    {
+      "name": "Union Park",
+      "category": "Parks",
+      "street": "7360 S 700 E",
+      "city": "Midvale",
+      "state": "UT",
+      "zip": "84047",
+      "latitude": 40.6177,
+      "longitude": -111.865,
+      "description": "Relaxed, mature park with open play space, traditional playground, mature shade trees, and tennis courts.",
+      "reviews": [
+        "Great little park. Perfect for young kids.",
+        "Love the big grassy areas and old trees.",
+        "Great for jogging and walking the dog too."
+      ]
+    },
+    {
+      "name": "Wardle Fields Regional Park",
+      "category": "Parks",
+      "street": "14148 S 2700 W",
+      "city": "Bluffdale",
+      "state": "UT",
+      "zip": "84065",
+      "latitude": 40.5153,
+      "longitude": -111.9359,
+      "description": "Gigantic kids’ destination: innovative playgrounds, two ziplines, splash pad, picnic/BBQ, and climbing walls.",
+      "reviews": [
+        "Amazing playground with unique structures and zipline.",
+        "The splash pad is always a hit with my kids.",
+        "Very busy in summer but so worth it.",
+        "Well maintained and lots to do."
+      ]
+    },
+    {
+      "name": "Oquirrh Shadows Park",
+      "category": "Parks",
+      "street": "10200 S 4000 W",
+      "city": "South Jordan",
+      "state": "UT",
+      "zip": "84095",
+      "latitude": 40.5752,
+      "longitude": -111.9788,
+      "description": "Neighborhood park known for updated play equipment, lawns, shaded picnic spots, and sports fields.",
+      "reviews": [
+        "Nice big playground, and it’s always clean.",
+        "Lots of space for kids to play.",
+        "Safe and well-kept, our favorite neighborhood park."
+      ]
+    },
+    {
+      "name": "Wheadon Farm Park",
+      "category": "Parks",
+      "street": "14125 S 1000 E",
+      "city": "Draper",
+      "state": "UT",
+      "zip": "84020",
+      "latitude": 40.5285,
+      "longitude": -111.8596,
+      "description": "Open lawns, walking paths, modern “farm style” playground with tractor features, courtyard.",
+      "reviews": [
+        "My kids love the tractor and farm-themed playground.",
+        "Great open space and safe play area.",
+        "Perfect for younger children."
+      ]
+    },
+    {
+      "name": "Riverton City Park",
+      "category": "Parks",
+      "street": "12800 S 1300 W",
+      "city": "Riverton",
+      "state": "UT",
+      "zip": "84065",
+      "latitude": 40.5176,
+      "longitude": -111.9391,
+      "description": "Multi-zone family park: several playgrounds, large splash pad, picnic shelters, event venue, sports fields.",
+      "reviews": [
+        "Lots of playground options and a fun splash pad.",
+        "Big park with plenty of open field.",
+        "Our go-to spot for family outings."
+      ]
+    },
+    {
+      "name": "Olympus Hills Park",
+      "category": "Parks",
+      "street": "3131 E 4500 S",
+      "city": "Holladay",
+      "state": "UT",
+      "zip": "84117",
+      "latitude": 40.6634,
+      "longitude": -111.7973,
+      "description": "Elevated park with unique climbing features and panoramic views. Perfect for casual play and sunset picnics.",
+      "reviews": [
+        "Unique climbing areas for kids, beautiful views.",
+        "Best park for sunsets and picnics.",
+        "Great for family photos."
+      ]
+    },
+    {
+      "name": "Hidden Valley Park",
+      "category": "Parks",
+      "street": "2860 Newcastle Dr",
+      "city": "Sandy",
+      "state": "UT",
+      "zip": "84093",
+      "latitude": 40.5485,
+      "longitude": -111.8219,
+      "description": "Quiet, open neighborhood park with big play structure, mountain views, and lots of grass for running.",
+      "reviews": [
+        "Large and quiet—plenty of space for kids to run.",
+        "Nice play structure and big grassy area.",
+        "We love to picnic here."
+      ]
+    },
+    {
+      "name": "South Jordan City Park",
+      "category": "Parks",
+      "street": "11000 S Redwood Rd",
+      "city": "South Jordan",
+      "state": "UT",
+      "zip": "84095",
+      "latitude": 40.5624,
+      "longitude": -111.9381,
+      "description": "All-ages community park with playground, pond, walking trails, and picnic areas.",
+      "reviews": [
+        "Beautiful park with a pond and big playground.",
+        "Always clean, and the kids love coming here.",
+        "Awesome walking trails and plenty of parking."
+      ]
+    },
+    {
+      "name": "Crestwood Park",
+      "category": "Parks",
+      "street": "1675 E Siesta Dr",
+      "city": "Sandy",
+      "state": "UT",
+      "zip": "84093",
+      "latitude": 40.5951,
+      "longitude": -111.8512,
+      "description": "Peaceful, smaller park with splash pad, mature trees, and a shallow creek.",
+      "reviews": [
+        "Splash pad is great and rarely crowded.",
+        "Nice creek for exploration.",
+        "Shady, peaceful, and good for little ones."
+      ]
+    },
+    {
+      "name": "Wildflower Park",
+      "category": "Parks",
+      "street": "12800 S 2700 W",
+      "city": "Riverton",
+      "state": "UT",
+      "zip": "84065",
+      "latitude": 40.5234,
+      "longitude": -111.9614,
+      "description": "Large grassy park with new playground, wildflower areas, walking trails, and benches.",
+      "reviews": [
+        "Fun equipment and open field, plus wildflowers in spring.",
+        "We walk here daily, very family friendly.",
+        "Quiet and well maintained."
+      ]
+    },
+    {
+      "name": "Willow Pond Park",
+      "category": "Parks",
+      "street": "6059 S Murray Pkwy Ave",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84123",
+      "latitude": 40.6467,
+      "longitude": -111.9149,
+      "description": "Large pond for fishing, ducks, shaded playground, pavilion for gatherings.",
+      "reviews": [
+        "Nice pond for fishing, lots of ducks.",
+        "Good shady playground—my kids had a blast.",
+        "The pond is nice and there are areas to picnic."
+      ]
+    }
+  ]
+}

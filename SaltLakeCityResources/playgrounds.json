@@ -1,0 +1,164 @@
+{
+  "category": "Playgrounds",
+  "totalResources": 10,
+  "resources": [
+    {
+      "name": "**Jump Around Utah**",
+      "category": "Playgrounds",
+      "street": "1519 S 700 W",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84104",
+      "latitude": 40.7376,
+      "longitude": -111.9208,
+      "description": "Large indoor inflatable playground, popular for drop-in play and birthday parties.",
+      "reviews": [
+        "The bounce floor was cool and the kids really liked the wind thing. Great for parties.",
+        "Facility is clean and you can rent the whole place for your event.",
+        "My kids had a blast, plenty of room to play."
+      ]
+    },
+    {
+      "name": "**Kangaroo Zoo**",
+      "category": "Playgrounds",
+      "street": "395 N Redwood Rd",
+      "city": "North Salt Lake",
+      "state": "UT",
+      "zip": "84054",
+      "latitude": 40.8422,
+      "longitude": -111.9408,
+      "description": "Multiple bounce houses, huge play structures, arcade area, and party packages.",
+      "reviews": [
+        "So clean, lots of bounce houses, comfortable seating for parents.",
+        "Staff is really friendly. The kids loved the big slides and giant play structure.",
+        "Awesome for birthday parties; air conditioned and comfortable."
+      ]
+    },
+    {
+      "name": "**The Little Gym of Salt Lake City**",
+      "category": "Playgrounds",
+      "street": "1400 Foothill Dr #250",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84108",
+      "latitude": 40.7479,
+      "longitude": -111.8282,
+      "description": "Movement-based indoor gym with equipment for kids 4 months to 12 years, offering classes, camps, and open play.",
+      "reviews": [
+        "My grandson loves the little gym. It's tailored to his age.",
+        "Great especially in the winter when kiddos are cooped up in the house and need to release some energy.",
+        "Wonderful instructors, clean facility."
+      ]
+    },
+    {
+      "name": "**West Valley City Family Fitness Center**",
+      "category": "Playgrounds",
+      "street": "5415 W 3100 S",
+      "city": "West Valley City",
+      "state": "UT",
+      "zip": "84120",
+      "latitude": 40.7004,
+      "longitude": -112.0204,
+      "description": "Huge rec center with indoor playground, pools, rock wall, and a kids’ “Edutainment Center.”",
+      "reviews": [
+        "We love the pool the most, but they also have a great indoor track, weight room, cardio area, racquetball courts, a kids play area.",
+        "My 4-year-old loves swimming here and the play center is always clean and fun.",
+        "Affordable and lots for kids to do."
+      ]
+    },
+    {
+      "name": "**Kids Empire (Salt Lake City)**",
+      "category": "Playgrounds",
+      "street": "1082 S 300 W",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7518,
+      "longitude": -111.9022,
+      "description": "Massive indoor playground with slides, climbing, ball pits, play mazes, and toddler zones.",
+      "reviews": [
+        "Perfect spot for a rainy day; our kids could stay for hours.",
+        "Clean, organized, and pretty secure for letting the kids roam.",
+        "Great for different ages and always wears my kids out."
+      ]
+    },
+    {
+      "name": "**Liberty Park**",
+      "category": "Playgrounds",
+      "street": "600 E 900 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "latitude": 40.746445,
+      "longitude": -111.874916,
+      "description": "Two updated playgrounds, splash pad, sports fields, wide lawns, and shaded paths—Salt Lake’s “Central Park.”",
+      "reviews": [
+        "The playgrounds are well maintained, and children seem to have a great time.",
+        "Great for family walks, kid fun, and always has plenty of people and dogs enjoying the space.",
+        "Lots to do for all ages, great for family time."
+      ]
+    },
+    {
+      "name": "**Sugar House Park**",
+      "category": "Playgrounds",
+      "street": "1330 E 2100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84106",
+      "latitude": 40.7226,
+      "longitude": -111.8545,
+      "description": "Huge park with new climbing-focused playground, walking paths, pond, and sledding hills.",
+      "reviews": [
+        "Playground is so fun. It has a lot of climbing structures.",
+        "Great for picnics, big hills for sledding, nice nature walks.",
+        "One of the best all-ages parks in the city."
+      ]
+    },
+    {
+      "name": "**Mountview Park**",
+      "category": "Playgrounds",
+      "street": "1651 E Fort Union Blvd",
+      "city": "Cottonwood Heights",
+      "state": "UT",
+      "zip": "84121",
+      "latitude": 40.6217,
+      "longitude": -111.8292,
+      "description": "Splash pad and large creative play structure. Lots of shade and seating.",
+      "reviews": [
+        "The kids love the water park and playground.",
+        "Always clean, feels safe, great for toddlers.",
+        "Has a relaxed vibe, little water area is perfect for summer."
+      ]
+    },
+    {
+      "name": "**Wild West Park**",
+      "category": "Playgrounds",
+      "street": "1513 W 7800 S",
+      "city": "West Jordan",
+      "state": "UT",
+      "zip": "84088",
+      "latitude": 40.6116,
+      "longitude": -111.9397,
+      "description": "Renovated playground with Wild West theme, sightlines for safety, and wide open areas.",
+      "reviews": [
+        "Fun upgrades and easy to keep track of the kids.",
+        "Great for parties and running around.",
+        "Lots of play options and history touches."
+      ]
+    },
+    {
+      "name": "**Wasatch Hollow Park**",
+      "category": "Playgrounds",
+      "street": "1631 E 1700 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "latitude": 40.7333,
+      "longitude": -111.8281,
+      "description": "Small playground with open grassy area, popular with local families.",
+      "reviews": [
+        "Peaceful and never too crowded, perfect for relaxed outings."
+      ]
+    }
+  ]
+}

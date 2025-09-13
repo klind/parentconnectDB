@@ -1,0 +1,193 @@
+{
+  "category": "Pediatricians",
+  "totalResources": 12,
+  "resources": [
+    {
+      "name": "Wasatch Pediatrics – Salt Lake Office",
+      "category": "Pediatricians",
+      "street": "909 E 100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84102",
+      "latitude": 40.7591,
+      "longitude": -111.8625,
+      "description": "Longtime, multi-physician practice. Warm office with same-day sick visits, newborn to teen care, and excellent provider access. Noted for their new, modern office (2025) and accepting nearly all major insurances.",
+      "reviews": [
+        "We absolutely love Dr. Kramer and Wasatch Pediatrics has been excellent to us. They've made everything about having kids to be less scary. Highly recommend.",
+        "All 3 of my children are seen by Dr. Laura Brown and we appreciate her!",
+        "The pediatricians are knowledgeable and caring. We get appointments same day if needed and appreciate how responsive they are to our children’s needs."
+      ]
+    },
+    {
+      "name": "Dr. Laura Brown, MD (Wasatch Pediatrics)",
+      "category": "Pediatricians",
+      "street": "50 N Medical Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84132",
+      "latitude": 40.7723,
+      "longitude": -111.8366,
+      "description": "Highly rated general pediatrician, known for listening, answering questions, and not rushing appointments—part of Wasatch Pediatrics at Primary Children's/University of Utah.",
+      "reviews": [
+        "Listened and answered all our questions, didn’t feel rushed.",
+        "Very friendly and great at explaining what’s going on.",
+        "Caring and thorough, always puts kids at ease."
+      ]
+    },
+    {
+      "name": "Dr. Suzanne Holbrook, MD",
+      "category": "Pediatricians",
+      "street": "1060 E 100 S Ste 400",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84102",
+      "latitude": 40.7634,
+      "longitude": -111.8595,
+      "description": "Pediatrician listed among SLC's top 3, fluent in multiple languages, praised for unrushed visits and thorough care.",
+      "reviews": [
+        "Appointment wasn't rushed, she listened and explained everything well.",
+        "Kind and patient, takes thorough notes—genuinely cares about children.",
+        "We trust her advice and she is easy to talk to as a parent."
+      ]
+    },
+    {
+      "name": "Dr. Karla Feindt, MD",
+      "category": "Pediatricians",
+      "street": "241 N 300 W",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84103",
+      "latitude": 40.7749,
+      "longitude": -111.9027,
+      "description": "Top-rated at 5.0 stars. Known for patience, trustworthiness, explaining conditions, and not rushing appointments.",
+      "reviews": [
+        "Explains things very well, never rushes us.",
+        "Absolutely trustworthy and kind.",
+        "Great with both kids and worried parents!"
+      ]
+    },
+    {
+      "name": "Dr. Cynthia Carmack, MD",
+      "category": "Pediatricians",
+      "street": "495 E 4500 S Ste 200",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.6777,
+      "longitude": -111.8727,
+      "description": "Veteran pediatrician affiliated with St. Mark’s Hospital, highly experienced, patients note great continuity of care.",
+      "reviews": [
+        "Dr. Carmack has been seeing my kids for years, always listens and cares.",
+        "Would recommend to anyone looking for a long-term pediatrician."
+      ]
+    },
+    {
+      "name": "Dr. Justin Alvey, MD",
+      "category": "Pediatricians",
+      "street": "100 N Mario Capecchi Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84113",
+      "latitude": 40.7674,
+      "longitude": -111.8387,
+      "description": "High patient ratings for answering questions, explaining conditions, and making families feel heard.",
+      "reviews": [
+        "Doesn’t rush through, listens carefully.",
+        "Always explains things in plain language.",
+        "Highly recommend for first-time parents!"
+      ]
+    },
+    {
+      "name": "Dr. Glen Frick, MD",
+      "category": "Pediatricians",
+      "street": "495 E 4500 S Ste 200",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.6777,
+      "longitude": -111.8727,
+      "description": "Senior pediatrician affiliated with St. Mark’s Hospital, noted for stability and experience.",
+      "reviews": [
+        "Has seen our whole family—very steady and kind."
+      ]
+    },
+    {
+      "name": "Dr. Sierra E. Burton, MD",
+      "category": "Pediatricians",
+      "street": "389 South 900 East",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84102",
+      "latitude": 40.7571,
+      "longitude": -111.8655,
+      "description": "5.0-star pediatrician, recognized for clear communication and a warm bedside manner.",
+      "reviews": [
+        "Amazing with kids, makes visits stress-free for parents.",
+        "Explains all the details, really listens.",
+        "We always feel welcome and never rushed."
+      ]
+    },
+    {
+      "name": "Busy Bee Pediatrics",
+      "category": "Pediatricians",
+      "street": "6770 S 900 E Ste 301",
+      "city": "Midvale",
+      "state": "UT",
+      "zip": "84047",
+      "latitude": 40.6266,
+      "longitude": -111.868,
+      "description": "Neighborhood favorite practice, praised for friendly staff, clean office, and short wait times.",
+      "reviews": [
+        "Nurses are so patient, office feels like family.",
+        "Easy to get last-minute appointments.",
+        "Provider makes even nervous kids feel comfortable."
+      ]
+    },
+    {
+      "name": "Willow Creek Pediatrics",
+      "category": "Pediatricians",
+      "street": "9350 S 150 E Suite 410",
+      "city": "Sandy",
+      "state": "UT",
+      "zip": "84070",
+      "latitude": 40.5807,
+      "longitude": -111.8817,
+      "description": "Well-loved suburban group practice, consistently praised in parent recommendations.",
+      "reviews": [
+        "Every doctor and nurse we’ve seen has been fantastic.",
+        "Our pediatrician takes time to answer all our questions.",
+        "The staff go above and beyond for families."
+      ]
+    },
+    {
+      "name": "Dr. Waterhouse (Sunnyside/Salt Lake County)",
+      "category": "Pediatricians",
+      "street": "825 S 300 E",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84111",
+      "latitude": 40.7487,
+      "longitude": -111.8839,
+      "description": "Adored by parents for supportive bedside manner and spending time with families.",
+      "reviews": [
+        "She takes time to talk with us, very kind and patient.",
+        "Has been such a great pediatrician for us—love her approach."
+      ]
+    },
+    {
+      "name": "Sunnyside Pediatrics (Now merged with Wasatch Pediatrics Salt Lake)",
+      "category": "Pediatricians",
+      "street": "909 E 100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84102",
+      "latitude": 40.7591,
+      "longitude": -111.8625,
+      "description": "Merged with Wasatch, still mentioned frequently for quality of care and family-centered focus.",
+      "reviews": [
+        "Always responsive, my kids love the doctors here.",
+        "Super supportive team, easy to reach with questions."
+      ]
+    }
+  ]
+}

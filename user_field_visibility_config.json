@@ -1,0 +1,12 @@
+{
+  "publicFields": [
+    "displayName",
+    "profileImageUrl",
+    "location.city",
+    "location.state",
+    "interests",
+    "friendsCount",
+    "childAgeRanges",
+    "bio"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "category": "Schools",
+  "totalResources": 10,
+  "resources": [
+    {
+      "name": "Northern Utah Academy for Math Engineering & Science (NUAMES)",
+      "category": "Schools",
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "latitude": 41.0497,
+      "longitude": -111.9681,
+      "description": "Ranked #1 best school district in Salt Lake City Area by Niche (2025). Focuses on rigorous STEM curriculum and college readiness with excellent teacher support and counseling.\n    \n- **Ratings & Reviews:**\n    - Niche overall grade: A+\n    - \"The best things about my school is that they are willing to help you with anything.\"\n    - \"Amazing counselors guiding us toward college and career.\"\n    - Graduation Rate: 97%",
+      "reviews": []
+    },
+    {
+      "name": "Academy For Math Engineering & Science (AMES)",
+      "category": "Schools",
+      "street": "5715 S 1300 E",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84121",
+      "latitude": 40.6589,
+      "longitude": -111.9098,
+      "description": "Top-ranked Utah high school emphasizing engineering and science. Offers Advanced Placement coursework and diverse extracurriculars. Known for strong academics and student engagement.\n    \n- **Ratings & Reviews:**\n    - US News rank: Top 10% in Utah\n    - Graduation Rate: 97%\n    - \"Teachers foster growth and challenge students every day.\"",
+      "reviews": []
+    },
+    {
+      "name": "Skyline High School",
+      "category": "Schools",
+      "street": "3251 E 3760 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84109",
+      "latitude": 40.6871,
+      "longitude": -111.7745,
+      "description": "One of Salt Lake City’s highest-rated traditional high schools with strong academics, athletics, and arts programs. Known for excellent graduation rates and college readiness.\n    \n- **Ratings & Reviews:**\n    - Graduation Rate: 96%\n    - \"Amazing community, great teachers, and wide AP course availability.\"\n    - “Safe and inclusive environment.”",
+      "reviews": []
+    },
+    {
+      "name": "Olympus High School",
+      "category": "Schools",
+      "street": "4570 S 2300 E",
+      "city": "Holladay",
+      "state": "UT",
+      "zip": "84124",
+      "latitude": 40.6512,
+      "longitude": -111.8021,
+      "description": "Highly rated school with a comprehensive curriculum including AP classes and strong extracurricular programs including music and sports.\n    \n- **Ratings & Reviews:**\n    - Graduation Rate: 90%\n    - \"Great opportunities and supportive staff.\"\n    - “My kids really thrive here.”",
+      "reviews": []
+    },
+    {
+      "name": "Waterford School",
+      "category": "Schools",
+      "street": "",
+      "city": "Sandy",
+      "state": "UT",
+      "zip": "",
+      "latitude": 40.58,
+      "longitude": -111.8667,
+      "description": "Utah’s top private school on many rankings, offering rigorous college preparatory curriculum, small class sizes, and strong liberal arts focus. Known for nurturing well-rounded students.\n    \n- **Ratings & Reviews:**\n    - Niche Grade: A+\n    - \"Exceptional academic program with caring, dedicated teachers.\"\n    - Student-teacher ratio: 7:1",
+      "reviews": []
+    },
+    {
+      "name": "Rowland Hall",
+      "category": "Schools",
+      "street": "",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "",
+      "latitude": 40.7765,
+      "longitude": -111.9589,
+      "description": "Prestigious independent school emphasizing global citizenship, arts, and STEM integrated curriculum. Welcoming community and high college placement success.\n    \n- **Ratings & Reviews:**\n    - Niche Grade: A+\n    - \"Supportive faculty, excellent arts programs, and rigorous academics.\"\n    - Student-teacher ratio: 9:1",
+      "reviews": []
+    },
+    {
+      "name": "Summit Academy (Charter)",
+      "category": "Schools",
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "latitude": null,
+      "longitude": null,
+      "description": "Known for a tight-knit community and strong academic programs with extracurricular emphasis and personalized learning approaches.\n    \n- **Community Reviews:**\n    - “Safe and nurturing learning environment.”\n    - “The teachers are passionate and involved.”",
+      "reviews": []
+    },
+    {
+      "name": "Cottonwood School",
+      "category": "Schools",
+      "street": "5205 Holladay Blvd",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84117",
+      "latitude": 40.7013,
+      "longitude": -111.8648,
+      "description": "Top-tier elementary school with strong academics, active parent involvement, and good arts and athletics programs.\n    \n- **Ratings & Reviews:**\n    - GreatSchools rating: 9/10\n    - “Teachers are supportive; good balance of academics and play.”",
+      "reviews": []
+    },
+    {
+      "name": "Crestview School",
+      "category": "Schools",
+      "street": "Salt Lake City, UT area",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "latitude": null,
+      "longitude": null,
+      "description": "",
+      "reviews": []
+    },
+    {
+      "name": "Eastwood School",
+      "category": "Schools",
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "latitude": null,
+      "longitude": null,
+      "description": "",
+      "reviews": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "category": "Libraries",
+  "totalResources": 10,
+  "resources": [
+    {
+      "name": "Salt Lake City Public Library – Main Library",
+      "category": "Libraries",
+      "street": "210 East 400 South",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84111",
+      "latitude": 40.7672,
+      "longitude": -111.8912,
+      "description": "A striking 240,000 sq ft, five-story architectural gem designed by Moshe Safdie, the Main Library is a hub for community learning and culture. It houses over 500,000 books, 150+ computers, a children’s section, auditorium, creative labs, café, and rooftop terrace with panoramic valley views. The atrium floods the space with natural light, creating inviting reading nooks and spaces for all ages. Outdoor spaces include Library Square with gardens and an amphitheater for concerts and events. The library offers numerous kids and teen programs, tech workshops, and author talks.",
+      "reviews": [
+        "The library is a fun place to visit, but the unique style of the Salt Lake City Library is worth a visit alone.",
+        "Love the children’s library section—the colorful, interactive areas keep my kids entertained for hours.",
+        "Beautiful building with friendly staff and lots of events for families.",
+        "Great space for quiet reading, computer use, and community engagement."
+      ]
+    },
+    {
+      "name": "Sprague Branch Library",
+      "category": "Libraries",
+      "street": "2131 South 1100 East",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84106",
+      "latitude": 40.7054,
+      "longitude": -111.8555,
+      "description": "A popular neighborhood branch with a cozy, welcoming atmosphere. Offers a well-stocked children’s area, family programs, storytimes, and community events. The Sprague Library is known for personalized, friendly service and is often praised for its quiet, relaxed environment.",
+      "reviews": [
+        "Sprague is perfect for my toddlers; very kid-friendly and comfortable.",
+        "Cozy and inviting with friendly staff always ready to help.",
+        "Great selection of children’s books and fun family activities throughout the year."
+      ]
+    },
+    {
+      "name": "Marmalade Branch Library",
+      "category": "Libraries",
+      "street": "280 West 500 North",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84103",
+      "latitude": 40.7751,
+      "longitude": -111.9135,
+      "description": "Nestled in the historic Marmalade neighborhood, this branch offers a broad selection of books and a robust children’s program. It’s known for its diverse collection and tranquil reading spaces, making it great for families seeking a quieter library visit.",
+      "reviews": [
+        "Love Marmalade for its great selection and peaceful vibe.",
+        "Kids storytime was engaging and the staff very welcoming.",
+        "A wonderful local library with a personal touch."
+      ]
+    },
+    {
+      "name": "Chapman Branch Library",
+      "category": "Libraries",
+      "street": "577 South 900 West",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84104",
+      "latitude": 40.7675,
+      "longitude": -111.9173,
+      "description": "Chapman offers modern facilities with plenty of computers, lively children’s programs, and a friendly atmosphere. Locals appreciate its cozy feel combined with a sizable catalog and helpful staff.",
+      "reviews": [
+        "My kids love the puppet shows and story hour here!",
+        "Warm, welcoming, and stocked with great kids’ books.",
+        "A great community spot with helpful, friendly librarians."
+      ]
+    },
+    {
+      "name": "Anderson-Foothill Branch Library",
+      "category": "Libraries",
+      "street": "1135 South 2100 East",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84108",
+      "latitude": 40.7131,
+      "longitude": -111.8376,
+      "description": "This branch has a large children’s area, computer access, and hosts family-friendly events regularly. The neighborhood branch is known for great volunteer-run activities and engaging summer reading programs.",
+      "reviews": [
+        "My go-to library for quiet study and exciting kids’ programs.",
+        "Wonderful staff and lots of fun things to do for kids.",
+        "A fantastic community library with a great collection."
+      ]
+    },
+    {
+      "name": "Glendale Branch Library",
+      "category": "Libraries",
+      "street": "1375 South Concord St",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84104",
+      "latitude": 40.7604,
+      "longitude": -111.922,
+      "description": "Glendale is a newer branch with up-to-date technology, vibrant kids’ spaces, and a variety of cultural programs. It serves a diverse community and offers bilingual storytimes and educational workshops.",
+      "reviews": [
+        "Bilingual storytime helps our family feel welcome.",
+        "Modern, clean, and stocked with lots of children’s books.",
+        "Staff are great with kids and very helpful."
+      ]
+    },
+    {
+      "name": "Day-Riverside Branch Library",
+      "category": "Libraries",
+      "street": "1575 West 1000 North",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84116",
+      "latitude": 40.7963,
+      "longitude": -111.9129,
+      "description": "A spacious branch with good parking, children’s resources, and access to computers. Offers family reading programs and a calm, quiet environment perfect for study and reading.",
+      "reviews": [
+        "A reliable spot for library homework help and great kids’ books.",
+        "Large collection and friendly workers.",
+        "Perfect for regular library visits with the family."
+      ]
+    },
+    {
+      "name": "Sweet Branch Library",
+      "category": "Libraries",
+      "street": "455 F Street",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84103",
+      "latitude": 40.7709,
+      "longitude": -111.8986,
+      "description": "Located in the Avenues neighborhood, Sweet Branch is family-friendly and known for its community art events, local author visits, and engaging children’s programming.",
+      "reviews": [
+        "A small but welcoming branch with plenty of kids’ activities.",
+        "Love the community feel and great events for families.",
+        "Great place for kids to explore books and crafts."
+      ]
+    },
+    {
+      "name": "Whitmore Branch Library",
+      "category": "Libraries",
+      "street": "2197 East Fort Union Blvd",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84121",
+      "latitude": 40.6361,
+      "longitude": -111.8106,
+      "description": "Whitmore offers a solid collection of children’s books, teen resources, and multimedia. It is a neighborhood favorite for storytime and homework help programs.",
+      "reviews": [
+        "Excellent children’s events and quiet study areas.",
+        "Friendly staff and very supportive for homeschooling families.",
+        "Lots of new books and a great place to bring the kids."
+      ]
+    },
+    {
+      "name": "FamilySearch Library",
+      "category": "Libraries",
+      "street": "35 N West Temple",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84150",
+      "latitude": 40.7739,
+      "longitude": -111.8974,
+      "description": "World-famous genealogical research library operated by The Church of Jesus Christ of Latter-day Saints. Offers extensive family history resources, free access to digital records, and helpful staff for genealogical assistance.",
+      "reviews": [
+        "The ultimate place for family history research.",
+        "Knowledgeable and friendly staff make it easy to navigate.",
+        "A must-visit for genealogy enthusiasts of all ages."
+      ]
+    }
+  ]
+}

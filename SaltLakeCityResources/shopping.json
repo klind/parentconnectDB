@@ -1,0 +1,78 @@
+{
+  "category": "Shopping",
+  "totalResources": 6,
+  "resources": [
+    {
+      "name": "City Creek Center",
+      "category": "Shopping",
+      "street": "50 S Main St",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7707,
+      "longitude": -111.8915,
+      "description": "City Creek Center is Salt Lake City’s premier, open-air yet covered shopping mall spanning two full city blocks. Featuring 95+ stores and restaurants, including over 20 exclusive to SLC, it impresses with beautiful architecture — fountains, a naturalized creek running through the galleria, and a retractable glass roof for inclement weather. It offers a family-friendly children’s play area and a mix of high-end and popular retail brands.\n\n**Highlights:**\n\n- More than 90 stores and dining options\n- Outdoor design with retractable roof\n- Children’s play area hosted by Real Salt Lake & Utah Royals\n- Summer Fitness Series and seasonal events\n    \n    **Top Reviews:**\n    \n- “Modern, clean, and beautiful—perfect year-round shopping with kids.”\n- “Great mix of stores and restaurants, the creek running through is so relaxing.”\n- “Loved the children’s play area, a nice break for the little ones.”",
+      "reviews": []
+    },
+    {
+      "name": "The Gateway",
+      "category": "Shopping",
+      "street": "400 W 100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7684,
+      "longitude": -111.9006,
+      "description": "The Gateway is a bustling open-air shopping and entertainment district centered on the historic Union Pacific Depot. It offers over 80 retail stores, from Abercrombie & Fitch to Barnes & Noble, plus plenty of dining options. Families can combine shopping with visits to the adjoining Discovery Gateway Children’s Museum or Clark Planetarium, making it a perfect all-in-one destination.\n\n**Highlights:**\n\n- Over 80 stores and restaurants\n- Adjacent to Discovery Gateway Children’s Museum and Clark Planetarium\n- Wide walkways and central plaza with fountain\n    \n    **Top Reviews:**\n    \n- “Perfect spot for families—shopping combined with fun kid venues nearby.”\n- “Great stores and the open-air environment makes for a relaxing stroll.”\n- “One of the best downtown destinations to grab a bite and shop.”",
+      "reviews": []
+    },
+    {
+      "name": "Trolley Square",
+      "category": "Shopping",
+      "street": "600 S 1300 E",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "latitude": 40.7599,
+      "longitude": -111.8755,
+      "description": "A historic shopping arcade that once housed trolleys and electric trains, now home to dozens of boutiques, gift shops, restaurants, and a flagship Whole Foods Market. Visitors can climb the iconic lighted water tower for panoramic views of Salt Lake City and the Wasatch Mountains. The complex features preserved trolley cars and interactive exhibits making it more than just a retail destination.\n\n**Highlights:**\n\n- Historic ambiance with boutique stores\n- Whole Foods flagship store\n- Panoramic city and mountain views\n    \n    **Top Reviews:**\n    \n- “Charming and unique, lots of local boutiques and great food.”\n- “The trolley cars and history add character to shopping here.”\n- “A great mix of shops and a perfect spot for gifts.”",
+      "reviews": []
+    },
+    {
+      "name": "The Shops at South Town",
+      "category": "Shopping",
+      "street": "10450 State St #2320",
+      "city": "Sandy",
+      "state": "UT",
+      "zip": "84070",
+      "latitude": 40.5692,
+      "longitude": -111.8804,
+      "description": "Utah’s largest shopping mall, The Shops at South Town offers 150 stores including 4 full-sized department stores and popular brands such as Bath & Body Works, REI, Old Navy, and Sephora. The mall features an indoor carousel and Momentum Indoor Climbing for fun activities beyond shopping.\n\n**Highlights:**\n\n- Largest mall in greater Salt Lake area\n- Indoor carousel and climbing wall entertainment\n- Wide variety of shopping and dining options\n    \n    **Top Reviews:**\n    \n- “Huge mall with something for everyone, including kids.”\n- “Love the carousel, made shopping fun for our toddlers.”\n- “Great place to spend a full shopping day under one roof.”",
+      "reviews": []
+    },
+    {
+      "name": "Fashion Place Mall",
+      "category": "Shopping",
+      "street": "6191 S State St",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.6397,
+      "longitude": -111.8846,
+      "description": "Fashion Place Mall is a premier upscale shopping center just south of Salt Lake City with anchors like Macy’s, Nordstrom, and Dillard’s. It also features trendy stores such as Zara, H&M, and Urban Outfitters plus dining like Brio Tuscan Grille and Red Rock Brewing Co.\n\n**Highlights:**\n\n- Upscale shopping with major department stores\n- Diverse dining options on site\n- Convenient for suburban shoppers near Murray\n    \n    **Top Reviews:**\n    \n- “Great mix of shops and dining—a go-to for fashion upgrades.”\n- “Always clean and easy to navigate.”\n- “Excellent parking and friendly staff.”",
+      "reviews": []
+    },
+    {
+      "name": "9th & 9th Neighborhood",
+      "category": "Shopping",
+      "street": "901-913 E 900 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "latitude": 40.7304,
+      "longitude": -111.8607,
+      "description": "An eclectic, artistic neighborhood packed with boutique shops, trendy restaurants, gift stores, children’s clothing stores, and unique local retailers. Popular with locals for its quirky vibe and community-focused small businesses. Highlights include Hip & Humble (gift shop), Koo De Ker (women’s fashion), and The Children’s Hour (kids’ apparel).\n\n**Highlights:**\n\n- Local boutiques and artisanal shops\n- Trendy eateries and gelato spots\n- Family-friendly, walkable neighborhood vibe\n    \n    **Top Reviews:**\n    \n- “Perfect for finding unique gifts and stylish children’s clothes.”\n- “Great place for strolling with kids and stopping for gelato.”\n- “Loved the local vibe and boutique offerings.”",
+      "reviews": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "category": "Museums",
+  "totalResources": 10,
+  "resources": [
+    {
+      "name": "**Natural History Museum of Utah**",
+      "category": "Museums",
+      "street": "301 Wakara Way",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84108",
+      "latitude": 40.765,
+      "longitude": -111.8221,
+      "description": "World-renowned museum with hands-on paleontology, dinosaur skeletons, fossils from the Cleveland-Lloyd Dinosaur Quarry, and interactive exhibits on Utah's ecology, native cultures, minerals, and more. Excellent for kids and families.",
+      "reviews": [
+        "A museum that appeals to all ages. My kids keep running back to the dinosaur exhibits!",
+        "Stunning architecture and the interactive displays make learning fun.",
+        "Incredible fossil collection—our favorite museum in the city.",
+        "We love visiting every year as the kids grow; always something new to see."
+      ]
+    },
+    {
+      "name": "**Discovery Gateway Children’s Museum**",
+      "category": "Museums",
+      "street": "444 W 100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7671,
+      "longitude": -111.9057,
+      "description": "Interactive, play-focused museum for children of all ages—features a water play area, construction zone, miniature town, climbing structure, science experiments, and more. Designed for families to explore and learn together.",
+      "reviews": [
+        "My kids never want to leave! There are so many fun, educational things to try.",
+        "Great for toddlers and little kids, lots of sensory and pretend play areas.",
+        "A must for families with young children visiting Salt Lake."
+      ]
+    },
+    {
+      "name": "**The Leonardo**",
+      "category": "Museums",
+      "street": "209 E 500 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84111",
+      "latitude": 40.7591,
+      "longitude": -111.8817,
+      "description": "Innovative museum combining science, technology, and art to inspire creativity and curiosity. Interactive exhibits cover flight, robotics, the human body, art, and engineering. Popular for kids, teens, and adults.",
+      "reviews": [
+        "The hands-on science exhibits were a huge hit with my son!",
+        "Unique blend of art and science—different from any other museum here.",
+        "Got my kids asking lots of questions (and wanting to come back)."
+      ]
+    },
+    {
+      "name": "**Clark Planetarium**",
+      "category": "Museums",
+      "street": "110 S 400 W",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7672,
+      "longitude": -111.9049,
+      "description": "Explore the solar system and beyond with interactive astronomy exhibits, a star theater, IMAX films, and more. Free exhibit floor; tickets for dome shows. Best for science-curious families.",
+      "reviews": [
+        "Free admission to the exhibits is awesome! My kids are fascinated by the space and weather galleries.",
+        "IMAX and dome theaters are top notch.",
+        "Great for school-age kids and space lovers."
+      ]
+    },
+    {
+      "name": "**Utah Museum of Fine Arts**",
+      "category": "Museums",
+      "street": "410 Campus Center Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84112",
+      "latitude": 40.7619,
+      "longitude": -111.8497,
+      "description": "Collection of 15,000+ artworks from around the world, spanning 5,000 years. Kid-friendly programs, art hunts, and family days throughout the year.",
+      "reviews": [
+        "Wonderful variety of art and fun activities for kids.",
+        "My daughter loved the kids’ scavenger hunt.",
+        "Quiet, relaxing, and educational even for young children."
+      ]
+    },
+    {
+      "name": "**Utah Museum of Contemporary Art (UMOCA)**",
+      "category": "Museums",
+      "street": "20 S West Temple",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7682,
+      "longitude": -111.8938,
+      "description": "Rotating contemporary visual arts, art workshops, and interactive installations. Family art activities available.",
+      "reviews": [
+        "Love seeing new, thought-provoking art every visit.",
+        "Not huge but great for an hour with curious kids.",
+        "Staff are friendly and great with children."
+      ]
+    },
+    {
+      "name": "**This Is The Place Heritage Park**",
+      "category": "Museums",
+      "street": "2601 Sunnyside Ave S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84108",
+      "latitude": 40.7502,
+      "longitude": -111.8115,
+      "description": "Living history village with pioneer houses, train rides, farm animals, pony rides, gemstone panning, and interactive demonstrations—amazing for kids wanting hands-on history.",
+      "reviews": [
+        "So much for the kids to do! Gem panning was a favorite.",
+        "Informative and fun for the whole family.",
+        "Younger children loved the animals and crafts."
+      ]
+    },
+    {
+      "name": "**Chase Home Museum of Utah Folk Arts**",
+      "category": "Museums",
+      "street": "1150 S 600 E",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84105",
+      "latitude": 40.7472,
+      "longitude": -111.8727,
+      "description": "Free museum in Liberty Park showcasing Utah’s folk and ethnic arts, including music, dance, crafts, and traditions. Exhibits rotate and often include interactive family events.",
+      "reviews": [
+        "Loved learning about Utah’s diverse backgrounds.",
+        "Small, quick visit—great as part of a park outing.",
+        "Staff are welcoming and love sharing stories."
+      ]
+    },
+    {
+      "name": "**Pioneer Memorial Museum**",
+      "category": "Museums",
+      "street": "300 N Main St",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84103",
+      "latitude": 40.7773,
+      "longitude": -111.887,
+      "description": "Historic artifacts, carriages, pioneer clothing, toys, and art—a glimpse of 1800s life, with plenty for kids to recognize and explore.",
+      "reviews": [
+        "We loved seeing the pioneer wagons and toys.",
+        "Massive collection, fascinating even for young kids.",
+        "Free and really informative."
+      ]
+    },
+    {
+      "name": "**Land Cruiser Heritage Museum**",
+      "category": "Museums",
+      "street": "470 W 600 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.7557,
+      "longitude": -111.906,
+      "description": "Unique museum featuring vintage Toyota Land Cruisers and vehicles—lots of family-friendly events and plenty to see for car lovers.",
+      "reviews": [
+        "Our family loved the collection—even the non-car lovers.",
+        "Hands down the best vehicle museum I’ve visited.",
+        "Great destination for a dad-and-kids trip."
+      ]
+    }
+  ]
+}

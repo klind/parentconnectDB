@@ -1,0 +1,90 @@
+{
+  "category": "Hospitals",
+  "totalResources": 7,
+  "resources": [
+    {
+      "name": "University of Utah Health, University of Utah Hospital",
+      "category": "Hospitals",
+      "street": "50 N Medical Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84132",
+      "latitude": 40.768,
+      "longitude": -111.8411,
+      "description": "The flagship academic medical center in Utah, nationally ranked in two adult specialties including ophthalmology (#10) and rehabilitation (#27). Offers comprehensive specialty and trauma care, cancer treatment via Huntsman Cancer Institute (ranked #33 nationally), cutting-edge research, and a deeply integrated teaching hospital environment. Recognized for world-class eye care, cancer care, and a broad spectrum of advanced medical services.\n    \n- **Reviews & Reputation:**\n    - Ranked #1 hospital in Salt Lake City metro area by U.S. News & World Report for 9+ consecutive years.\n    - Praised for expert, compassionate care and leading-edge technology.\n    - Staff and patients highlight exceptional ophthalmology department and innovative treatments.\n    - Huntsman Cancer Institute highly regarded for quality cancer care and research.\n    - Rehabilitation hospital nationally ranked.\n    - Some staff reviews report University of Utah has a positive workplace culture compared to competitors.",
+      "reviews": []
+    },
+    {
+      "name": "Intermountain Medical Center",
+      "category": "Hospitals",
+      "street": "5121 Cottonwood St",
+      "city": "Murray",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.6575,
+      "longitude": -111.8979,
+      "description": "One of the largest hospitals in Utah, part of Intermountain Healthcare system. Known for high performance in multiple specialties and procedures, with a strong focus on patient safety, outcomes, and comprehensive acute care services including trauma, surgery, cardiology, and women's health. Highly rated within Salt Lake City metro for clinical excellence and wide-ranging services.\n    \n- **Reviews & Reputation:**\n    - Ranked #2 in Salt Lake City metro area by U.S. News & World Report.\n    - High Performing in 14 procedures and conditions.\n    - Patient feedback notes good quality care and clinical expertise.\n    - Some concerns noted by staff regarding workload and management styles.\n    - Strong emergency and surgical care reputation.",
+      "reviews": []
+    },
+    {
+      "name": "CommonSpirit Holy Cross Hospital - Salt Lake",
+      "category": "Hospitals",
+      "street": "737 E 3900 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.689,
+      "longitude": -111.8371,
+      "description": "Historic acute care hospital providing compassionate care and advanced medical treatment. Offers a broad range of services including emergency care, surgical specialties, maternity, and rehabilitation. Emphasizes community care, dignity, and integrity with a strong volunteer program supporting patient wellbeing.\n    \n- **Reviews & Reputation:**\n    - Well regarded for patient focused care and comprehensive services.\n    - Staff recognized for compassion and dedication.\n    - Good community hospital with a reliable reputation.",
+      "reviews": []
+    },
+    {
+      "name": "St. Mark’s Hospital",
+      "category": "Hospitals",
+      "street": "1200 E Winchester St",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84107",
+      "latitude": 40.6591,
+      "longitude": -111.8463,
+      "description": "A well-known community hospital in the Salt Lake Valley offering surgical care, maternity services, and specialty clinics. Focuses on whole-person care with expansions in cancer care and orthopedic services.\n    \n- **Reviews & Reputation:**\n    - Positive patient reviews for attentive nursing and clean facilities.\n    - Popular for childbirth and joint replacement.\n    - Offers advanced imaging and outpatient services.",
+      "reviews": []
+    },
+    {
+      "name": "Riverton Hospital (Intermountain)",
+      "category": "Hospitals",
+      "street": "3741 W 12600 S",
+      "city": "Riverton",
+      "state": "UT",
+      "zip": "84065",
+      "latitude": 40.5344,
+      "longitude": -111.9395,
+      "description": "Community hospital providing emergency, surgical, and inpatient services with emphasis on convenience for southwest Salt Lake County residents. Part of the Intermountain Health network offering consistent high-quality care standards.\n    \n- **Reviews & Reputation:**\n    - Praised for friendly and helpful staff.\n    - Good emergency and outpatient care.\n    - Convenient location for families.",
+      "reviews": []
+    },
+    {
+      "name": "George E. Wahlen VA Medical Center",
+      "category": "Hospitals",
+      "street": "500 Foothill Dr",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84148",
+      "latitude": 40.7266,
+      "longitude": -111.8354,
+      "description": "Veterans Affairs hospital specializing in veteran healthcare with comprehensive inpatient and outpatient services, including mental health, rehabilitation, and specialty clinics. Highly specialized for veteran needs and trauma care.\n    \n- **Reviews & Reputation:**\n    - Valuable resource for veterans with tailored services.\n    - Recognized for dedication and quality of veteran-focused treatment.\n    - Some feedback highlights delays typical in VA system but overall positive patient experience.",
+      "reviews": []
+    },
+    {
+      "name": "Intermountain Health McKay-Dee Hospital",
+      "category": "Hospitals",
+      "street": "4401 Harrison Blvd",
+      "city": "Ogden",
+      "state": "UT",
+      "zip": "84403",
+      "latitude": 41.2213,
+      "longitude": -111.9694,
+      "description": "Regional hospital part of Intermountain Healthcare, with specialties in cardiac care, orthopedics, neurology, and maternity. High performing in multiple procedures and conditions.\n    \n- **Reviews & Reputation:**\n    - Well-reviewed for quality and clean environment.\n    - Strong community presence and accessible care.",
+      "reviews": []
+    }
+  ]
+}

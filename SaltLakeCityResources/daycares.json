@@ -1,0 +1,158 @@
+{
+  "category": "Daycares",
+  "totalResources": 10,
+  "resources": [
+    {
+      "name": "La Petite Academy of Salt Lake City",
+      "category": "Daycares",
+      "street": "6955 S. 2300 East",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84121",
+      "latitude": 40.745,
+      "longitude": -111.89,
+      "description": "Licensed daycare offering early education services focusing on hands-on learning that promotes social, emotional, physical, and intellectual development. Programs include infant care through preschool with nurturing environments.",
+      "reviews": [
+        "Consistent care and great communication with parents.",
+        "My child loves the activities and the teachers are very caring."
+      ]
+    },
+    {
+      "name": "Challenger School – Salt Lake City",
+      "category": "Daycares",
+      "street": "4555 S 2300 E",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84117",
+      "latitude": 40.6617,
+      "longitude": -111.8302,
+      "description": "Private preschool and daycare program focused on early academic readiness and personal growth. Known for a structured curriculum and strong parent communication.",
+      "reviews": [
+        "Challenger's balance of academics and play is ideal.",
+        "Excellent staff and engaging learning programs for young children."
+      ]
+    },
+    {
+      "name": "Learn and Play Daycare",
+      "category": "Daycares",
+      "street": "2836 S 5600 W",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84104",
+      "latitude": 40.6755,
+      "longitude": -112.0228,
+      "description": "Licensed daycare center serving up to 108 children with a structured group care setting. Focus on social development and early learning with safe indoor and outdoor play spaces.",
+      "reviews": [
+        "Spacious facility with caring staff and structured activities.",
+        "Plenty of outdoor play areas and great staff engagement."
+      ]
+    },
+    {
+      "name": "Boo Boo's Child Care",
+      "category": "Daycares",
+      "street": "",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "",
+      "latitude": 40.74,
+      "longitude": -111.9,
+      "description": "Licensed home daycare serving up to 16 children. Emphasis on play-based learning in a family-like environment, fostering social and emotional growth.",
+      "reviews": [
+        "Homey environment with nurturing caregivers.",
+        "Small group size lets kids get lots of personal attention."
+      ]
+    },
+    {
+      "name": "Bright Horizons Salt Lake City Locations",
+      "category": "Daycares",
+      "street": "25 S Rio Grande St",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84101",
+      "latitude": 40.767,
+      "longitude": -111.9048,
+      "description": "Nationally recognized daycare and preschool with flexible schedules, inclusive curriculum focused on school readiness, emotional intelligence, and cooperative play. Accommodates special needs children as well.",
+      "reviews": [
+        "Teachers are wonderful and truly care about each child's progress.",
+        "Excellent communication and clean, safe environment.",
+        "My child gained so much confidence and social skills here."
+      ]
+    },
+    {
+      "name": "Bright Horizons U of U Research Park",
+      "category": "Daycares",
+      "street": "419 Wakara Way Suite 100",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84108",
+      "latitude": 40.7608,
+      "longitude": -111.8287,
+      "description": "Nationally recognized daycare and preschool with flexible schedules, inclusive curriculum focused on school readiness, emotional intelligence, and cooperative play. Accommodates special needs children as well.",
+      "reviews": [
+        "Teachers are wonderful and truly care about each child's progress.",
+        "Excellent communication and clean, safe environment.",
+        "My child gained so much confidence and social skills here."
+      ]
+    },
+    {
+      "name": "Montessori School of Salt Lake",
+      "category": "Daycares",
+      "street": "980 E 300 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84102",
+      "latitude": 40.7682,
+      "longitude": -111.8786,
+      "description": "Early childhood education center using Montessori philosophy emphasizing hands-on learning, independence, and social-emotional development. Accredited and highly rated for quality care.",
+      "reviews": [
+        "A calm, nurturing environment with amazing teachers.",
+        "My child learned to love school here and developed independence."
+      ]
+    },
+    {
+      "name": "ABC Great Beginnings",
+      "category": "Daycares",
+      "street": "West Valley City, Clearfield, Murray, Riverton, Riverdale, West Jordan, Sandy, South Jordan, South Ogden, Jordan Landing, and Saratoga Springs",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "latitude": null,
+      "longitude": null,
+      "description": "Expertly designed programs for children 6 weeks to 12 years, emphasizing safety, child development, and learning enrichment. Transportation and playground safety standards exceed norms.",
+      "reviews": [
+        "My child has flourished here; curriculum is excellent.",
+        "They truly put safety and student well-being first."
+      ]
+    },
+    {
+      "name": "Child Time Inc – Preschool & Daycare",
+      "category": "Daycares",
+      "street": "",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "",
+      "latitude": null,
+      "longitude": null,
+      "description": "Highly-rated center focusing on kindergarten readiness, safe environment, and developmentally appropriate curriculum.",
+      "reviews": [
+        "Great communication and my child loves going to school.",
+        "Caring staff and well-run programs."
+      ]
+    },
+    {
+      "name": "Neighborhood House",
+      "category": "Daycares",
+      "street": "",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "",
+      "latitude": null,
+      "longitude": null,
+      "description": "Community-centered daycare and preschool services that offer sliding fee scales and family support. Full-day programs with early education focus, making them more affordable and accessible.",
+      "reviews": [
+        "Affordability and quality combined; a great neighborhood resource.",
+        "My child received personal attention and quality early learning."
+      ]
+    }
+  ]
+}
